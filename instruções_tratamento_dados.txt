@@ -1,0 +1,7 @@
+Utilização:
+VSCODE - Plataforma utilizada
+EXTENSOES DO VSCODE: Python, Jupyter (fora utilização dos pip install[ex: Pandas])
+
+Codigos: tratamento_dados.ipynb
+
+

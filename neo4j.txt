@@ -1,0 +1,141 @@
+**
+Exportar os arquivos csv para a pasta do import
+avaliacoes_tratado, jogos_com_meta_tratado, usuarios_tratado
+
+
+**
+Ir no diretório do usuário e reconfigurar neo4j.conf
+server.memory.heap.initial_size=1G
+server.memory.heap.max_size=5G
+server.memory.pagecache.size=1G
+
+//Importando Jogos
+LOAD CSV WITH HEADERS FROM "file:///jogos_com_meta_tratado.csv" AS games
+FIELDTERMINATOR ','
+CREATE (:Jogo {jogo_id:games.jogo_id, titulo:games.titulo, data_lancamento:games.data_lancamento, windows:games.win, mac:games.mac,  linux:games.linux, avaliacao:games.avaliacao, feedback_positivo:games.feedback_positivo, qtd_avaliacoes:games.qtd_avaliacoes, preco_final:games.preco_final, preco_original:games.preco_original, desconto:games.desconto, descricao:games.descricao, tags:games.tags})
+
+//Retornando jogos
+MATCH (j:Jogo)
+RETURN j
+LIMIT 25
+
+//Importando Usuarios
+LOAD CSV WITH HEADERS FROM "file:///usuarios_tratado.csv" AS users
+FIELDTERMINATOR ','
+CREATE (:Usuario {usuario_id:users.usuario_id, qtd_jogos:users.qtd_jogos, qtd_avaliacoes:users.qtd_avaliacoes})
+
+//Retornando Usuarios
+MATCH (u:Usuario)
+RETURN u 
+LIMIT 25
+
+
+//Importando avaliações
+LOAD CSV WITH HEADERS FROM "file:///avaliacoes_tratado.csv" AS avaliacoes
+FIELDTERMINATOR ','
+CREATE (:Avaliacao {avaliacao_id:avaliacoes.avaliacao_id, jogo_id:avaliacoes.jogo_id, util:avaliacoes.util, engraçado:avaliacoes.engracado, data:avaliacoes.data, é_recomendado:avaliacoes.e_recomendado, horas_jogadas:avaliacoes.horas_jogadas, usuario_id:avaliacoes.usuario_id})
+
+//Retornando avaliações
+MATCH (a:Avaliacao)
+RETURN a
+LIMIT 25
+
+
+#//Importando METADATA
+#//WITH "file:///jogos_metadata.json" as url
+#//CALL apoc.load.json(url) YIELD value AS descricao
+#//MERGE (d:Descricao {jogo_id: descricao.jogo_id, descrição:descricao.descricao, tags:descricao.tags})
+
+
+//Indices
+CREATE INDEX idx_idusuario FOR (u:Usuario)
+ON (u.usuario_id)
+
+CREATE INDEX idx_idjogo FOR (j:Jogo)
+ON (j.jogo_id)
+
+CREATE INDEX idx_idavaliacao FOR (a:Avaliacao)
+ON (a.avaliacao_id)
+
+
+
+//Criando Relacionamentos
+
+#//Relacionamento de Jogos com Descrição
+#MATCH (j:Jogo), (d:Descricao)
+#WHERE j.jogo_id = d.jogo_id
+#CREATE (j)-[b:TEM_DESCRICAO]->(d)
+
+//Relacionamentos jogos avalição e usuario
+MATCH (j:Jogo),(u:Usuario),(a:Avaliacao)
+WHERE j.jogo_id = a.jogo_id
+AND u.usuario_id = a.usuario_id
+AND a.usuario_id = u.usuario_id
+MERGE (j)-[av:RECEBE_AVALIACAO]->(u)-[re:REALIZA_AVALIACAO]->(a)
+WITH COUNT(*) AS AFFECTED
+RETURN *
+
+
+//Recomendação de jogo com mais avaliacoes
+MATCH (j:Jogo)
+RETURN j.titulo, j.qtd_avaliacoes
+ORDER BY j.qtd_avaliacoes DESC
+LIMIT 10
+
+//Recomendação de jogo com melhor feedback_positivo
+MATCH (j:Jogo)
+RETURN j.titulo, j.feedback_positivo, j.qtd_avaliacoes
+ORDER BY j.feedback_positivo DESC
+LIMIT 10
+
+//Jogos maiores precos
+MATCH (j:Jogo)
+RETURN j.titulo, j.preco_final
+ORDER BY j.preco_final DESC
+LIMIT 5
+
+//Recomenda usuarios que comendaram o mesmo jogo
+MATCH (u1:Usuario)-[r:REALIZA_AVALIACAO]->(a1:Avaliacao)
+MATCH (u2:Usuario)-[r2:REALIZA_AVALIACAO]->(a2:Avaliacao)
+WHERE u1.usuario_id <> u2.usuario_id AND a1.jogo_id = a2.jogo_id AND a1.`é_recomendado` = a2.`é_recomendado`
+RETURN u1.usuario_id, u2.usuario_id
+LIMIT 5
+
+
+//Recomenda os mesmo usuarios que recomendaram o mesmo jogo(call of dutty = 1938090) que o usuario(4344364)
+MATCH (u1:Usuario)-[r:REALIZA_AVALIACAO]->(a1:Avaliacao)
+MATCH (u2:Usuario)-[r2:REALIZA_AVALIACAO]->(a2:Avaliacao)
+WHERE u1.usuario_id="4344364" <> u2.usuario_id  AND a1.jogo_id="1938090" AND  a2.jogo_id ="1938090" AND a1.`é_recomendado` = a2.`é_recomendado`
+
+
+//Recomenda os mesmo usuarios que recomendaram o mesmo jogo(call of dutty = 1938090) que o usuario(4344364) e que os a quantidade de jogos do usuario comparado seja maior que a do usuario(4344364)
+MATCH (u1:Usuario)-[r:REALIZA_AVALIACAO]->(a1:Avaliacao)
+MATCH (u2:Usuario)-[r2:REALIZA_AVALIACAO]->(a2:Avaliacao)
+WHERE u1.usuario_id="4344364" <> u2.usuario_id  AND a1.jogo_id="1938090" AND  a2.jogo_id ="1938090" AND a1.`é_recomendado` = a2.`é_recomendado` AND u2.qtd_jogos>u1.qtd_jogos
+RETURN u1.usuario_id, u2.usuario_id
+
+//Recomenda os mesmo usuarios que recomendaram o mesmo jogo(call of dutty = 1938090) que o usuario(4344364) e que os a quantidade de jogos do usuario comparado seja maior que a do usuario(4344364) E quantidade horas seja maior que 40hrs
+MATCH (u1:Usuario)-[r:REALIZA_AVALIACAO]->(a1:Avaliacao)
+MATCH (u2:Usuario)-[r2:REALIZA_AVALIACAO]->(a2:Avaliacao)
+WHERE u1.usuario_id="4344364" <> u2.usuario_id  AND a1.jogo_id="1938090" AND  a2.jogo_id ="1938090" AND a1.`é_recomendado` = a2.`é_recomendado` AND a2.horas_jogadas > "40.00" AND u2.qtd_jogos>u1.qtd_jogos
+RETURN a1.usuario_id, a2.usuario_id 
+
+//Cria a mesma relacao acima /\ porem em nós
+MATCH (u1:Usuario)-[r:REALIZA_AVALIACAO]->(a1:Avaliacao)
+MATCH (u2:Usuario)-[r2:REALIZA_AVALIACAO]->(a2:Avaliacao)
+WHERE u1.usuario_id="4344364" <> u2.usuario_id  AND a1.jogo_id="1938090" AND  a2.jogo_id ="1938090" AND a1.`é_recomendado` = a2.`é_recomendado` AND a2.horas_jogadas > "40.00" AND u2.qtd_jogos>u1.qtd_jogos
+CREATE (u1)-[mv:REALIZOU_MESMA_RECOMENDACAO_JOGO]->(u2)
+
+
+//Recomenda jogos relacionados aos jogos avaliado por usuários que jogaram (CALL OF DUTTY)
+MATCH (j:Jogo{titulo: 'Call of Duty®: Modern Warfare® II'})-[:RECEBE_AVALIACAO]->(u:Usuario)
+MATCH (j2:Jogo)-[:RECEBE_AVALIACAO]->(u)
+WHERE j <> j2
+RETURN DISTINCT j2.titulo
+
+
+//Recomenda jogos relacionados ao jogo avaliado por usuários que jogaram (CALL OF DUTTY) e que o jogo recomendado tenha o feedback maior e que seja da categoria FPS
+MATCH (j:Jogo{titulo: 'Call of Duty®: Modern Warfare® II'})-[:RECEBE_AVALIACAO]->(u:Usuario)
+MATCH (j2:Jogo)-[:RECEBE_AVALIACAO]->(u)
+WHERE j <> j2 AND j2.feedback_positivo > j.feedback_positivo AND j2.tags=~ '(?i).*fps.*'
+RETURN DISTINCT j2.titulo

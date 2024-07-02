@@ -1,0 +1,31 @@
+*Antes precisa instalar o Mongo [instalar certim, com os negocio de mongod] e o SQL BOOSTER https://www.mongodb.com/try/download/database-tools(para dar import)
+* Depois precisa criar o banco no mongo compass, no caso ai o (PI2), e colocar os dois arquivos CSV nesta pasta (C:\data)[caso nao tenha, crie ou pegue o caminho dos csvs]
+*Ir no CMD(Prompt de Comando), digitar "cd C:\Program Files\MongoDB\Server\6.0\bin" [se instalou outra versao ou em outro caminho, tem que adaptar], e depois dar os dois comandos abaixo(um de cada vez):
+
+#Import das bases normais
+mongoimport --db PI2 --collection jogos --type csv --headerline --file c:\data\jogos_tratado.csv
+mongoimport --db PI2 --collection avaliacoes --type csv --headerline --file c:\data\avaliacoes_tratado.csv
+mongoimport --db PI2 --collection usuarios --type csv --headerline --file c:\data\usuarios_tratado.csv
+mongoimport --db PI2 --collection jogos_metadata --file c:\data\jogos_metadata.json
+
+
+#Import das bases 12/2022
+mongoimport --db PI2 --collection jogos_12_22 --type csv --headerline --file c:\data\jogos_com_meta_tratado.csv
+mongoimport --db PI2 --collection avaliacoes_12_22 --type csv --headerline --file c:\data\avaliacoes_tratado.csv
+mongoimport --db PI2 --collection usuarios_12_22 --type csv --headerline --file c:\data\usuarios_tratado.csv
+
+
+
+*Para testar no SQL Booster, CTRL+T para abrir um novo .js e colocar o codigo abaixo[um de cada vez nos dois ultimos]
+use "PI2"
+
+//Busca bases
+db.jogos.find()
+db.avaliacoes.find()
+db.usuarios.find()
+db.jogos_metadata()
+
+db.jogos_12_22.find()
+db.avaliacoes_12_22.find()
+db.usuarios_12_22.find()
+

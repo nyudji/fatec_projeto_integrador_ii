@@ -1,0 +1,2053 @@
+jogo_id,titulo,data_lancamento,win,mac,linux,avaliacao,feedback_positivo,qtd_avaliacoes,preco_final,preco_original,desconto
+10090,Call of Duty: World at War,2008-11-18,True,False,False,Very Positive,92,37039,19.99,19.99,0.0
+13500,Prince of Persia: Warrior Within™,2008-11-21,True,False,False,Very Positive,84,2199,9.99,9.99,0.0
+113020,Monaco: What's Yours Is Mine,2013-04-24,True,True,True,Very Positive,92,3722,14.99,14.99,0.0
+226560,Escape Dead Island,2014-11-18,True,False,False,Mixed,61,873,14.99,14.99,0.0
+250180,METAL SLUG 3,2015-09-14,True,False,False,Very Positive,90,5579,7.99,7.99,0.0
+253980,Enclave,2013-10-04,True,True,True,Mostly Positive,75,1608,4.99,4.99,0.0
+261550,Mount & Blade II: Bannerlord,2022-10-25,True,False,False,Very Positive,87,169694,49.99,49.99,0.0
+19810,The Sum of All Fears,2008-10-10,True,False,False,Mostly Positive,75,33,9.99,9.99,0.0
+15270,Cold Fear™,2008-05-13,True,False,False,Very Positive,85,800,9.99,9.99,0.0
+21130,LEGO® Harry Potter: Years 1-4,2010-06-25,True,False,False,Very Positive,85,5169,19.99,19.99,0.0
+22130,Hearts of Iron 2 Complete,2009-01-23,True,False,False,Very Positive,85,462,14.99,14.99,0.0
+29180,Osmos,2009-08-18,True,True,True,Very Positive,88,532,9.99,9.99,0.0
+32750,Comanche 4,2009-06-18,True,False,False,Very Positive,90,222,9.99,9.99,0.0
+244910,Homesick,2015-05-28,True,False,False,Mostly Positive,77,1139,14.99,14.99,0.0
+250460,Bridge Constructor,2013-10-16,True,True,True,Mostly Positive,77,716,2.39,19.99,88.0
+278890,Angvik,2014-02-24,True,True,False,Very Positive,88,1986,2.99,2.99,0.0
+312200,Chasm,2018-07-30,True,True,True,Mostly Positive,73,1065,19.99,19.99,0.0
+321290,Dandelion - Wishes brought to you -,2014-09-29,True,True,False,Very Positive,85,589,29.99,29.99,0.0
+329640,Eradicator,2014-11-06,True,True,True,Very Positive,88,60,6.99,6.99,0.0
+367670,Controller Companion,2015-05-04,True,False,False,Very Positive,90,2323,2.99,2.99,0.0
+371970,Barony,2015-06-23,True,True,True,Very Positive,92,3043,14.99,14.99,0.0
+392330,Take Command - 2nd Manassas,2016-10-28,True,False,False,Very Positive,93,62,9.99,9.99,0.0
+437000,GUILTY GEAR 2 -OVERTURE-,2016-03-31,True,False,False,Mostly Positive,71,214,19.99,19.99,0.0
+1872790,Luckitown,2022-01-19,True,True,False,Very Positive,86,163,4.99,4.99,0.0
+222660,Retro/Grade,2013-03-20,True,False,False,Very Positive,85,207,9.99,9.99,0.0
+237850,Dreamfall Chapters,2017-07-21,True,True,True,Very Positive,82,2976,24.99,24.99,0.0
+268220,Meltdown,2014-06-05,True,True,True,Very Positive,86,493,6.99,6.99,0.0
+274270,NOT A HERO,2016-07-08,True,True,True,Very Positive,86,1563,19.99,19.99,0.0
+281450,Disciples Sacred Lands Gold,2014-10-07,True,False,False,Very Positive,85,270,7.99,7.99,0.0
+296870,Dreaming Sarah,2015-03-12,True,False,True,Very Positive,92,2010,5.99,5.99,0.0
+330180,Pix the Cat,2015-01-29,True,True,True,Very Positive,87,170,4.99,4.99,0.0
+351920,Crazy Machines 3,2016-10-18,True,False,False,Very Positive,94,6817,9.99,9.99,0.0
+359870,FINAL FANTASY X/X-2 HD Remaster,2016-05-12,True,False,False,Very Positive,90,12889,29.99,29.99,0.0
+377840,FINAL FANTASY IX,2016-04-14,True,False,False,Very Positive,94,7897,20.99,20.99,0.0
+402130,FlatOut 4: Total Insanity,2017-04-04,True,False,False,Mixed,52,1489,29.99,29.99,0.0
+410970,Master of Orion 1,2016-08-25,True,True,True,Very Positive,90,279,0.89,5.99,85.0
+410770,Roads of Rome,2015-10-16,True,False,False,Very Positive,85,61,3.99,3.99,0.0
+254820,Ground Control Anthology,2015-07-08,True,False,False,Very Positive,87,141,4.99,4.99,0.0
+286380,Strata,2014-05-29,True,True,True,Very Positive,92,131,7.99,7.99,0.0
+288220,Backstage Pass,2016-08-22,True,True,True,Very Positive,90,209,29.99,29.99,0.0
+302690,Metal Dead,2014-10-06,True,False,False,Very Positive,83,378,4.99,4.99,0.0
+339350,Choice of Robots,2014-12-19,True,True,True,Overwhelmingly Positive,96,1834,6.99,6.99,0.0
+342310,RIOT: Civil Unrest,2019-02-12,True,True,True,Mixed,68,1280,5.09,16.99,70.0
+408520,FORM,2017-06-01,True,False,False,Very Positive,91,934,14.99,14.99,0.0
+413420,Danganronpa 2: Goodbye Despair,2016-04-18,True,True,True,Overwhelmingly Positive,96,20321,7.99,19.99,60.0
+419990,Ganbare! Super Strikers,2018-07-26,True,True,True,Very Positive,84,57,9.99,9.99,0.0
+446600,Magi Trials,2016-11-17,True,False,False,Very Positive,82,91,12.99,12.99,0.0
+451640,C14 Dating,2016-04-22,True,True,True,Positive,89,49,19.99,19.99,0.0
+479010,Kodon,2016-06-03,True,False,False,Mostly Positive,70,245,59.99,59.99,0.0
+494150,The Thrill of the Fight - VR Boxing,2019-10-24,True,False,False,Overwhelmingly Positive,95,3278,9.99,9.99,0.0
+1198740,Colony Siege,2020-09-07,True,False,False,Very Positive,90,155,6.99,6.99,0.0
+35000,Mini Ninjas,2009-09-08,True,False,False,Very Positive,90,2895,9.99,9.99,0.0
+37400,Time Gentlemen Please! and Ben There Dan That! Special Edition  Double Pack,2009-08-25,True,False,False,Very Positive,86,445,4.99,4.99,0.0
+39690,ArcaniA,2010-10-15,True,False,False,Mixed,56,1720,19.99,19.99,0.0
+222420,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,2014-12-16,True,False,False,Very Positive,89,1901,14.99,14.99,0.0
+314000,Pool Nation FX Lite,2015-12-07,True,False,False,Mostly Positive,70,1757,9.99,0.0,0.0
+326410,Windward,2015-05-12,True,True,True,Very Positive,80,2534,9.99,9.99,0.0
+355920,Pixel Puzzles 2: Space,2016-02-19,True,False,False,Very Positive,93,58,4.99,4.99,0.0
+433550,DARQ: Complete Edition,2019-08-15,True,False,False,Very Positive,93,3122,19.99,19.99,0.0
+434170,The Jackbox Party Pack 3,2016-10-17,True,True,True,Overwhelmingly Positive,96,4016,24.99,24.99,0.0
+284750,Enigmatis: The Ghosts of Maple Creek,2014-10-16,True,True,True,Very Positive,84,1002,9.99,9.99,0.0
+298930,Darkness Within 1: In Pursuit of Loath Nolder,2014-11-13,True,False,False,Mostly Positive,74,450,7.99,7.99,0.0
+308270,Buzz Aldrin's Space Program Manager,2014-10-31,True,True,False,Mostly Positive,75,381,29.99,29.99,0.0
+317030,Fatty Bear's Birthday Surprise,2014-10-23,True,True,True,Very Positive,91,85,6.99,6.99,0.0
+362890,Black Mesa,2020-03-06,True,False,True,Overwhelmingly Positive,95,85772,19.99,19.99,0.0
+414700,Outlast 2,2017-04-24,True,False,False,Very Positive,91,34505,29.99,29.99,0.0
+429300,Sepia Tears,2016-01-08,True,True,True,Very Positive,88,886,0.0,0.0,0.0
+435300,We Know the Devil,2016-02-15,True,True,False,Very Positive,93,689,6.66,6.66,0.0
+450500,Ace of Seafood,2016-04-08,True,False,False,Very Positive,90,434,11.99,11.99,0.0
+459220,Halo Wars: Definitive Edition,2017-04-20,True,False,False,Very Positive,91,6084,19.99,19.99,0.0
+574310,The Mooseman,2017-02-17,True,True,True,Very Positive,90,829,6.99,6.99,0.0
+469820,Genital Jousting,2018-01-18,True,True,False,Very Positive,92,7427,6.99,6.99,0.0
+520720,Dear Esther: Landmark Edition,2017-02-14,True,True,False,Mostly Positive,78,1591,9.99,9.99,0.0
+527420,Demon Hunter 3: Revelation,2016-12-01,True,True,True,Very Positive,88,148,9.99,9.99,0.0
+529590,Please Don't Touch Anything 3D,2016-12-07,True,True,False,Very Positive,85,828,9.99,9.99,0.0
+545600,Vigilantes,2018-10-03,True,True,True,Very Positive,80,252,14.99,14.99,0.0
+582160,Assassin's Creed® Origins,2017-10-26,True,False,False,Very Positive,86,78755,59.99,59.99,0.0
+657280,Rytmik Studio,2017-11-15,True,True,False,Very Positive,87,237,29.99,29.99,0.0
+765410,Bean Battles,2018-08-22,True,False,False,Very Positive,94,5671,0.49,0.99,50.0
+765770,Forest Legends: The Call of Love Collector's Edition,2017-12-20,True,False,False,Positive,85,34,9.99,9.99,0.0
+841190,Honey I Joined a Cult,2022-11-03,True,False,False,Mostly Positive,79,984,21.99,21.99,0.0
+412790,Adventure Time: Magic Man's Head Games,2016-04-05,True,False,False,Mostly Positive,74,199,4.99,4.99,0.0
+367120,Seduce Me the Otome,2015-06-04,True,True,True,Very Positive,86,2149,0.0,0.0,0.0
+467760,Trapper's Delight,2018-03-06,True,True,False,Very Positive,92,223,7.99,7.99,0.0
+542770,Castle Must Be Mine,2018-07-13,True,False,False,Very Positive,90,227,15.99,15.99,0.0
+581270,Old Man's Journey,2017-05-17,True,True,False,Very Positive,88,2026,3.99,7.99,50.0
+583270,Cosmic Express,2017-03-16,True,True,True,Very Positive,94,321,9.99,9.99,0.0
+589530,Hakuoki: Kyoto Winds,2017-08-24,True,False,False,Very Positive,92,1267,9.99,9.99,0.0
+597180,Old World,2022-05-18,True,True,True,Mostly Positive,79,1836,39.99,39.99,0.0
+620220,Catmaze,2018-05-24,True,True,True,Very Positive,85,426,9.99,9.99,0.0
+622680,Mayhem in Single Valley,2021-05-20,True,False,False,Very Positive,86,123,14.99,14.99,0.0
+654220,Flash Point: Fire Rescue,2018-03-29,True,True,True,Very Positive,80,119,19.99,19.99,0.0
+684450,Surviving the Aftermath,2021-11-16,True,False,False,Mostly Positive,72,2395,29.99,29.99,0.0
+696370,BROKE PROTOCOL: Online City RPG,2017-08-26,True,False,False,Very Positive,81,1507,4.99,4.99,0.0
+460120,Megadimension Neptunia VII,2016-07-05,True,False,False,Overwhelmingly Positive,95,2626,19.99,19.99,0.0
+460430,The Letter - Horror Visual Novel,2017-07-24,True,True,True,Very Positive,88,1086,19.99,19.99,0.0
+498310,RPG in a Box,2022-05-10,True,True,False,Very Positive,92,153,29.99,29.99,0.0
+505460,Foxhole,2022-09-28,True,False,False,Very Positive,81,26024,29.99,29.99,0.0
+568040,Macbat 64,2017-03-17,True,False,False,Very Positive,91,282,1.99,1.99,0.0
+588030,Derail Valley,2019-01-25,True,False,False,Very Positive,94,2804,19.99,19.99,0.0
+588730,Majotori,2017-03-28,True,True,True,Overwhelmingly Positive,97,1352,5.99,5.99,0.0
+623280,Dungeons & Dragons: Dark Alliance,2021-06-21,True,False,False,Mixed,50,3654,29.99,29.99,0.0
+673130,AMID EVIL,2019-06-20,True,False,False,Overwhelmingly Positive,95,4854,19.99,19.99,0.0
+699180,Human-powered spacecraft,2018-05-03,True,False,False,Very Positive,92,550,0.99,0.99,0.0
+732400,PlataGO! Super Platform Game Maker,2019-06-13,True,False,False,Mostly Positive,75,92,19.99,19.99,0.0
+755790,Ring of Elysium,2019-06-24,True,False,False,Mostly Positive,74,100444,0.0,0.0,0.0
+758980,Poker Legends: Texas Hold'em Poker Tournaments,2018-04-04,True,True,False,Mostly Positive,76,591,0.0,0.0,0.0
+501300,What Remains of Edith Finch,2017-04-24,True,False,False,Overwhelmingly Positive,95,28010,19.99,19.99,0.0
+566530,Mass Exodus Redux,2017-05-04,True,False,False,Mostly Positive,76,255,14.99,14.99,0.0
+573320,Underhero,2018-09-19,True,True,True,Very Positive,91,588,14.99,14.99,0.0
+580640,End State,2022-12-01,True,False,False,Mostly Positive,72,80,19.99,19.99,0.0
+599610,Lost Words: Beyond the Page,2021-04-06,True,False,False,Very Positive,95,382,14.99,14.99,0.0
+603330,Blasted Road Terror,2018-04-18,True,False,False,Very Positive,84,71,8.99,8.99,0.0
+605990,Heart's Medicine - Hospital Heat,2017-05-23,True,True,False,Very Positive,96,295,12.99,12.99,0.0
+672630,Academia : School Simulator,2021-01-28,True,True,False,Very Positive,85,2170,19.99,19.99,0.0
+716710,東方憑依華　～ Antinomy of Common Flowers.,2018-01-05,True,False,False,Very Positive,90,1662,24.99,24.99,0.0
+448240,Hybrid Animals,2016-08-29,True,False,False,Mixed,55,347,6.99,6.99,0.0
+453990,Mibibli's Quest,2016-08-04,True,True,False,Very Positive,96,62,2.99,5.99,50.0
+465720,Demon Hunter 2: New Chapter,2016-07-21,True,True,True,Mostly Positive,71,128,9.99,9.99,0.0
+470210,Rocketbirds 2 Evolution,2017-01-26,True,False,False,Mostly Positive,77,303,9.99,9.99,0.0
+493080,Card Quest,2017-11-07,True,True,False,Very Positive,88,256,9.99,9.99,0.0
+497780,Recursed,2016-09-30,True,True,True,Very Positive,97,391,7.99,7.99,0.0
+525480,.hack//G.U. Last Recode,2017-11-03,True,False,False,Very Positive,87,2589,49.99,49.99,0.0
+544390,NITE Team 4 - Military Hacking Division,2019-02-26,True,True,False,Very Positive,91,870,19.99,19.99,0.0
+566540,Labyrinth of Refrain: Coven of Dusk,2018-09-18,True,False,False,Mostly Positive,77,825,49.99,49.99,0.0
+758480,Ukrainian ball in search of gas,2017-12-08,True,False,False,Very Positive,95,451,0.99,0.99,0.0
+826540,Audio Trip,2022-12-19,True,False,False,Very Positive,89,224,19.99,19.99,0.0
+575940,The Tenth Line,2017-03-17,True,True,False,Very Positive,86,102,7.99,7.99,0.0
+617160,Home Sweet Home,2017-09-26,True,False,False,Very Positive,88,2777,15.99,15.99,0.0
+677120,Heroes of Hammerwatch,2018-03-01,True,False,True,Very Positive,88,6358,11.99,11.99,0.0
+704300,Bartender VR Simulator,2018-02-09,True,False,False,Mixed,60,133,19.99,19.99,0.0
+749840,The Boogie Man,2018-02-12,True,False,False,Very Positive,82,160,2.99,2.99,0.0
+824720,Pure Rock Crawling,2018-04-11,True,False,False,Very Positive,84,930,14.99,14.99,0.0
+850450,Escape First,2018-05-10,True,False,False,Mixed,64,339,5.99,5.99,0.0
+55100,Homefront,2011-03-14,True,False,False,Mixed,63,3055,19.99,19.99,0.0
+221910,The Stanley Parable,2013-10-17,True,True,True,Very Positive,92,37766,14.99,14.99,0.0
+4700,Total War: MEDIEVAL II – Definitive Edition,2007-11-27,True,True,True,Overwhelmingly Positive,95,20077,24.99,24.99,0.0
+224960,Tomb Raider I,2012-11-28,True,False,False,Very Positive,85,3537,6.99,6.99,0.0
+1106840,Hydroneer,2020-05-08,True,False,False,Very Positive,87,15211,14.99,14.99,0.0
+919640,Steel Division 2,2019-06-20,True,False,False,Mostly Positive,78,5723,39.99,39.99,0.0
+851850,DRAGON BALL Z: KAKAROT,2020-01-16,True,False,False,Very Positive,93,29784,59.99,59.99,0.0
+1032430,Blood Trail,2019-03-27,True,False,False,Very Positive,80,3076,24.99,24.99,0.0
+1072040,Panzer Corps 2,2020-03-19,True,False,False,Very Positive,83,2483,39.99,39.99,0.0
+1238860,Battlefield 4™,2020-06-11,True,False,False,Very Positive,87,41865,39.99,39.99,0.0
+1287530,Lords and Villeins,2022-11-10,True,False,False,Mostly Positive,79,434,24.99,24.99,0.0
+1325800,Viticulture Essential Edition,2020-07-10,True,True,True,Mixed,66,153,14.99,14.99,0.0
+1466640,Road 96 🛣️,2021-08-16,True,False,False,Very Positive,91,10793,19.96,19.96,0.0
+1885690,Virtual Circuit Board,2022-05-20,True,False,True,Very Positive,93,134,14.99,14.99,0.0
+1202310,Sakura Succubus,2020-03-31,True,True,True,Very Positive,83,467,9.99,9.99,0.0
+1255560,Myst,2021-08-26,True,True,False,Very Positive,88,935,29.99,29.99,0.0
+1370050,Trek to Yomi,2022-05-05,True,False,False,Mostly Positive,71,1208,19.99,19.99,0.0
+1126310,风信楼,2021-10-13,True,True,True,Very Positive,93,2963,11.99,11.99,0.0
+1149620,Gas Station Simulator,2021-09-15,True,True,False,Very Positive,86,14798,19.99,19.99,0.0
+1266430,Lost In Fantaland,2022-09-26,True,False,False,Very Positive,88,246,13.99,13.99,0.0
+779340,Total War: THREE KINGDOMS,2019-05-23,True,True,True,Very Positive,82,52785,59.99,59.99,0.0
+495910,Dungeon Fighter Online,2016-08-09,True,False,False,Mixed,62,4942,0.0,0.0,0.0
+552990,World of Warships,2017-11-15,True,False,False,Very Positive,80,116788,0.0,0.0,0.0
+1543380,I Fetch Rocks,2022-03-03,True,False,False,Very Positive,98,56,15.99,15.99,0.0
+1222690,Dragon Age™ Inquisition,2020-06-04,True,False,False,Mostly Positive,76,10246,39.99,39.99,0.0
+1489110,Zapling Bygone,2022-08-05,True,False,False,Very Positive,88,75,15.99,15.99,0.0
+1208260,Hentai Vs Furries,2020-01-10,True,False,False,Very Positive,90,1769,0.99,0.99,0.0
+1425730,Gal*Gun Returns,2021-02-12,True,False,False,Very Positive,87,140,49.99,49.99,0.0
+1503670,[Chilla's Art] The Caregiver | 終焉介護,2021-04-02,True,False,False,Very Positive,83,265,4.99,4.99,0.0
+1388870,Arcade Paradise,2022-08-11,True,False,False,Very Positive,89,609,19.99,19.99,0.0
+1568590,Goose Goose Duck,2021-10-03,True,True,False,Very Positive,87,39829,0.0,0.0,0.0
+1731070,Asterigos: Curse of the Stars,2022-10-11,True,False,False,Very Positive,84,1209,34.99,34.99,0.0
+1861290,Devil Spire,2022-02-02,True,False,False,Very Positive,94,206,9.99,9.99,0.0
+301760,Disney•Pixar Cars 2: The Video Game,2014-10-06,True,False,False,Mostly Positive,76,390,5.99,19.99,70.0
+424030,War of Rights,2018-12-03,True,False,False,Very Positive,87,7890,29.99,29.99,0.0
+1047440,DATE A LIVE: Rio Reincarnation,2019-07-23,True,False,False,Very Positive,94,2120,39.99,39.99,0.0
+1090630,Granblue Fantasy: Versus,2020-03-13,True,False,False,Very Positive,82,5514,19.99,19.99,0.0
+1015720,Alternate DiMansion Diary,2019-05-23,True,False,False,Very Positive,87,346,4.99,9.99,50.0
+681280,Descenders,2019-05-07,True,True,True,Overwhelmingly Positive,95,10752,24.99,24.99,0.0
+327740,TRON 2.0,2014-10-10,True,False,False,Very Positive,89,510,2.49,9.99,75.0
+1895130,Darza's Dominion,2022-04-21,True,False,False,Mixed,62,906,0.0,0.0,0.0
+1895300,Shinobi Warfare,2022-06-14,True,False,False,Very Positive,93,858,0.0,0.0,0.0
+2096610,Crysis 3 Remastered,2022-11-17,True,False,False,Very Positive,89,1345,29.99,29.99,0.0
+1297790,Sunday Rivals,2022-05-16,True,False,False,Very Positive,93,207,19.99,19.99,0.0
+1378990,Crash Bandicoot™ 4: It’s About Time,2022-10-18,True,False,False,Very Positive,89,892,39.99,39.99,0.0
+1567020,The Dark Pictures Anthology: The Devil in Me,2022-11-17,True,False,False,Mixed,56,1655,39.99,39.99,0.0
+1995870,Pixel Survivors : Roguelike,2022-06-30,True,False,False,Very Positive,80,229,2.99,2.99,0.0
+35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011-09-13,True,False,False,Very Positive,93,23039,19.99,19.99,0.0
+238460,BattleBlock Theater®,2014-05-15,True,True,True,Overwhelmingly Positive,97,50984,14.99,14.99,0.0
+1265920,Life is Strange Remastered,2022-02-01,True,False,False,Mostly Positive,73,1517,39.99,39.99,0.0
+1509510,Settlement Survival,2022-10-24,True,True,False,Very Positive,87,5129,19.99,19.99,0.0
+1906020,Drums Rock,2022-06-02,True,False,False,Very Positive,95,133,19.99,19.99,0.0
+7940,Call of Duty® 4: Modern Warfare®,2007-11-12,True,True,False,Very Positive,93,15676,19.99,19.99,0.0
+305620,The Long Dark,2017-08-01,True,True,True,Very Positive,91,83883,19.99,19.99,0.0
+348360,Doodle God,2015-09-24,True,True,True,Mostly Positive,79,693,14.99,14.99,0.0
+572720,Nancy Drew®: The Shattered Medallion,2017-03-06,True,False,False,Mixed,54,57,19.99,19.99,0.0
+1105420,Game of Thrones Winter is Coming,2019-11-14,True,False,False,Mixed,59,1964,0.0,0.0,0.0
+1192380,TOTALLY BASEBALL,2021-07-07,True,False,False,Very Positive,93,113,14.99,14.99,0.0
+1290270,Vampire: The Masquerade — Night Road,2020-09-24,True,True,True,Very Positive,90,485,11.99,11.99,0.0
+1484720,Dead Estate,2021-10-19,True,False,False,Overwhelmingly Positive,95,2407,8.99,14.99,40.0
+1509960,PICO PARK,2021-05-07,True,False,False,Very Positive,92,14364,4.99,4.99,0.0
+1630110,Gungrave G.O.R.E,2022-11-22,True,False,False,Mixed,63,184,49.99,49.99,0.0
+208650,Batman™: Arkham Knight,2015-06-23,True,False,False,Very Positive,89,61510,3.99,19.99,80.0
+525620,Octogeddon,2018-02-08,True,False,False,Very Positive,91,686,8.88,8.88,0.0
+530320,Wandersong,2018-09-27,True,True,False,Overwhelmingly Positive,96,1538,19.99,19.99,0.0
+812040,Shortest Trip to Earth,2019-08-15,True,False,True,Mostly Positive,76,1143,24.99,24.99,0.0
+1066180,Crisis Brigade 2 reloaded,2021-11-11,True,False,False,Very Positive,84,244,9.99,19.99,50.0
+1148760,I Was a Teenage Exocolonist,2022-08-25,True,True,True,Overwhelmingly Positive,97,1379,24.99,24.99,0.0
+1160750,Grim Clicker,2020-01-09,True,False,False,Very Positive,81,2126,0.0,0.0,0.0
+1367690,Tony Stewart's All-American Racing,2020-09-04,True,False,False,Very Positive,83,141,29.99,29.99,0.0
+1492360,Recipe for Disaster,2022-08-05,True,False,False,Mostly Positive,76,449,16.99,16.99,0.0
+1502980,Atelier Firis: The Alchemist and the Mysterious Journey DX,2021-04-21,True,False,False,Mostly Positive,77,197,39.99,39.99,0.0
+10180,Call of Duty®: Modern Warfare® 2 (2009),2009-11-11,True,True,False,Very Positive,93,26786,19.99,19.99,0.0
+15130,Beyond Good and Evil™,2008-05-13,True,False,False,Very Positive,86,2806,9.99,9.99,0.0
+364360,Total War: WARHAMMER,2016-05-24,True,True,True,Mostly Positive,79,30157,59.99,59.99,0.0
+384110,Pathologic Classic HD,2015-10-29,True,False,False,Very Positive,87,2594,12.99,12.99,0.0
+387340,Hyperdimension Neptunia U: Action Unleashed,2016-03-21,True,False,False,Very Positive,92,2489,14.99,14.99,0.0
+984680,Interstellar Space: Genesis,2019-07-25,True,False,False,Very Positive,82,538,29.99,29.99,0.0
+1724440,Epic Fantasy Battle Simulator,2021-08-30,True,False,False,Very Positive,91,264,9.99,9.99,0.0
+1824220,Chivalry 2,2022-06-12,True,False,False,Very Positive,82,19331,39.99,39.99,0.0
+1961460,PROJECT: PLAYTIME,2022-12-12,True,False,False,Mostly Positive,77,21762,0.0,0.0,0.0
+33100,Alien Shooter,2009-05-27,True,False,False,Overwhelmingly Positive,95,2473,4.99,4.99,0.0
+335300,DARK SOULS™ II: Scholar of the First Sin,2015-04-01,True,False,False,Very Positive,85,57116,39.99,39.99,0.0
+346110,ARK: Survival Evolved,2017-08-27,True,True,False,Very Positive,83,465818,19.99,19.99,0.0
+695290,The Golf Club™ 2019 featuring PGA TOUR,2018-08-28,True,False,False,Mostly Positive,73,1628,49.99,49.99,0.0
+1085660,Destiny 2,2019-10-01,True,False,False,Very Positive,83,519754,0.0,0.0,0.0
+1332010,Stray,2022-07-19,True,False,False,Overwhelmingly Positive,97,101109,29.99,29.99,0.0
+1380910,Stardeus,2022-10-12,True,True,True,Very Positive,89,697,29.99,29.99,0.0
+1510460,Chicken Invaders Universe,2022-12-15,True,False,False,Very Positive,91,2152,0.0,0.0,0.0
+40800,Super Meat Boy,2010-11-30,True,True,True,Very Positive,94,22634,14.99,14.99,0.0
+284770,Enigmatis 2: The Mists of Ravenwood,2014-06-05,True,True,True,Overwhelmingly Positive,97,877,9.99,9.99,0.0
+294540,Freddi Fish 3: The Case of the Stolen Conch Shell,2014-05-15,True,True,True,Very Positive,95,220,6.99,6.99,0.0
+298030,Total Annihilation,2015-12-18,True,False,False,Overwhelmingly Positive,96,2636,0.74,4.99,85.0
+843810,A Perfect Day,2022-02-24,True,True,False,Very Positive,85,1365,19.99,19.99,0.0
+997010,Police Simulator: Patrol Officers,2022-11-10,True,False,False,Very Positive,85,9201,29.99,29.99,0.0
+1084600,My Time at Sandrock,2022-05-25,True,False,False,Very Positive,87,10242,24.99,24.99,0.0
+1388770,Cruelty Squad,2021-06-15,True,False,False,Overwhelmingly Positive,97,9183,19.99,19.99,0.0
+1874490,Potionomics,2022-10-17,True,False,False,Very Positive,89,3548,24.99,24.99,0.0
+204340,Serious Sam 2,2012-01-31,True,False,False,Very Positive,89,8837,9.99,9.99,0.0
+215690,Zeno Clash 2,2013-04-30,True,False,False,Very Positive,82,599,14.99,14.99,0.0
+216150,MapleStory,2012-08-09,True,False,False,Mostly Positive,70,10220,0.0,0.0,0.0
+386360,SMITE®,2015-09-08,True,False,False,Mostly Positive,79,107061,0.0,0.0,0.0
+459820,Crush Crush,2016-10-18,True,True,True,Very Positive,90,22735,0.0,0.0,0.0
+524220,NieR:Automata™,2017-03-17,True,False,False,Very Positive,86,80462,39.99,39.99,0.0
+1037130,Dandy Ace,2021-03-25,True,True,False,Very Positive,88,773,19.99,19.99,0.0
+1711620,Demonheart: The Ice Demon,2022-11-14,True,True,False,Very Positive,89,56,19.99,19.99,0.0
+2058190,Lost Judgment,2022-09-14,True,False,False,Overwhelmingly Positive,95,2028,59.99,59.99,0.0
+221640,Super Hexagon,2012-11-27,True,True,True,Overwhelmingly Positive,97,17074,2.99,2.99,0.0
+266840,Age of Mythology: Extended Edition,2014-05-08,True,False,False,Very Positive,92,24978,29.99,29.99,0.0
+345820,Shantae and the Pirate's Curse,2015-04-23,True,False,False,Overwhelmingly Positive,95,1467,19.99,19.99,0.0
+465200,Fury Unleashed,2020-05-08,True,True,True,Very Positive,88,1309,19.99,19.99,0.0
+550340,Umineko: Golden Fantasia,2017-12-08,True,False,False,Very Positive,90,313,24.99,24.99,0.0
+680420,OUTRIDERS,2021-04-01,True,False,False,Mixed,65,44154,39.99,39.99,0.0
+755500,ONE PIECE World Seeker,2019-03-14,True,False,False,Mostly Positive,78,2712,8.99,59.99,85.0
+939960,Far Cry® New Dawn,2019-02-15,True,False,False,Mostly Positive,76,22055,39.99,39.99,0.0
+952060,Resident Evil 3,2019-01-24,True,False,False,Mostly Positive,79,42134,39.99,39.99,0.0
+1250410,Microsoft Flight Simulator 40th Anniversary Edition,2020-08-17,True,False,False,Mostly Positive,78,42859,59.99,59.99,0.0
+19000,Silent Hill Homecoming,2008-11-06,True,False,False,Mixed,47,1553,39.99,39.99,0.0
+235800,Audiosurf 2,2015-05-26,True,True,True,Very Positive,82,5074,14.99,14.99,0.0
+359390,Amnesia™: Memories,2015-08-25,True,False,False,Very Positive,92,2632,9.99,9.99,0.0
+478980,Mansions of Madness,2016-08-01,True,True,False,Very Positive,92,925,0.0,0.0,0.0
+523000,Princess Maker 2 Refine,2016-09-28,True,False,False,Very Positive,93,1245,19.99,19.99,0.0
+641320,Cooking Simulator,2019-06-06,True,False,False,Very Positive,84,13801,8.99,19.99,55.0
+823500,BONEWORKS,2019-12-10,True,False,False,Very Positive,92,31004,29.99,29.99,0.0
+980940,My Little Blacksmith Shop,2019-12-22,True,False,False,Mostly Positive,77,739,9.99,9.99,0.0
+987230,Shadow Legend VR,2019-03-07,True,False,False,Mostly Positive,78,458,24.99,24.99,0.0
+1042380,Hundred Days - Winemaking Simulator,2021-05-13,True,True,False,Mostly Positive,78,654,9.99,24.99,60.0
+1949960,Super Kiwi 64,2022-12-02,True,False,False,Overwhelmingly Positive,96,583,2.99,2.99,0.0
+7800,Stubbs the Zombie in Rebel Without a Pulse,2021-03-16,True,False,False,Very Positive,90,1089,19.99,19.99,0.0
+314650,SpaceEngine,2019-06-11,True,False,False,Overwhelmingly Positive,95,6740,24.99,24.99,0.0
+438740,Friday the 13th: The Game,2017-05-25,True,False,False,Mostly Positive,79,60378,14.99,14.99,0.0
+465240,Serious Sam VR: The Last Hope,2017-09-20,True,False,False,Very Positive,84,1237,29.99,29.99,0.0
+476600,Call of Duty®: WWII,2017-11-02,True,False,False,Mixed,66,23069,59.99,59.99,0.0
+921060,Modern Combat 5,2018-10-24,True,False,False,Mixed,54,5517,0.0,0.0,0.0
+991810,Strategic Mind: The Pacific,2019-10-25,True,False,False,Mostly Positive,76,501,29.99,29.99,0.0
+1570070,Beholder 3,2022-03-03,True,False,False,Mixed,68,1098,14.99,14.99,0.0
+1700,Arx Fatalis,2007-04-03,True,False,False,Very Positive,86,1543,4.99,4.99,0.0
+37210,Chocolatier®: Decadence by Design™,2009-08-12,True,True,False,Mixed,66,180,9.99,9.99,0.0
+601050,Attack on Titan 2 - A.O.T.2,2018-03-14,True,False,False,Very Positive,92,4598,59.99,59.99,0.0
+678950,DRAGON BALL FighterZ,2018-01-26,True,False,False,Very Positive,90,42019,14.24,94.98,85.0
+698700,Rise of the Third Power,2022-02-10,True,True,True,Very Positive,89,286,11.99,19.99,40.0
+886250,PokerStars VR,2018-11-08,True,False,False,Very Positive,85,2775,0.0,0.0,0.0
+1151340,Fallout 76,2020-04-14,True,False,False,Mostly Positive,75,42297,39.99,39.99,0.0
+1494840,Scoot,2020-12-28,True,False,False,Very Positive,88,488,12.99,12.99,0.0
+1531490,Harmony's Odyssey,2022-10-19,True,True,True,Very Positive,95,106,14.99,14.99,0.0
+1533390,Gorilla Tag,2023-01-01,True,False,False,Very Positive,90,1061,19.99,19.99,0.0
+1602930,Pedro's Adventures in Spanish [Learn Spanish],2021-07-29,True,False,False,Very Positive,89,59,19.99,19.99,0.0
+24200,DC Universe™ Online,2011-11-02,True,False,False,Very Positive,80,19055,0.0,0.0,0.0
+692850,Bloodstained: Ritual of the Night,2019-06-18,True,False,False,Very Positive,94,23977,39.99,39.99,0.0
+964440,Hell is Others,2022-10-20,True,False,False,Mostly Positive,70,804,14.99,14.99,0.0
+965300,The Settlers® : Heritage of Kings - History Edition,2019-01-22,True,False,False,Very Positive,85,508,11.99,11.99,0.0
+967050,Pacify,2019-02-22,True,True,False,Very Positive,88,27057,3.49,4.99,30.0
+985830,SUCCUBUS,2021-10-05,True,False,False,Very Positive,80,3432,24.99,24.99,0.0
+1038370,Trials of Fire,2021-04-09,True,False,False,Very Positive,87,2599,9.99,19.99,50.0
+1076750,Dream Engines: Nomad Cities,2021-07-14,True,False,False,Mostly Positive,76,353,29.99,29.99,0.0
+1078280,Ruins Seeker,2020-05-28,True,False,False,Very Positive,93,553,14.99,19.99,25.0
+1136370,Bear and Breakfast,2022-07-28,True,False,False,Very Positive,90,2856,19.99,19.99,0.0
+1323470,GetsuFumaDen: Undying Moon,2022-02-16,True,False,False,Mostly Positive,77,741,24.99,24.99,0.0
+1811260,EA SPORTS™ FIFA 23,2022-09-29,True,False,False,Mixed,50,67263,69.99,69.99,0.0
+31920,Nancy Drew®: The Phantom of Venice,2009-07-17,True,False,False,Very Positive,86,129,6.99,6.99,0.0
+337320,Paint the Town Red,2021-07-29,True,True,True,Overwhelmingly Positive,95,19601,19.99,19.99,0.0
+420290,Blackwake,2020-02-19,True,True,False,Very Positive,82,20367,4.99,4.99,0.0
+443810,This Is the Police,2016-08-02,True,True,True,Very Positive,83,7832,3.74,14.99,75.0
+517710,Redout: Enhanced Edition,2016-09-02,True,False,False,Very Positive,84,3220,19.99,19.99,0.0
+1080750,Mutazione,2019-09-19,True,True,True,Overwhelmingly Positive,96,681,19.99,19.99,0.0
+1138650,Tower Princess,2022-09-08,True,False,False,Mixed,62,58,19.99,19.99,0.0
+1211630,The Jackbox Party Pack 7,2020-10-14,True,True,True,Overwhelmingly Positive,97,3087,29.99,29.99,0.0
+1282730,Loop Hero,2021-03-04,True,True,True,Very Positive,93,28429,14.99,14.99,0.0
+203650,Sonic the Hedgehog 4 - Episode II,2012-05-15,True,False,False,Mostly Positive,79,1189,9.99,9.99,0.0
+269110,Super Motherload,2014-04-04,True,False,False,Mostly Positive,77,593,14.99,14.99,0.0
+993110,Skinwalker Hunt,2022-08-19,True,False,False,Very Positive,92,555,12.99,12.99,0.0
+1089980,The Henry Stickmin Collection,2020-08-07,True,True,False,Overwhelmingly Positive,98,33364,14.99,14.99,0.0
+1549250,UNDECEMBER,2022-10-11,True,False,False,Mixed,48,14789,0.0,0.0,0.0
+1922560,Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,2022-05-16,True,False,False,Very Positive,90,8584,29.99,29.99,0.0
+4000,Garry's Mod,2006-11-29,True,True,True,Overwhelmingly Positive,96,795170,9.99,9.99,0.0
+12210,Grand Theft Auto IV: The Complete Edition,2020-03-24,True,False,False,Mostly Positive,78,101668,19.99,19.99,0.0
+379720,DOOM,2016-05-12,True,False,False,Overwhelmingly Positive,95,116683,19.99,19.99,0.0
+683320,GRIS,2018-12-13,True,True,False,Overwhelmingly Positive,96,52982,16.99,16.99,0.0
+1238040,Dragon Age II: Ultimate Edition,2020-06-04,True,False,False,Very Positive,82,2914,29.99,29.99,0.0
+1310510,Handy Harry's Haunted House Services,2020-07-31,True,False,False,Very Positive,91,417,4.99,4.99,0.0
+1665460,eFootball™ 2023,2021-09-29,True,False,False,Mostly Negative,33,48952,0.0,0.0,0.0
+410850,DRAGON QUEST HEROES™ Slime Edition,2015-12-03,True,False,False,Mixed,66,1083,39.99,39.99,0.0
+553420,TUNIC,2022-03-16,True,True,False,Very Positive,92,7275,29.99,29.99,0.0
+632360,Risk of Rain 2,2020-08-11,True,False,False,Overwhelmingly Positive,96,153133,24.99,24.99,0.0
+811320,Jupiter Hell,2021-08-05,True,True,True,Very Positive,91,1180,24.99,24.99,0.0
+376210,The Isle,2015-12-01,True,False,False,Very Positive,83,55808,19.99,19.99,0.0
+1432500,The Sekimeiya: Spun Glass,2021-05-06,True,True,True,Very Positive,93,121,29.99,29.99,0.0
+1473480,A.V.A Global,2022-08-23,True,False,False,Mixed,47,6167,0.0,0.0,0.0
+1794680,Vampire Survivors,2022-10-20,True,True,False,Overwhelmingly Positive,98,175903,3.99,4.99,20.0
+2220810,Spire of Glory,2022-12-03,True,True,False,Mostly Positive,75,83,6.99,6.99,0.0
+4720,Condemned: Criminal Origins,2012-10-29,True,False,False,Very Positive,88,1965,14.95,14.95,0.0
+397460,The Jackbox Party Pack 2,2015-10-13,True,True,True,Overwhelmingly Positive,96,1207,24.99,24.99,0.0
+404040,Lords of Magic: Special Edition,2015-12-03,True,False,False,Very Positive,91,385,4.99,4.99,0.0
+523660,HYPERCHARGE: Unboxed,2020-04-27,True,False,True,Very Positive,90,2830,19.99,19.99,0.0
+598700,The Vagrant,2018-07-13,True,False,False,Very Positive,90,6739,3.99,3.99,0.0
+1005300,The Jackbox Party Pack 6,2019-10-16,True,True,True,Overwhelmingly Positive,95,1917,29.99,29.99,0.0
+1065310,Evil West,2022-11-21,True,False,False,Mostly Positive,75,3395,49.99,49.99,0.0
+1113030,Stellar Warfare,2021-08-04,True,False,False,Very Positive,85,149,19.99,19.99,0.0
+1174640,Arcadia Fallen,2021-11-17,True,True,True,Very Positive,98,155,16.74,24.99,33.0
+1218210,Coromon,2022-03-31,True,True,False,Very Positive,87,3120,19.99,19.99,0.0
+1222730,STAR WARS™: Squadrons,2020-10-01,True,False,False,Mostly Positive,70,20884,39.99,39.99,0.0
+1451940,NEEDY STREAMER OVERLOAD,2022-01-21,True,True,False,Overwhelmingly Positive,95,19517,15.99,15.99,0.0
+1599660,Sackboy™: A Big Adventure,2022-10-27,True,False,False,Very Positive,88,772,40.19,59.99,33.0
+552100,Brick Rigs,2016-11-07,True,False,False,Very Positive,93,28005,14.99,14.99,0.0
+1925970,SIMULACRA 3,2022-10-25,True,False,False,Mixed,57,159,9.99,9.99,0.0
+34330,Total War: SHOGUN 2,2011-03-15,True,True,True,Very Positive,91,28021,29.99,29.99,0.0
+266510,Hand of Fate,2015-02-17,True,True,True,Very Positive,90,7664,19.99,19.99,0.0
+393380,Squad,2020-09-23,True,False,False,Very Positive,88,95118,49.99,49.99,0.0
+405830,Turok 2: Seeds of Evil,2017-03-16,True,True,True,Very Positive,93,1758,19.99,19.99,0.0
+484900,Aven Colony,2017-07-25,True,False,False,Mostly Positive,74,1612,29.99,29.99,0.0
+495420,State of Decay 2: Juggernaut Edition,2020-03-13,True,False,False,Very Positive,82,35762,29.99,29.99,0.0
+512900,Streets of Rogue,2019-07-12,True,True,True,Overwhelmingly Positive,96,13097,19.99,19.99,0.0
+574980,Them's Fightin' Herds,2020-04-30,True,True,True,Very Positive,93,2709,19.99,19.99,0.0
+594650,Hunt: Showdown,2019-08-27,True,False,False,Very Positive,83,120399,39.99,39.99,0.0
+629520,Soundpad,2017-09-30,True,False,False,Overwhelmingly Positive,96,46467,4.99,4.99,0.0
+629760,MORDHAU,2019-04-29,True,False,False,Very Positive,81,86423,29.99,29.99,0.0
+638230,Journey,2020-06-11,True,False,False,Very Positive,94,21938,14.99,14.99,0.0
+838310,Bloodstained: Curse of the Moon,2018-05-24,True,False,False,Very Positive,94,3075,9.99,9.99,0.0
+1018020,Contra Anniversary Collection,2019-06-11,True,False,False,Mostly Positive,78,575,19.99,19.99,0.0
+1142710,Total War: WARHAMMER III,2022-02-16,True,True,True,Mostly Positive,72,45767,59.99,59.99,0.0
+1510,Uplink,2006-08-23,True,True,True,Very Positive,90,1574,9.99,9.99,0.0
+8500,EVE Online,2010-12-15,True,True,False,Mostly Positive,74,29938,0.0,0.0,0.0
+258520,The Vanishing of Ethan Carter,2014-09-25,True,False,False,Very Positive,87,6494,19.99,19.99,0.0
+291550,Brawlhalla,2017-10-17,True,True,False,Very Positive,83,314261,0.0,0.0,0.0
+329110,Gems of War - Puzzle RPG,2014-11-20,True,False,False,Very Positive,80,9014,0.0,0.0,0.0
+366240,GAROU: MARK OF THE WOLVES,2016-12-06,True,False,False,Very Positive,94,678,9.99,9.99,0.0
+946010,Tasty Planet Forever,2018-10-16,True,True,False,Very Positive,86,211,12.99,12.99,0.0
+976730,Halo: The Master Chief Collection,2019-12-03,True,False,False,Very Positive,92,182789,39.99,39.99,0.0
+1127840,Landlord's Super,2020-04-30,True,False,False,Very Positive,90,870,19.99,19.99,0.0
+1371690,GRAVEN,2021-05-26,True,False,False,Mostly Positive,70,547,24.99,24.99,0.0
+1801650,Lost: Find,2021-12-03,True,False,False,Very Positive,88,1820,3.99,3.99,0.0
+254700,resident evil 4 (2005),2014-02-27,True,False,False,Very Positive,92,44219,19.99,19.99,0.0
+284160,BeamNG.drive,2015-05-29,True,False,False,Overwhelmingly Positive,97,148132,24.99,24.99,0.0
+330020,Children of Morta,2019-09-03,True,True,True,Very Positive,90,12204,21.99,21.99,0.0
+485510,Nioh: Complete Edition,2017-11-07,True,False,False,Mostly Positive,79,23465,49.99,49.99,0.0
+526870,Satisfactory,2020-06-08,True,False,False,Overwhelmingly Positive,97,106760,29.99,29.99,0.0
+528230,SYNTHETIK: Legion Rising,2018-03-15,True,False,False,Very Positive,94,8657,19.99,19.99,0.0
+1241510,The Test,2020-02-24,True,False,False,Overwhelmingly Positive,97,17604,1.99,1.99,0.0
+1282410,Hard West 2,2022-08-04,True,False,False,Mostly Positive,77,1620,29.99,29.99,0.0
+1613470,Roboplant,2022-11-10,True,False,True,Mostly Positive,71,35,19.99,19.99,0.0
+239070,Hammerwatch,2013-08-12,True,True,True,Very Positive,89,3493,9.99,9.99,0.0
+248570,Toribash,2014-05-16,True,True,True,Very Positive,88,15672,0.0,0.0,0.0
+458730,Conception II: Children of the Seven Stars,2016-08-15,True,False,False,Very Positive,80,563,3.99,19.99,80.0
+914010,Train Station Renovation,2020-10-01,True,False,False,Very Positive,84,1720,18.99,18.99,0.0
+959880,Dungeon Town,2021-09-24,True,False,False,Mostly Positive,79,314,14.99,19.99,25.0
+1218280,Bad Guys at School,2020-06-15,True,False,False,Very Positive,88,1141,4.49,4.99,10.0
+1772310,Grey Heritage: Faded Vision,2022-12-09,True,False,True,Positive,83,18,14.99,14.99,0.0
+55150,Warhammer 40000: Space Marine - Anniversary Edition,2011-09-05,True,False,False,Very Positive,92,10248,59.99,59.99,0.0
+56400,Warhammer 40000: Dawn of War II: Retribution,2011-02-28,True,True,True,Very Positive,89,6499,29.99,29.99,0.0
+307960,IL-2 Sturmovik: Battle of Stalingrad,2014-10-22,True,False,False,Very Positive,81,5202,49.99,49.99,0.0
+387990,Scrap Mechanic,2016-01-19,True,False,False,Very Positive,93,85592,19.99,19.99,0.0
+606710,Sphinx and the Cursed Mummy,2017-11-10,True,True,True,Very Positive,93,409,14.99,14.99,0.0
+757300,Truberbrook / Trüberbrook,2019-03-12,True,True,True,Mostly Positive,73,924,29.99,29.99,0.0
+815370,Green Hell,2019-09-05,True,False,False,Very Positive,87,40649,24.99,24.99,0.0
+926990,WolfQuest: Anniversary Edition,2019-07-25,True,True,False,Overwhelmingly Positive,97,4646,19.99,19.99,0.0
+1105670,The Last Spell,2021-06-03,True,False,False,Very Positive,91,6189,24.99,24.99,0.0
+1423600,BLUE REFLECTION: Second Light,2021-11-08,True,False,False,Mostly Positive,79,678,59.99,59.99,0.0
+1455840,Dorfromantik,2022-04-28,True,False,False,Overwhelmingly Positive,97,20220,13.99,13.99,0.0
+1600370,Not Tonight 2,2022-02-11,True,False,False,Very Positive,86,216,19.99,19.99,0.0
+1611910,Warhammer 40000: Chaos Gate - Daemonhunters,2022-05-05,True,False,False,Mostly Positive,78,6603,44.99,44.99,0.0
+415480,Hyperdevotion Noire: Goddess Black Heart (Neptunia),2016-04-26,True,False,False,Very Positive,81,759,14.99,14.99,0.0
+720620,TaleSpire,2021-04-14,True,False,False,Very Positive,94,2659,24.99,24.99,0.0
+936180,Atelier Totori ~The Adventurer of Arland~ DX,2018-12-03,True,False,False,Very Positive,80,238,39.99,39.99,0.0
+1075190,A Game of Thrones: The Board Game - Digital Edition,2020-10-06,True,True,False,Mostly Positive,72,1373,19.99,19.99,0.0
+1088090,Day of Dragons,2019-12-04,True,False,True,Mostly Positive,76,3324,11.19,19.99,44.0
+1605220,Dune: Spice Wars,2022-04-26,True,False,False,Very Positive,82,5946,29.99,29.99,0.0
+1860860,Flower girl 2,2022-07-21,True,False,False,Very Positive,83,1764,0.0,0.0,0.0
+1954200,Kena: Bridge of Spirits,2022-09-26,True,False,False,Very Positive,92,6789,39.99,39.99,0.0
+2088630,Airport Ground Handling Simulator VR,2022-08-25,True,False,False,Mixed,68,75,29.99,29.99,0.0
+8980,Borderlands Game of the Year,2009-10-26,True,False,False,Very Positive,93,17810,9.89,29.99,67.0
+588950,Kingsway,2017-07-18,True,False,False,Very Positive,92,1200,9.99,9.99,0.0
+615120,COMPOUND,2022-07-19,True,False,False,Overwhelmingly Positive,97,1659,19.99,19.99,0.0
+699130,World War Z: Aftermath,2021-09-21,True,False,False,Very Positive,83,8881,39.99,39.99,0.0
+870780,Control Ultimate Edition,2020-08-27,True,False,False,Very Positive,89,26829,39.99,39.99,0.0
+1011510,Wizard And Minion Idle,2019-02-07,True,False,False,Very Positive,90,616,0.0,0.0,0.0
+1044340,The 7th Guest: 25th Anniversary Edition,2019-04-02,True,False,False,Very Positive,80,151,9.99,9.99,0.0
+1225560,Unravel,2020-06-04,True,False,False,Very Positive,91,2597,19.99,19.99,0.0
+1359090,Zero Hour,2020-08-12,True,False,False,Very Positive,81,21338,5.99,11.99,50.0
+1504740,Find Yourself,2021-02-21,True,False,False,Very Positive,87,693,6.99,6.99,0.0
+1859290,Crypto Miner Tycoon Simulator,2022-04-21,True,False,False,Very Positive,91,78,19.99,19.99,0.0
+1867530,Solar Ash,2022-12-08,True,False,False,Very Positive,88,344,39.99,39.99,0.0
+2208920,Assassin's Creed Valhalla,2022-12-06,True,False,False,Mixed,64,5664,59.99,59.99,0.0
+239120,Final Fantasy III (3D Remake),2014-05-27,True,False,False,Very Positive,82,2305,15.99,15.99,0.0
+307780,Mortal Kombat X,2015-04-13,True,False,False,Very Positive,86,30936,4.99,19.99,75.0
+648800,Raft,2022-06-20,True,False,False,Very Positive,93,218598,19.99,19.99,0.0
+782330,DOOM Eternal,2020-03-19,True,False,False,Very Positive,91,144981,39.99,39.99,0.0
+854940,Ikenfell,2020-10-08,True,True,False,Very Positive,92,507,19.99,19.99,0.0
+863590,Starcom: Nexus,2019-12-12,True,False,True,Very Positive,91,1569,19.99,19.99,0.0
+872670,SCP: 5K,2022-02-22,True,False,False,Very Positive,83,2734,19.99,19.99,0.0
+1138850,Heavenly Bodies,2021-12-07,True,True,False,Overwhelmingly Positive,96,1694,19.99,19.99,0.0
+1335830,Len's Island,2021-11-26,True,True,False,Very Positive,88,2206,24.99,24.99,0.0
+1432050,Nobody Saves the World,2022-01-18,True,False,False,Very Positive,91,3691,24.99,24.99,0.0
+1575470,Frogun,2022-08-02,True,False,True,Very Positive,85,237,10.49,14.99,30.0
+1622800,Super Dungeon Maker,2022-02-15,True,False,False,Very Positive,93,186,11.99,14.99,20.0
+260750,Neighbours from Hell Compilation,2013-11-07,True,False,False,Overwhelmingly Positive,97,1892,0.0,0.0,0.0
+292820,Pajama Sam 4: Life Is Rough When You Lose Your Stuff!,2014-05-29,True,False,False,Mixed,42,102,6.99,6.99,0.0
+312520,Rain World,2017-03-28,True,False,False,Very Positive,92,9704,24.99,24.99,0.0
+407330,Sakura Dungeon,2016-06-03,True,True,True,Very Positive,92,1316,19.99,19.99,0.0
+698540,Dungeon Warfare 2,2018-07-06,True,True,False,Very Positive,90,860,14.99,14.99,0.0
+652190,Emily Wants to Play Too,2017-12-13,True,True,True,Very Positive,84,345,3.99,7.99,50.0
+721700,Holomento,2022-04-27,True,False,False,Mostly Positive,75,107,19.99,19.99,0.0
+1274570,DEVOUR,2021-01-28,True,True,False,Very Positive,92,43263,4.99,4.99,0.0
+1350200,IMMORTALITY,2022-08-30,True,False,False,Very Positive,84,847,19.99,19.99,0.0
+1556870,Golf Club Wasteland,2021-09-03,True,False,False,Very Positive,84,559,9.99,9.99,0.0
+2150830,Underworld Island,2023-01-19,True,True,False,Very Positive,80,278,10.99,10.99,0.0
+245450,Wizardry 8,2013-09-10,True,True,False,Very Positive,89,796,9.99,9.99,0.0
+252490,Rust,2018-02-08,True,True,False,Very Positive,87,722973,39.99,39.99,0.0
+384630,Aviary Attorney,2015-12-21,True,True,False,Very Positive,94,927,14.99,14.99,0.0
+597220,West of Loathing,2017-08-10,True,True,True,Overwhelmingly Positive,97,7753,10.99,10.99,0.0
+599140,Graveyard Keeper,2018-08-15,True,True,True,Very Positive,86,24409,19.99,19.99,0.0
+601810,Spark the Electric Jester,2017-04-10,True,False,False,Very Positive,92,859,7.99,7.99,0.0
+871930,GLADIABOTS - AI Combat Arena,2019-05-22,True,True,True,Very Positive,90,740,14.99,14.99,0.0
+1017900,Age of Empires: Definitive Edition,2019-08-19,True,False,False,Very Positive,84,9979,19.99,19.99,0.0
+1246950,Where in the World is Carmen Sandiego?,2020-08-31,True,False,False,Mostly Positive,77,67,9.99,9.99,0.0
+1253920,Rogue Legacy 2,2022-04-28,True,True,True,Very Positive,90,11679,24.99,24.99,0.0
+228280,Baldur's Gate: Enhanced Edition,2013-01-16,True,True,True,Very Positive,91,11220,19.99,19.99,0.0
+287390,Metro: Last Light Redux,2014-08-25,True,True,True,Very Positive,89,47974,19.99,19.99,0.0
+513710,SCUM,2018-08-29,True,False,False,Mostly Positive,75,69428,24.99,24.99,0.0
+691320,Gun Club VR,2018-08-27,True,False,False,Mostly Positive,79,569,19.99,19.99,0.0
+1157390,King Arthur: Knight's Tale,2022-04-26,True,False,False,Very Positive,83,4186,44.99,44.99,0.0
+1257290,Atelier Ryza 2: Lost Legends & the Secret Fairy Digital Deluxe Edition,2021-01-25,True,False,False,Very Positive,91,2128,71.99,71.99,0.0
+1545450,Incredibox,2021-04-30,True,True,False,Overwhelmingly Positive,97,1871,4.99,4.99,0.0
+1779180,Knight's Try,2022-01-27,True,False,False,Very Positive,92,97,9.99,9.99,0.0
+304930,Unturned,2017-07-07,True,True,True,Very Positive,91,504808,0.0,0.0,0.0
+501590,Bulletstorm: Full Clip Edition,2017-04-07,True,False,False,Very Positive,88,5323,39.99,39.99,0.0
+728880,Overcooked! 2,2018-08-07,True,True,True,Very Positive,90,33368,24.99,24.99,0.0
+1512480,Gunlocked,2022-12-06,True,False,False,Very Positive,92,274,4.99,4.99,0.0
+1585220,Melatonin,2022-12-15,True,True,False,Overwhelmingly Positive,95,1201,14.99,14.99,0.0
+1620340,Wrestling Empire,2021-07-02,True,False,False,Very Positive,94,1215,19.99,19.99,0.0
+1747050,Sam & Max: Beyond Time and Space,2021-12-08,True,False,False,Very Positive,98,199,19.99,19.99,0.0
+503400,Four Last Things,2017-02-23,True,False,False,Overwhelmingly Positive,95,825,7.99,7.99,0.0
+838350,太吾绘卷 The Scroll Of Taiwu,2018-09-20,True,False,False,Mixed,69,45286,19.99,19.99,0.0
+1258080,Shop Titans,2020-05-05,True,False,False,Mostly Positive,78,13350,0.0,0.0,0.0
+1508680,Love n War: Warlord by Chance,2021-05-28,True,False,False,Very Positive,86,1165,2.99,2.99,0.0
+1587130,Blood West,2022-02-10,True,False,False,Very Positive,91,1312,14.99,14.99,0.0
+1694960,Furry Feet,2021-08-10,True,False,False,Very Positive,83,298,1.99,1.99,0.0
+2012100,WHAT THE BAT?,2022-11-17,True,False,False,Positive,80,26,19.99,24.99,20.0
+268400,Panzer Corps Gold,2014-03-12,True,True,False,Very Positive,91,1846,29.99,29.99,0.0
+374320,DARK SOULS™ III,2016-04-11,True,False,False,Very Positive,94,222365,59.99,59.99,0.0
+446800,Transport Fever,2016-11-08,True,True,True,Very Positive,82,8897,29.99,29.99,0.0
+650510,ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS / アヌビス ゾーン・オブ・エンダーズ : マーズ,2018-09-04,True,False,False,Mostly Positive,71,621,29.99,29.99,0.0
+750920,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,True,True,True,Very Positive,85,49940,0.0,0.0,0.0
+921570,OCTOPATH TRAVELER™,2019-06-07,True,False,False,Very Positive,86,9526,59.99,59.99,0.0
+2014780,X-Plane 12,2022-12-17,True,True,True,Mostly Positive,75,954,59.99,59.99,0.0
+1309610,Line War,2022-05-05,True,False,False,Very Positive,80,485,19.99,19.99,0.0
+1703340,The Stanley Parable: Ultra Deluxe,2022-04-27,True,True,True,Very Positive,94,18171,24.99,24.99,0.0
+1919590,NBA 2K23,2022-09-08,True,False,False,Mixed,62,15141,17.99,59.99,70.0
+244850,Space Engineers,2019-02-28,True,False,False,Very Positive,89,78863,19.99,19.99,0.0
+380600,Fishing Planet,2017-08-28,True,True,True,Very Positive,85,41805,0.0,0.0,0.0
+445040,Sorcery! Part 3,2016-04-05,True,True,False,Very Positive,94,76,9.99,9.99,0.0
+527430,Warhammer 40000: Inquisitor - Martyr,2018-06-05,True,False,False,Mostly Positive,75,14507,49.99,49.99,0.0
+619390,Oddworld: Soulstorm Enhanced Edition,2022-06-21,True,False,False,Mixed,68,204,39.99,39.99,0.0
+677620,Splitgate,2019-05-24,True,False,True,Very Positive,91,108046,0.0,0.0,0.0
+758370,Through the Ages,2018-03-26,True,True,False,Very Positive,90,1686,15.99,15.99,0.0
+787480,Phoenix Wright: Ace Attorney Trilogy,2019-04-09,True,False,False,Overwhelmingly Positive,97,15173,29.99,29.99,0.0
+960090,Bloons TD 6,2018-12-17,True,True,False,Overwhelmingly Positive,97,209592,13.99,13.99,0.0
+1316230,Force of Nature 2: Ghost Keeper,2021-05-27,True,False,False,Very Positive,82,1445,15.99,15.99,0.0
+1489970,Highrise City,2022-03-24,True,False,False,Mostly Positive,70,324,24.99,24.99,0.0
+1803550,MegaFactory Titan,2022-02-23,True,True,True,Very Positive,87,81,19.99,19.99,0.0
+2600,Vampire: The Masquerade - Bloodlines,2007-03-22,True,False,False,Very Positive,94,10446,19.99,19.99,0.0
+221100,DayZ,2018-12-13,True,False,False,Mostly Positive,73,280402,44.99,44.99,0.0
+422510,DEMON'S TILT,2019-12-13,True,True,False,Very Positive,94,655,19.99,19.99,0.0
+429720,IMSCARED,2016-02-03,True,False,False,Very Positive,93,1486,3.99,3.99,0.0
+567380,Heartbound,2018-12-24,True,False,True,Overwhelmingly Positive,96,1141,7.99,9.99,20.0
+623940,HIVESWAP: ACT 1,2017-09-14,True,True,True,Very Positive,94,2931,7.99,7.99,0.0
+837880,You Suck at Parking™,2022-09-14,True,False,False,Very Positive,86,122,19.99,19.99,0.0
+849740,Love Esquire - RPG/Dating Sim/Visual Novel,2019-10-08,True,True,True,Very Positive,90,874,24.99,24.99,0.0
+970830,The Dungeon Of Naheulbeuk: The Amulet Of Chaos,2020-09-17,True,True,False,Very Positive,88,5394,34.99,34.99,0.0
+1028590,The WILDS,2022-02-15,True,False,False,Very Positive,84,63,9.99,9.99,0.0
+1088770,Car Mechanic Simulator VR,2021-06-08,True,False,False,Mixed,63,228,19.99,19.99,0.0
+1315980,Tin Can,2022-05-12,True,False,False,Very Positive,88,658,19.99,19.99,0.0
+1475810,Ghostwire: Tokyo,2022-03-24,True,False,False,Very Positive,83,7451,59.99,59.99,0.0
+1671200,Honkai Impact 3rd,2021-10-21,True,False,False,Mostly Positive,71,6907,0.0,0.0,0.0
+2050680,Warbox Sandbox,2022-06-24,True,True,True,Very Positive,85,120,5.99,5.99,0.0
+227300,Euro Truck Simulator 2,2012-10-12,True,True,True,Overwhelmingly Positive,97,447800,19.99,19.99,0.0
+464170,VRMark,2016-11-03,True,False,False,Mixed,61,98,19.99,19.99,0.0
+677340,The Colonists,2018-10-24,True,True,True,Very Positive,86,823,24.99,24.99,0.0
+897410,Esports Life Tycoon,2020-09-03,True,True,False,Mixed,62,568,19.99,19.99,0.0
+1172380,STAR WARS Jedi: Fallen Order Deluxe Edition,2019-11-14,True,False,False,Very Positive,89,98443,49.99,49.99,0.0
+1856750,Relayer Advanced,2022-10-26,True,False,False,Mixed,63,30,22.49,49.99,55.0
+204300,Awesomenauts - the 2D moba,2012-08-01,True,True,True,Very Positive,84,26482,0.0,0.0,0.0
+357190,ULTIMATE MARVEL VS. CAPCOM 3,2017-03-06,True,False,False,Very Positive,91,3770,24.99,24.99,0.0
+477160,Human: Fall Flat,2016-07-22,True,True,False,Very Positive,94,137810,19.99,19.99,0.0
+501990,Phantasmagoria,2016-08-29,True,False,False,Very Positive,89,196,9.99,9.99,0.0
+587220,Jet Island,2018-09-21,True,False,False,Overwhelmingly Positive,96,1471,19.99,19.99,0.0
+704850,Thief Simulator,2018-11-09,True,True,False,Very Positive,87,19100,19.99,19.99,0.0
+780290,Gloomhaven,2021-10-20,True,True,False,Very Positive,86,10399,26.24,34.99,25.0
+1180380,Stay Out,2019-11-27,True,False,False,Mixed,55,15376,0.0,0.0,0.0
+1222670,The Sims™ 4,2020-06-18,True,False,False,Very Positive,86,87670,0.0,0.0,0.0
+1442820,R-Type Final 2,2021-04-30,True,False,False,Mostly Positive,77,509,39.99,39.99,0.0
+1674820,TFC: The Fertile Crescent,2022-03-29,True,True,True,Very Positive,94,91,14.99,14.99,0.0
+22320,The Elder Scrolls III: Morrowind® Game of the Year Edition,2009-06-16,True,False,False,Overwhelmingly Positive,95,16628,14.99,14.99,0.0
+392110,ENDLESS™ Space 2,2017-05-18,True,True,False,Very Positive,84,15020,39.99,39.99,0.0
+571740,Golf It!,2017-02-17,True,True,False,Very Positive,89,16770,4.49,8.99,50.0
+591370,Production Line : Car factory simulation,2019-03-07,True,False,False,Very Positive,82,2838,24.99,24.99,0.0
+921590,DISSIDIA FINAL FANTASY NT Free Edition,2019-03-12,True,False,False,Mixed,43,3240,29.99,0.0,0.0
+1039880,Hellsplit: Arena,2019-09-09,True,False,False,Very Positive,85,2650,24.99,24.99,0.0
+1177000,TRANSFORMERS: BATTLEGROUNDS,2020-10-22,True,False,False,Very Positive,85,56,24.99,24.99,0.0
+2190390,Ocean Is Home : Island Life Simulator,2022-12-09,True,True,False,Mostly Positive,74,58,9.99,9.99,0.0
+270880,American Truck Simulator,2016-02-02,True,True,True,Overwhelmingly Positive,96,97492,19.99,19.99,0.0
+1066890,Automobilista 2,2020-06-30,True,False,False,Very Positive,90,4557,39.99,39.99,0.0
+1846460,Burnhouse Lane,2022-12-02,True,False,False,Very Positive,95,360,14.99,14.99,0.0
+1919140,Antioch: Scarlet Bay,2022-11-25,True,True,True,Very Positive,84,133,4.99,4.99,0.0
+210970,The Witness,2016-01-26,True,True,False,Very Positive,86,11843,39.99,39.99,0.0
+385560,Shadow Complex Remastered,2016-05-03,True,True,False,Very Positive,84,383,14.99,14.99,0.0
+518790,theHunter: Call of the Wild™,2017-02-16,True,False,False,Very Positive,88,105614,7.99,19.99,60.0
+606230,Thea 2: The Shattering,2019-05-13,True,False,False,Very Positive,80,1626,24.99,24.99,0.0
+761910,Worbital,2019-01-31,True,True,False,Very Positive,90,328,12.99,12.99,0.0
+968970,Lumberjack's Dynasty,2021-02-25,True,False,False,Mostly Positive,73,1857,19.99,19.99,0.0
+1140270,Monster Prom 2: Monster Camp,2020-10-23,True,True,True,Overwhelmingly Positive,97,4080,4.79,11.99,60.0
+1190000,Car Mechanic Simulator 2021,2021-08-11,True,False,False,Overwhelmingly Positive,95,17310,24.99,24.99,0.0
+1205520,Pentiment,2022-11-14,True,False,False,Overwhelmingly Positive,96,2335,19.99,19.99,0.0
+1262350,SIGNALIS,2022-10-27,True,False,False,Overwhelmingly Positive,96,5427,19.99,19.99,0.0
+1314000,Achilles: Legends Untold,2022-05-12,True,False,False,Mostly Positive,72,380,19.99,19.99,0.0
+1847240,Game Dev Story,2022-03-27,True,False,False,Very Positive,90,516,8.99,8.99,0.0
+2061250,Shin chan: Me and the Professor on Summer Vacation The Endless Seven-Day Journey,2022-08-31,True,False,False,Very Positive,87,138,39.99,39.99,0.0
+9900,Star Trek Online,2012-01-31,True,False,False,Mostly Positive,78,17421,0.0,0.0,0.0
+234080,Castlevania: Lords of Shadow – Ultimate Edition,2013-08-27,True,False,False,Very Positive,80,5716,29.99,29.99,0.0
+245390,I Have No Mouth and I Must Scream,2013-10-17,True,True,True,Very Positive,88,1246,5.99,5.99,0.0
+268130,Heat Signature,2017-09-21,True,False,False,Very Positive,94,6044,14.99,14.99,0.0
+291650,Pillars of Eternity,2015-03-26,True,True,True,Very Positive,87,13709,29.99,29.99,0.0
+310950,Street Fighter V,2016-02-15,True,False,False,Mostly Positive,70,25146,19.99,19.99,0.0
+330720,Flashpoint Campaigns: Red Storm Player's Edition,2014-11-21,True,False,False,Very Positive,90,179,49.99,49.99,0.0
+345390,King's Quest,2015-07-28,True,False,False,Very Positive,89,2604,0.0,0.0,0.0
+477740,Zero Escape: The Nonary Games,2017-03-24,True,False,False,Very Positive,94,3914,5.99,29.99,80.0
+747610,Zula Global,2018-01-12,True,False,False,Mixed,69,5645,0.0,0.0,0.0
+927380,Yakuza Kiwami 2,2019-05-09,True,False,False,Overwhelmingly Positive,95,8917,19.99,19.99,0.0
+945360,Among Us,2018-11-16,True,False,False,Very Positive,92,575982,4.99,4.99,0.0
+1209360,Monster Truck Championship,2020-10-15,True,False,False,Mostly Positive,75,65,39.99,39.99,0.0
+1465360,SnowRunner,2021-05-17,True,False,False,Very Positive,89,15973,29.99,29.99,0.0
+1665130,PAC-MAN MUSEUM+,2022-06-27,True,False,False,Very Positive,88,229,9.99,19.99,50.0
+2008050,Right and Down,2022-10-18,True,False,False,Very Positive,83,137,9.99,9.99,0.0
+3620,Zuma's Revenge!,2009-09-15,True,False,False,Overwhelmingly Positive,95,1478,4.99,4.99,0.0
+71240,SEGA Bass Fishing,2011-03-04,True,False,False,Very Positive,89,428,7.99,7.99,0.0
+375480,Chronicon,2020-08-21,True,False,True,Overwhelmingly Positive,95,7461,13.99,13.99,0.0
+701160,Kingdom Two Crowns,2018-12-11,True,True,True,Very Positive,91,14348,19.99,19.99,0.0
+738530,New Gundam Breaker,2018-09-24,True,False,False,Mixed,45,1540,7.49,49.99,85.0
+1040460,Space Scavenger,2021-08-20,True,False,False,Very Positive,86,200,12.99,12.99,0.0
+1085510,Garfield Kart - Furious Racing,2019-11-06,True,True,False,Very Positive,89,8476,14.99,14.99,0.0
+1372110,JoJo's Bizarre Adventure: All-Star Battle R,2022-09-01,True,False,False,Very Positive,86,4719,49.99,49.99,0.0
+1604000,Milk outside a bag of milk outside a bag of milk,2021-12-16,True,True,True,Overwhelmingly Positive,97,8697,2.24,8.99,75.0
+1715130,Crysis Remastered,2021-09-17,True,False,False,Mixed,69,4527,29.99,29.99,0.0
+4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-20,True,False,False,Very Positive,94,26062,19.99,19.99,0.0
+567640,Danganronpa V3: Killing Harmony,2017-09-25,True,False,False,Very Positive,85,15034,15.99,39.99,60.0
+846770,DYSMANTLE,2021-11-16,True,True,False,Very Positive,92,7820,19.99,19.99,0.0
+881100,Noita,2020-10-15,True,False,False,Overwhelmingly Positive,95,46712,19.99,19.99,0.0
+1029690,Sniper Elite 5,2022-05-25,True,False,False,Mostly Positive,79,7219,49.99,49.99,0.0
+1170760,XIII - Classic,2020-06-11,True,False,False,Very Positive,91,1617,5.99,5.99,0.0
+25990,Majesty Gold HD,2009-09-04,True,False,False,Very Positive,94,424,9.99,9.99,0.0
+253710,theHunter Classic,2014-06-03,True,False,False,Mixed,55,38764,0.0,0.0,0.0
+271590,Grand Theft Auto V,2015-04-13,True,False,False,Very Positive,85,1367837,0.0,0.0,0.0
+289650,Assassin's Creed® Unity,2014-11-11,True,False,False,Mostly Positive,76,48316,29.99,29.99,0.0
+294100,RimWorld,2018-10-17,True,True,True,Overwhelmingly Positive,98,130570,34.99,34.99,0.0
+304240,Resident Evil,2015-01-19,True,False,False,Very Positive,92,14127,19.99,19.99,0.0
+377530,侠客风云传(Tale of Wuxia),2016-04-28,True,False,False,Mostly Positive,75,5430,16.99,16.99,0.0
+601510,Yu-Gi-Oh! Duel Links,2017-11-16,True,False,False,Very Positive,83,39084,0.0,0.0,0.0
+686680,Computer Tycoon,2017-10-12,True,True,False,Very Positive,84,749,19.99,19.99,0.0
+799600,Cosmoteer: Starship Architect & Commander,2022-10-24,True,False,False,Overwhelmingly Positive,96,5713,19.99,19.99,0.0
+824270,KovaaK's,2018-04-03,True,False,False,Very Positive,92,25405,9.99,9.99,0.0
+844670,Please Be Happy,2022-11-21,True,True,True,Very Positive,99,135,17.99,19.99,10.0
+1274210,WizardChess,2021-10-01,True,True,False,Positive,100,16,9.99,9.99,0.0
+1276390,Bloons TD Battles 2,2021-11-30,True,True,False,Very Positive,81,22977,0.0,0.0,0.0
+1511670,Enter The Backrooms,2021-02-12,True,False,False,Very Positive,89,829,9.99,9.99,0.0
+1582620,Mega Man X DiVE,2021-09-14,True,False,False,Mixed,56,1713,0.0,0.0,0.0
+1592190,BONELAB,2022-09-29,True,False,False,Mostly Positive,77,9874,39.99,39.99,0.0
+232090,Killing Floor 2,2016-11-18,True,False,False,Very Positive,89,73667,29.99,29.99,0.0
+319170,Disney G-Force,2014-10-06,True,False,False,Very Positive,94,342,5.99,19.99,70.0
+429050,Feed and Grow: Fish,2016-01-08,True,False,False,Mostly Positive,79,11596,14.99,14.99,0.0
+475150,Titan Quest Anniversary Edition,2016-08-31,True,False,False,Very Positive,91,20784,19.99,19.99,0.0
+578650,The Outer Worlds,2020-10-23,True,False,False,Very Positive,85,19164,59.99,59.99,0.0
+698670,Scorn,2022-10-14,True,False,False,Mostly Positive,76,7197,39.99,39.99,0.0
+814370,Monster Sanctuary,2020-12-08,True,True,True,Very Positive,92,6490,19.99,19.99,0.0
+863570,Super Seducer 2 - Advanced Seduction Tactics,2018-09-13,True,True,False,Very Positive,82,1386,4.02,12.99,69.0
+946050,Soda Dungeon 2,2020-07-09,True,True,False,Very Positive,94,4684,0.0,0.0,0.0
+1336600,Cabin Fever,2021-07-12,True,True,True,Very Positive,96,314,9.99,9.99,0.0
+1466690,Sakura Succubus 4,2021-03-01,True,False,True,Very Positive,92,142,9.99,9.99,0.0
+227780,Serious Sam Classics: Revolution,2019-08-30,True,False,False,Very Positive,91,2608,9.99,9.99,0.0
+311210,Call of Duty®: Black Ops III,2015-11-05,True,True,False,Very Positive,85,91674,59.99,59.99,0.0
+367270,Angels Fall First,2015-10-01,True,False,False,Very Positive,81,2301,17.99,17.99,0.0
+733790,Not Tonight,2018-08-17,True,False,False,Very Positive,87,1520,19.99,19.99,0.0
+1201240,BLEACH Brave Souls,2020-08-17,True,False,False,Very Positive,88,7590,0.0,0.0,0.0
+1444480,Turing Complete,2021-10-02,True,True,True,Very Positive,94,1206,19.99,19.99,0.0
+1818450,STALCRAFT,2022-12-09,True,False,False,Mostly Positive,73,11979,0.0,0.0,0.0
+329130,Reassembly,2015-02-19,True,True,True,Very Positive,94,3193,14.99,14.99,0.0
+486310,Meadow,2016-10-26,True,True,True,Very Positive,90,4865,4.99,4.99,0.0
+537340,Guts and Glory,2018-07-19,True,True,True,Very Positive,81,1571,14.99,14.99,0.0
+1851280,Samurai Bringer,2022-04-21,True,False,False,Very Positive,88,786,9.99,9.99,0.0
+1881120,Titan Station,2022-11-11,True,False,False,Very Positive,92,137,14.99,14.99,0.0
+1986840,POPGOES Arcade,2022-07-01,True,False,False,Overwhelmingly Positive,98,955,4.99,4.99,0.0
+64000,Men of War: Assault Squad,2011-02-24,True,False,False,Very Positive,88,3412,9.99,9.99,0.0
+620590,Ancestors Legacy,2018-05-22,True,False,False,Very Positive,81,4582,34.99,34.99,0.0
+1089840,Armored Brigade,2019-10-31,True,False,False,Very Positive,89,210,39.99,39.99,0.0
+1128920,EVERSPACE™ 2,2021-01-18,True,False,False,Very Positive,87,5049,39.99,39.99,0.0
+1284210,Guild Wars 2,2022-08-23,True,False,False,Very Positive,89,7574,0.0,0.0,0.0
+1385380,Across the Obelisk,2022-08-16,True,True,True,Very Positive,92,5826,19.99,19.99,0.0
+1552620,Expedition Agartha,2022-08-18,True,False,False,Mostly Positive,73,391,24.99,24.99,0.0
+1798780,Dimension Tripper Neptune: TOP NEP,2022-01-20,True,False,False,Very Positive,95,333,4.99,4.99,0.0
+300380,Road Redemption,2017-10-04,True,True,True,Very Positive,82,8387,19.99,19.99,0.0
+386070,Planetary Annihilation: TITANS,2015-08-18,True,True,True,Very Positive,84,9940,29.99,29.99,0.0
+1029780,Going Medieval,2021-06-01,True,False,False,Very Positive,89,11258,24.99,24.99,0.0
+1090250,Crunch Element,2020-12-18,True,False,False,Mostly Positive,73,381,19.99,19.99,0.0
+1107790,The Complex,2020-03-31,True,True,False,Mostly Positive,77,2382,4.93,12.99,62.0
+1169040,Necesse,2019-12-12,True,True,True,Overwhelmingly Positive,95,4447,9.99,9.99,0.0
+1421790,Labyrinth City: Pierre the Maze Detective,2021-06-22,True,False,False,Overwhelmingly Positive,96,1458,11.99,11.99,0.0
+1507720,Märchen Forest,2021-01-27,True,False,False,Very Positive,86,223,6.99,34.99,80.0
+1599340,Lost Ark,2022-02-11,True,False,False,Mostly Positive,71,189423,0.0,0.0,0.0
+215830,Closers,2018-02-06,True,False,False,Mostly Positive,74,4482,0.0,0.0,0.0
+225540,Just Cause™ 3,2015-11-30,True,False,False,Very Positive,83,86479,19.99,19.99,0.0
+236390,War Thunder,2013-08-15,True,True,True,Mostly Positive,78,371702,0.0,0.0,0.0
+532190,Super Blood Hockey,2017-08-17,True,True,True,Very Positive,91,706,14.99,14.99,0.0
+560130,Pillars of Eternity II: Deadfire,2018-05-08,True,True,True,Very Positive,87,11413,39.99,39.99,0.0
+602960,Barotrauma,2019-06-05,True,True,True,Very Positive,93,29560,34.99,34.99,0.0
+742700,Empire Deluxe Combined Edition,2018-06-01,True,True,True,Very Positive,90,97,19.99,19.99,0.0
+1203220,NARAKA: BLADEPOINT,2021-08-11,True,False,False,Mostly Positive,78,115582,9.99,19.99,50.0
+301980,Disney Pirates of the Caribbean: At Worlds End,2014-10-06,True,False,False,Mostly Positive,74,178,5.99,19.99,70.0
+360170,How to Survive 2,2016-09-08,True,False,False,Mixed,69,8322,14.99,14.99,0.0
+368500,Assassin's Creed® Syndicate,2015-11-18,True,False,False,Very Positive,80,21869,29.99,29.99,0.0
+372000,Tree of Savior (English Ver.),2016-03-28,True,False,False,Mixed,64,19792,0.0,0.0,0.0
+454650,DRAGON BALL XENOVERSE 2,2016-10-27,True,False,False,Very Positive,89,29234,7.49,49.99,85.0
+480490,Prey,2017-05-04,True,False,False,Very Positive,90,27719,29.99,29.99,0.0
+829590,CryoFall,2021-04-29,True,False,False,Very Positive,80,3945,19.99,19.99,0.0
+994730,Banner of the Maid,2019-05-27,True,False,False,Very Positive,89,5104,16.99,16.99,0.0
+1570330,West Hunt,2022-06-14,True,False,False,Very Positive,89,490,9.99,9.99,0.0
+1591420,Hmmsim Metro,2021-06-25,True,False,False,Very Positive,91,971,19.99,19.99,0.0
+107100,Bastion,2011-08-16,True,True,True,Overwhelmingly Positive,95,26095,14.99,14.99,0.0
+266310,GameGuru Classic,2015-05-19,True,False,False,Mostly Positive,73,1175,19.99,19.99,0.0
+389430,Knight Online,2016-01-25,True,False,False,Mixed,49,10143,0.0,0.0,0.0
+517810,Caesar™ IV,2016-08-29,True,False,False,Mostly Positive,71,558,9.99,9.99,0.0
+564230,Fire Pro Wrestling World,2017-12-18,True,False,False,Very Positive,90,2566,5.99,29.99,80.0
+611790,House Party,2022-07-15,True,False,False,Very Positive,87,12007,24.99,24.99,0.0
+780210,Freeways,2018-02-06,True,True,False,Very Positive,85,1189,3.99,3.99,0.0
+1043230,Touhou Shinreibyou ~ Ten Desires.,2019-06-18,True,False,False,Very Positive,95,260,14.99,14.99,0.0
+1255650,Geometry Arena,2021-06-01,True,True,False,Overwhelmingly Positive,96,1862,5.99,5.99,0.0
+1942280,Brotato,2022-09-27,True,False,False,Overwhelmingly Positive,97,25197,3.99,4.99,20.0
+287630,The Council,2018-03-13,True,False,False,Very Positive,84,4460,14.99,0.0,0.0
+702890,BlazBlue: Cross Tag Battle,2019-11-20,True,False,False,Very Positive,81,2749,19.99,19.99,0.0
+731490,Crash Bandicoot™ N. Sane Trilogy,2018-06-29,True,False,False,Very Positive,93,9460,39.99,39.99,0.0
+1191120,Growing Up,2021-10-13,True,True,False,Very Positive,88,2037,14.99,14.99,0.0
+1455630,The Game of Life 2,2020-12-11,True,False,False,Very Positive,80,1955,12.49,12.49,0.0
+239030,Papers Please,2013-08-08,True,True,True,Overwhelmingly Positive,97,51975,9.99,9.99,0.0
+418180,Tempest: Pirate Action RPG,2016-08-22,True,True,False,Mostly Positive,70,1630,14.99,14.99,0.0
+459080,YIIK: A Postmodern RPG,2019-01-17,True,True,False,Mixed,69,409,19.99,19.99,0.0
+1046300,Pirates Outlaws,2020-04-13,True,False,False,Very Positive,84,482,19.99,19.99,0.0
+1167100,Metal Mind,2022-04-25,True,False,False,Mostly Positive,74,343,17.99,17.99,0.0
+1282690,Crysis® 3,2020-06-04,True,False,False,Very Positive,86,4221,29.99,29.99,0.0
+1745510,Lunacid,2022-03-15,True,False,False,Overwhelmingly Positive,95,947,6.99,6.99,0.0
+1708330,Forsaken World: Gods and Demons,2021-09-10,True,False,False,Mixed,40,172,0.0,0.0,0.0
+287310,Re-Volt,2022-07-29,True,False,False,Very Positive,93,772,5.99,5.99,0.0
+469600,Legion TD 2 - Multiplayer Tower Defense,2021-10-01,True,True,False,Very Positive,86,8021,22.99,22.99,0.0
+607080,Psychonauts 2,2021-08-24,True,True,True,Overwhelmingly Positive,97,7096,59.99,59.99,0.0
+761830,Mr. Prepper,2021-03-18,True,True,False,Very Positive,83,3442,19.99,19.99,0.0
+855860,Superfighters Deluxe,2018-11-30,True,False,False,Very Positive,90,2193,9.99,9.99,0.0
+1122680,The Artful Escape,2021-09-09,True,False,False,Very Positive,93,1039,19.99,19.99,0.0
+1379130,League of Angels-Heaven's Fury,2020-09-03,True,False,False,Mixed,57,622,0.0,0.0,0.0
+1421250,Tiny Bunny,2021-04-16,True,False,False,Overwhelmingly Positive,98,9603,12.99,12.99,0.0
+1593500,God of War,2022-01-14,True,False,False,Overwhelmingly Positive,97,65968,49.99,49.99,0.0
+1665280,Skábma™ - Snowfall,2022-04-22,True,False,False,Very Positive,86,65,19.99,19.99,0.0
+1846380,Need for Speed™ Unbound,2022-12-01,True,False,False,Mixed,65,8803,69.99,69.99,0.0
+1943950,Escape the Backrooms,2022-08-11,True,False,False,Very Positive,85,9224,9.99,9.99,0.0
+50130,Mafia II (Classic),2011-03-22,True,False,False,Very Positive,94,28943,0.0,0.0,0.0
+402620,Kindred Spirits on the Roof,2016-02-12,True,True,True,Overwhelmingly Positive,97,1022,34.99,34.99,0.0
+418530,Spelunky 2,2020-09-29,True,False,False,Very Positive,93,14862,19.99,19.99,0.0
+775940,Rise of Liberty,2019-05-30,True,True,False,Very Positive,86,1675,7.99,7.99,0.0
+1183470,Imperiums: Greek Wars,2020-07-30,True,False,False,Very Positive,82,307,29.99,29.99,0.0
+1238810,Battlefield™ V,2020-10-22,True,False,False,Mostly Positive,71,125842,49.99,49.99,0.0
+1382330,Persona® 5 Strikers,2021-02-22,True,False,False,Very Positive,92,9099,59.99,59.99,0.0
+1498040,Bio Prototype,2022-12-16,True,False,False,Very Positive,94,726,2.99,2.99,0.0
+389730,TEKKEN 7,2017-06-01,True,False,False,Very Positive,81,55619,16.49,109.99,85.0
+411300,ELEX,2017-10-17,True,False,False,Mostly Positive,72,11198,29.99,29.99,0.0
+427520,Factorio,2020-08-14,True,True,True,Overwhelmingly Positive,96,127363,35.0,35.0,0.0
+493520,GTFO,2021-12-09,True,False,False,Very Positive,87,33031,39.99,39.99,0.0
+534380,Dying Light 2 Stay Human,2022-02-03,True,False,False,Mostly Positive,79,99460,59.99,59.99,0.0
+745880,Touhou Tenkuushou ~ Hidden Star in Four Seasons.,2017-11-17,True,False,False,Overwhelmingly Positive,98,4227,14.99,14.99,0.0
+1238000,Mass Effect™: Andromeda Deluxe Edition,2020-06-11,True,False,False,Mostly Positive,77,9685,29.99,29.99,0.0
+1240440,Halo Infinite,2021-11-15,True,False,False,Mostly Positive,70,154893,0.0,0.0,0.0
+1269300,This Means Warp,2022-03-17,True,False,False,Very Positive,85,221,19.99,19.99,0.0
+16450,F.E.A.R. 2: Project Origin,2009-02-12,True,False,False,Very Positive,84,3572,3.74,14.99,75.0
+219990,Grim Dawn,2016-02-25,True,False,False,Very Positive,93,67996,24.99,24.99,0.0
+255710,Cities: Skylines,2015-03-10,True,True,True,Very Positive,93,164772,29.99,29.99,0.0
+859580,Imperator: Rome,2019-04-25,True,True,True,Mixed,58,16169,39.99,39.99,0.0
+1038250,DIRT 5,2020-11-05,True,False,False,Mixed,59,2472,59.99,59.99,0.0
+1329500,SpiderHeck,2022-09-22,True,False,False,Very Positive,94,1054,14.99,14.99,0.0
+1552220,LakeSide,2022-09-28,True,False,False,Mostly Positive,77,86,14.99,14.99,0.0
+1881420,Cardfight!! Vanguard Dear Days,2022-11-16,True,False,False,Very Positive,86,592,69.99,69.99,0.0
+28000,Kane & Lynch 2: Dog Days,2010-08-17,True,False,False,Mixed,64,5546,9.99,9.99,0.0
+42210,Nancy Drew®: Secrets Can Kill REMASTERED,2011-07-25,True,True,False,Mostly Positive,75,230,6.99,6.99,0.0
+363930,Dead Age,2016-11-04,True,True,True,Very Positive,83,4055,14.99,14.99,0.0
+497180,Street Legal Racing: Redline v2.3.1,2016-08-05,True,False,False,Very Positive,87,3064,5.99,5.99,0.0
+619880,ATOMEGA,2017-09-19,True,False,False,Mostly Positive,78,1221,9.99,9.99,0.0
+688060,Odd Realm,2019-01-10,True,True,True,Very Positive,90,689,14.99,14.99,0.0
+800600,Wayhaven Chronicles: Book One,2018-03-08,True,True,True,Very Positive,94,286,7.99,7.99,0.0
+989060,Virtual Home Theater Video Player,2019-08-27,True,False,False,Very Positive,97,79,29.99,29.99,0.0
+1043340,No Time,2019-04-14,True,False,False,Overwhelmingly Positive,97,1130,8.24,10.99,25.0
+1121640,The Wandering Village,2022-09-14,True,True,True,Very Positive,90,2880,24.99,24.99,0.0
+1454400,Cookie Clicker,2021-09-01,True,False,False,Overwhelmingly Positive,97,38691,4.99,4.99,0.0
+1620040,Nickelodeon Kart Racers 3: Slime Speedway,2022-10-14,True,False,False,Mixed,68,38,49.99,49.99,0.0
+1790490,Regular Factory: Escape Room,2022-04-13,True,False,False,Very Positive,96,111,9.99,9.99,0.0
+289780,Requiem: Desiderium Mortis,2015-03-04,True,False,False,Mixed,67,793,0.0,0.0,0.0
+319630,Life is Strange - Episode 1,2015-01-29,True,True,True,Overwhelmingly Positive,96,159146,19.99,0.0,0.0
+383980,Rivals of Aether,2017-03-28,True,False,False,Overwhelmingly Positive,96,23612,14.99,29.99,50.0
+427730,Who's Your Daddy?!,2016-05-13,True,True,False,Very Positive,80,21086,9.99,9.99,0.0
+579840,Bloody Trapland 2: Curiosity,2019-02-01,True,True,True,Very Positive,83,612,4.99,9.99,50.0
+594570,Total War: WARHAMMER II,2017-09-28,True,True,True,Very Positive,93,80300,59.99,59.99,0.0
+1041320,Lords Mobile,2019-06-02,True,False,False,Mixed,68,4740,0.0,0.0,0.0
+1125240,Ancient Dungeon,2021-11-03,True,False,False,Overwhelmingly Positive,96,679,19.99,19.99,0.0
+1182900,A Plague Tale: Requiem,2022-10-17,True,False,False,Very Positive,91,6213,49.99,49.99,0.0
+1618540,Ghost Exorcism INC.,2021-07-15,True,False,False,Mostly Positive,75,3981,17.99,17.99,0.0
+22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition,2009-06-16,True,False,False,Overwhelmingly Positive,95,31884,14.99,14.99,0.0
+39680,The Guild II Renaissance,2010-07-28,True,False,False,Very Positive,81,3073,9.99,9.99,0.0
+292030,The Witcher® 3: Wild Hunt,2015-05-18,True,False,False,Overwhelmingly Positive,96,640996,39.99,39.99,0.0
+397060,Faeria,2017-03-08,True,True,True,Very Positive,84,1284,19.99,19.99,0.0
+417880,Everybody's Gone to the Rapture,2016-04-14,True,False,False,Mixed,69,1313,19.99,19.99,0.0
+494840,UBOAT,2019-04-30,True,False,False,Very Positive,81,13996,29.99,29.99,0.0
+504370,Battlerite,2017-11-08,True,False,False,Very Positive,84,58661,0.0,0.0,0.0
+694500,Army Men RTS,2017-12-20,True,False,False,Very Positive,87,707,1.49,5.99,75.0
+953880,First Class Trouble,2021-11-01,True,False,False,Mostly Positive,79,2320,14.99,14.99,0.0
+1096530,Solasta: Crown of the Magister,2021-05-27,True,True,False,Very Positive,88,13564,39.99,39.99,0.0
+1158310,Crusader Kings III,2020-09-01,True,True,True,Very Positive,92,56891,49.99,49.99,0.0
+1161580,Hardspace: Shipbreaker,2022-05-24,True,False,False,Very Positive,89,14327,34.99,34.99,0.0
+1289310,Helltaker,2020-05-11,True,True,True,Overwhelmingly Positive,97,110173,0.0,0.0,0.0
+1814010,Stuck In Time,2021-12-09,True,False,False,Very Positive,85,577,7.99,7.99,0.0
+587450,Saurian,2017-08-02,True,False,False,Mixed,64,1259,19.99,19.99,0.0
+608800,Guns of Icarus Alliance,2017-03-31,True,True,True,Very Positive,81,564,4.99,4.99,0.0
+703320,Hidden & Dangerous 2: Courage Under Fire,2017-12-20,True,False,False,Overwhelmingly Positive,95,564,2.49,9.99,75.0
+872570,Romans: Age of Caesar,2022-04-27,True,False,False,Mixed,44,285,0.0,0.0,0.0
+950180,Lemnis Gate,2021-09-28,True,False,False,Very Positive,86,753,19.99,19.99,0.0
+965200,Walking Zombie 2,2019-10-11,True,False,False,Very Positive,87,10135,0.0,0.0,0.0
+1061910,Metal: Hellsinger,2022-09-15,True,False,False,Overwhelmingly Positive,97,7738,29.99,29.99,0.0
+1273400,Construction Simulator,2022-09-20,True,False,False,Very Positive,81,3764,34.99,34.99,0.0
+1450330,Concordia: Digital Edition,2021-09-28,True,True,False,Very Positive,87,102,12.34,18.99,35.0
+1466860,Age of Empires IV: Anniversary Edition,2021-10-28,True,False,False,Very Positive,86,34912,23.99,39.99,40.0
+2083900,FLERP,2022-09-09,True,False,False,Very Positive,85,261,2.99,2.99,0.0
+105600,Terraria,2011-05-16,True,True,True,Overwhelmingly Positive,97,867226,9.99,9.99,0.0
+307690,Sleeping Dogs: Definitive Edition,2014-10-08,True,True,False,Very Positive,92,45096,19.99,19.99,0.0
+334940,Yoku's Island Express,2018-05-29,True,False,False,Overwhelmingly Positive,96,2298,19.99,19.99,0.0
+438100,VRChat,2017-02-01,True,False,False,Mostly Positive,71,191010,0.0,0.0,0.0
+511470,Glass Masquerade,2016-11-18,True,True,False,Overwhelmingly Positive,97,4452,4.99,4.99,0.0
+1476970,IdleOn - The Idle MMO,2021-04-02,True,False,False,Very Positive,89,9963,0.0,0.0,0.0
+1490890,Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles,2021-10-15,True,False,False,Very Positive,88,12924,59.99,59.99,0.0
+1730590,The Entropy Centre,2022-11-03,True,False,False,Very Positive,92,1117,24.99,24.99,0.0
+1866420,La Pucelle: Ragnarok,2022-08-30,True,False,False,Positive,91,37,19.99,19.99,0.0
+115800,Owlboy,2016-11-01,True,True,True,Very Positive,87,3139,12.49,24.99,50.0
+217750,Age of Conan: Unchained,2013-02-22,True,False,False,Mixed,69,2308,0.0,0.0,0.0
+223470,POSTAL 2,2012-11-02,True,True,True,Overwhelmingly Positive,96,69602,9.99,9.99,0.0
+246900,Viscera Cleanup Detail,2015-10-23,True,True,False,Very Positive,93,13313,12.99,12.99,0.0
+420520,Lost Technology,2017-08-09,True,False,False,Very Positive,87,458,4.99,4.99,0.0
+433850,Z1 Battle Royale,2018-02-28,True,False,False,Mixed,55,207328,0.0,0.0,0.0
+837470,Untitled Goose Game,2020-09-23,True,True,False,Overwhelmingly Positive,95,12020,9.99,19.99,50.0
+1259560,Britannic: Patroness of the Mediterranean,2020-06-19,True,True,False,Very Positive,90,651,14.99,14.99,0.0
+1325200,Nioh 2 – The Complete Edition,2021-02-05,True,False,False,Very Positive,88,24353,49.99,49.99,0.0
+1343370,Old School RuneScape,2021-02-24,True,True,False,Very Positive,90,12847,0.0,0.0,0.0
+1629520,A Little to the Left,2022-11-08,True,True,False,Very Positive,86,1596,11.39,14.99,24.0
+1696810,Railroads Online,2021-10-01,True,False,False,Very Positive,81,3196,34.99,34.99,0.0
+2060130,Return to Monkey Island,2022-09-19,True,True,True,Very Positive,93,6569,24.99,24.99,0.0
+8870,BioShock Infinite,2013-03-25,True,True,True,Very Positive,93,96711,7.49,29.99,75.0
+31880,Nancy Drew®: Secret of the Old Clock,2009-10-10,True,False,False,Very Positive,91,151,6.99,6.99,0.0
+212500,The Lord of the Rings Online™,2012-06-06,True,False,False,Very Positive,81,17055,0.0,0.0,0.0
+438270,Learn Japanese To Survive! Hiragana Battle,2016-02-16,True,True,False,Very Positive,92,1636,2.09,6.99,70.0
+955900,Amazing Cultivation Simulator,2020-11-24,True,False,False,Very Positive,88,16511,24.99,24.99,0.0
+1158850,The Great Ace Attorney Chronicles,2021-07-26,True,False,False,Very Positive,94,2802,39.99,39.99,0.0
+1191900,Say No! More,2021-04-09,True,True,False,Very Positive,91,605,14.99,14.99,0.0
+1217060,Gunfire Reborn,2021-11-17,True,False,False,Very Positive,93,71854,13.99,19.99,30.0
+1569090,Vivid Knight,2021-05-26,True,True,False,Very Positive,90,1396,14.99,14.99,0.0
+1608700,Soundfall,2022-05-11,True,False,False,Mostly Positive,79,756,13.49,29.99,55.0
+275850,No Man's Sky,2016-08-12,True,False,False,Mostly Positive,75,198883,59.99,59.99,0.0
+787510,Muv-Luv Alternative Total Eclipse Remastered,2022-07-20,True,False,False,Very Positive,96,120,39.99,39.99,0.0
+895400,Deadside,2020-04-14,True,False,False,Mostly Positive,79,25030,19.99,19.99,0.0
+1028350,Pupperazzi,2022-01-20,True,True,False,Very Positive,96,271,19.99,19.99,0.0
+1104330,Founders' Fortune,2020-12-18,True,True,False,Very Positive,83,1615,21.99,21.99,0.0
+236850,Europa Universalis IV,2013-08-13,True,True,True,Very Positive,86,78089,39.99,39.99,0.0
+301520,Robocraft,2017-08-24,True,True,True,Mostly Positive,72,118488,0.0,0.0,0.0
+505040,FORTIFY,2016-08-10,True,True,True,Very Positive,94,1748,2.99,2.99,0.0
+686810,Hell Let Loose,2021-07-27,True,False,False,Very Positive,88,59289,39.99,39.99,0.0
+813780,Age of Empires II: Definitive Edition,2019-11-14,True,False,False,Very Positive,94,104709,19.99,19.99,0.0
+886900,Chef: A Restaurant Tycoon Game,2020-08-20,True,False,False,Mostly Positive,73,1126,19.99,19.99,0.0
+909320,Ruinarch,2020-08-25,True,False,False,Mostly Positive,79,924,24.99,24.99,0.0
+916840,The Walking Dead: Saints & Sinners,2020-01-23,True,False,False,Very Positive,88,6282,39.99,39.99,0.0
+1065180,Azure Striker Gunvolt 2,2020-06-21,True,False,False,Very Positive,92,396,19.99,19.99,0.0
+1277930,Riddle Joker,2020-12-18,True,False,False,Overwhelmingly Positive,98,2812,34.99,34.99,0.0
+1557740,ROUNDS,2021-04-01,True,False,False,Overwhelmingly Positive,95,12848,5.99,5.99,0.0
+1627850,Deadly Broadcast,2023-02-02,True,True,False,Mixed,68,270,6.99,6.99,0.0
+1812060,Yokai Art: Night Parade of One Hundred Demons,2022-09-28,True,False,False,Very Positive,89,481,4.99,4.99,0.0
+304410,Hexcells Infinite,2014-09-01,True,True,True,Overwhelmingly Positive,97,3267,4.99,4.99,0.0
+515260,Virtual Rides 3 - Funfair Simulator,2017-03-16,True,True,True,Very Positive,85,544,24.99,24.99,0.0
+555880,Sairento VR,2018-02-06,True,False,False,Very Positive,87,1392,29.99,29.99,0.0
+644930,They Are Billions,2019-06-18,True,False,False,Very Positive,85,37414,29.99,29.99,0.0
+754500,Plutocracy,2019-11-21,True,True,True,Mostly Positive,77,849,24.99,24.99,0.0
+1101360,Rock of Ages 3: Make & Break,2020-07-21,True,False,False,Mostly Positive,75,558,29.99,29.99,0.0
+1313140,Cult of the Lamb,2022-08-11,True,True,False,Very Positive,93,40135,24.99,24.99,0.0
+1346010,RiMS Racing,2021-08-19,True,False,False,Mostly Positive,70,238,49.99,49.99,0.0
+1520370,Mon Bazou,2021-12-16,True,False,False,Overwhelmingly Positive,97,6418,13.99,13.99,0.0
+32380,STAR WARS™ Jedi Knight: Dark Forces II,2009-09-16,True,False,False,Mostly Positive,77,1448,2.09,5.99,65.0
+42700,Call of Duty®: Black Ops,2010-11-09,True,False,False,Very Positive,91,14027,39.99,39.99,0.0
+732370,Juicy Realm,2018-05-03,True,True,False,Very Positive,87,3059,9.99,9.99,0.0
+774361,Blasphemous,2019-09-10,True,True,True,Very Positive,90,22804,24.99,24.99,0.0
+1039890,EARTH DEFENSE FORCE: IRON RAIN,2019-10-15,True,False,False,Mixed,58,954,59.99,59.99,0.0
+1189490,觅长生,2023-01-12,True,False,False,Very Positive,92,15559,14.99,14.99,0.0
+1536420,Clip maker,2021-06-24,True,False,False,Mostly Positive,75,109,0.0,0.0,0.0
+1564340,FGTeeV Goozy,2021-09-07,True,False,False,Positive,91,49,7.99,7.99,0.0
+1577620,The Signal State,2021-09-23,True,True,False,Very Positive,88,334,19.99,19.99,0.0
+239250,Castlevania: Lords of Shadow 2,2014-02-25,True,False,False,Very Positive,83,3377,39.99,39.99,0.0
+453480,Shadowverse CCG,2016-10-27,True,True,False,Mostly Positive,75,13580,0.0,0.0,0.0
+914020,Gibbous -  A Cthulhu Adventure,2019-08-07,True,True,True,Very Positive,88,1622,19.99,19.99,0.0
+1129190,Our Life: Beginnings & Always,2020-11-16,True,False,True,Overwhelmingly Positive,98,8642,0.0,0.0,0.0
+1293830,Forza Horizon 4,2021-03-09,True,False,False,Very Positive,89,157042,59.99,59.99,0.0
+1449850,Yu-Gi-Oh! Master Duel,2022-01-18,True,False,False,Mostly Positive,77,56093,0.0,0.0,0.0
+1611580,Behind Glass: Aquarium Simulator,2021-08-25,True,True,False,Very Positive,96,158,9.99,9.99,0.0
+1815230,Summum Aeterna,2022-06-16,True,False,False,Very Positive,91,136,15.99,15.99,0.0
+1850510,TRIANGLE STRATEGY,2022-10-13,True,False,False,Mostly Positive,79,1022,59.99,59.99,0.0
+620,Portal 2,2011-04-18,True,True,True,Overwhelmingly Positive,98,267142,9.99,9.99,0.0
+306130,The Elder Scrolls® Online,2017-05-22,True,True,False,Very Positive,83,107790,19.99,19.99,0.0
+592480,Knights And Bikes,2019-08-26,True,True,True,Very Positive,91,310,19.99,19.99,0.0
+624970,Battlezone: Combat Commander,2018-03-01,True,False,False,Very Positive,89,636,19.99,19.99,0.0
+636450,Rez Infinite,2017-08-09,True,False,False,Very Positive,91,903,24.99,24.99,0.0
+645630,Car Mechanic Simulator 2018,2017-07-28,True,True,False,Very Positive,90,40982,19.99,19.99,0.0
+799960,Wizard101,2018-09-06,True,False,False,Very Positive,81,5447,0.0,0.0,0.0
+860510,Little Nightmares II,2021-02-10,True,False,False,Very Positive,94,21303,29.99,29.99,0.0
+991170,Barn Finders,2020-06-15,True,False,False,Very Positive,83,3159,19.99,19.99,0.0
+1237970,Titanfall® 2,2020-06-18,True,False,False,Very Positive,94,131800,29.99,29.99,0.0
+1290000,PowerWash Simulator,2022-07-14,True,False,False,Overwhelmingly Positive,97,29465,24.99,24.99,0.0
+1659420,UNCHARTED™: Legacy of Thieves Collection,2022-10-19,True,False,False,Very Positive,89,6509,49.99,49.99,0.0
+1904540,Football Manager 2023,2022-11-07,True,True,False,Very Positive,86,6459,59.99,59.99,0.0
+252610,Death Road to Canada,2016-07-21,True,True,True,Very Positive,93,5987,14.99,14.99,0.0
+391220,Rise of the Tomb Raider™,2016-02-09,True,True,True,Very Positive,94,92728,29.99,29.99,0.0
+392950,Lost Lands: A Hidden Object Adventure,2015-09-24,True,True,False,Very Positive,88,5149,0.0,0.0,0.0
+471810,Death Squared,2017-03-13,True,True,False,Very Positive,93,330,14.99,14.99,0.0
+488860,MADNESS: Project Nexus,2021-09-29,True,False,False,Overwhelmingly Positive,97,10228,24.99,24.99,0.0
+840720,Sword Art Online: Lost Song,2018-11-12,True,False,False,Very Positive,81,1499,19.99,19.99,0.0
+1083300,Drill Deal – Oil Tycoon,2022-03-09,True,False,False,Very Positive,84,66,14.99,14.99,0.0
+1110910,Mortal Shell,2021-08-18,True,False,False,Mostly Positive,73,3932,29.99,29.99,0.0
+1707870,RiffTrax: The Game,2022-05-05,True,True,False,Very Positive,93,145,7.49,9.99,25.0
+1895630,VRM Posing Desktop,2022-02-27,True,True,False,Very Positive,97,102,6.99,6.99,0.0
+65930,The Bureau: XCOM Declassified,2013-08-19,True,True,False,Mixed,67,4476,3.99,19.99,80.0
+221380,Age of Empires II (2013),2013-04-09,True,False,False,Overwhelmingly Positive,95,79211,19.99,19.99,0.0
+420930,CHKN,2016-04-01,True,True,True,Mostly Positive,78,1064,14.99,14.99,0.0
+455980,Judgment: Apocalypse Survival Simulation,2018-05-03,True,False,False,Mostly Positive,79,1861,19.99,19.99,0.0
+550080,VALKYRIE DRIVE -BHIKKHUNI-,2017-06-20,True,False,False,Very Positive,84,1046,29.99,29.99,0.0
+1222140,Detroit: Become Human,2020-06-18,True,False,False,Very Positive,94,65412,39.99,39.99,0.0
+1608070,CRISIS CORE –FINAL FANTASY VII– REUNION,2022-12-13,True,False,False,Very Positive,90,2667,49.99,49.99,0.0
+1659040,HITMAN 3,2022-01-20,True,False,False,Very Positive,82,10007,69.99,69.99,0.0
+1990980,The Siege of Brimir,2022-10-27,True,False,False,Positive,85,20,11.99,11.99,0.0
+218230,PlanetSide 2,2012-11-20,True,False,False,Very Positive,81,68891,0.0,0.0,0.0
+356040,Sheltered,2016-03-15,True,True,True,Very Positive,81,4876,14.99,14.99,0.0
+412020,Metro Exodus,2020-02-14,True,True,True,Very Positive,89,72644,29.99,29.99,0.0
+502500,ACE COMBAT™ 7: SKIES UNKNOWN,2019-01-31,True,False,False,Very Positive,87,25464,59.99,59.99,0.0
+504800,Sorcery! Part 4,2016-09-22,True,True,False,Very Positive,82,67,9.99,9.99,0.0
+512790,Quern - Undying Thoughts,2016-11-28,True,True,True,Very Positive,91,2797,24.99,24.99,0.0
+761890,Albion Online,2018-05-16,True,True,True,Mostly Positive,79,55717,0.0,0.0,0.0
+782250,Hush Hush - Only Your Love Can Save Them,2022-08-22,True,True,True,Overwhelmingly Positive,95,658,19.99,19.99,0.0
+1015770,Tina: Swordswoman of the Scarlet Prison,2019-08-01,True,False,False,Very Positive,83,375,7.49,14.99,50.0
+1030840,Mafia: Definitive Edition,2020-09-24,True,False,False,Very Positive,86,39466,13.99,39.99,65.0
+1360000,The Infected,2020-08-06,True,False,False,Very Positive,87,4720,13.99,13.99,0.0
+1689910,Dōkyūsei: Bangin' Summer,2022-04-14,True,False,False,Overwhelmingly Positive,95,1147,19.99,19.99,0.0
+1739000,Franchise Hockey Manager 8,2021-10-26,True,True,False,Very Positive,81,174,19.99,19.99,0.0
+1890740,Voice of Cards: The Beasts of Burden,2022-09-13,True,False,False,Very Positive,82,64,29.99,29.99,0.0
+1920480,River City Girls 2,2022-12-14,True,False,False,Very Positive,84,703,39.99,39.99,0.0
+1981570,Land of the Vikings,2022-11-08,True,False,False,Very Positive,83,714,19.99,19.99,0.0
+221680,Rocksmith® 2014 Edition - Remastered,2016-10-04,True,True,False,Very Positive,89,12075,29.99,29.99,0.0
+228200,Company of Heroes,2009-10-13,True,False,False,Very Positive,94,8699,19.99,19.99,0.0
+248610,Door Kickers,2014-10-20,True,False,True,Very Positive,94,7447,19.99,19.99,0.0
+262060,Darkest Dungeon®,2016-01-19,True,True,True,Very Positive,91,105517,24.99,24.99,0.0
+408900,Unfortunate Spacemen,2020-06-12,True,False,False,Very Positive,87,7083,0.0,0.0,0.0
+637670,Secret of Mana,2018-02-15,True,False,False,Mostly Positive,70,1914,39.99,39.99,0.0
+851670,LUMINES REMASTERED,2018-06-26,True,False,False,Very Positive,95,398,14.99,14.99,0.0
+890720,In Other Waters,2020-04-03,True,True,False,Very Positive,90,1189,4.49,14.99,70.0
+960170,DJMAX RESPECT V,2020-03-11,True,False,False,Very Positive,87,18189,49.99,49.99,0.0
+1062090,Timberborn,2021-09-15,True,True,False,Very Positive,94,16001,24.99,24.99,0.0
+2005210,Void Scrappers,2022-10-21,True,True,True,Very Positive,92,339,3.99,3.99,0.0
+570,Dota 2,2013-07-09,True,True,True,Very Positive,82,1930493,0.0,0.0,0.0
+32500,STAR WARS™: The Force Unleashed™ II,2010-10-26,True,False,False,Mixed,62,4553,6.99,19.99,65.0
+294650,Putt-Putt® Goes to the Moon,2014-05-05,True,True,True,Very Positive,93,126,6.99,6.99,0.0
+457210,SEUM: Speedrunners from Hell,2016-07-28,True,True,True,Overwhelmingly Positive,95,1925,14.99,14.99,0.0
+745920,Temtem,2022-09-06,True,False,False,Very Positive,84,29700,44.99,44.99,0.0
+873840,Truck and Logistics Simulator,2020-06-23,True,False,False,Mostly Positive,70,1239,19.99,19.99,0.0
+1708520,F1® Manager 2022,2022-08-30,True,False,False,Mostly Positive,71,5737,54.99,54.99,0.0
+1066780,Transport Fever 2,2019-12-11,True,True,True,Very Positive,88,15788,39.99,39.99,0.0
+1119700,As Far As The Eye,2020-09-10,True,True,True,Mostly Positive,75,1490,24.99,24.99,0.0
+1243830,Overcooked! All You Can Eat,2021-03-23,True,False,False,Mostly Positive,72,1892,19.99,39.99,50.0
+208200,DOOM 3,2012-10-15,True,False,False,Very Positive,85,6253,9.99,9.99,0.0
+627270,Injustice™ 2,2017-11-30,True,False,False,Very Positive,86,11310,4.99,49.99,90.0
+1303950,Toodee and Topdee,2021-08-04,True,False,False,Very Positive,95,447,9.99,19.99,50.0
+35130,Lara Croft and the Guardian of Light,2010-09-28,True,False,False,Very Positive,92,3013,9.99,9.99,0.0
+266410,iRacing,2015-01-12,True,False,False,Very Positive,82,1542,9.99,9.99,0.0
+301640,Zombie Army Trilogy,2015-03-06,True,False,False,Very Positive,87,12029,44.99,44.99,0.0
+336140,Unavowed,2018-08-08,True,True,True,Overwhelmingly Positive,95,1680,14.99,14.99,0.0
+383120,Empyrion - Galactic Survival,2020-08-05,True,False,False,Very Positive,81,25172,19.99,19.99,0.0
+523780,Emily is Away Too,2017-05-26,True,True,True,Very Positive,94,4489,4.99,4.99,0.0
+613100,House Flipper,2018-05-17,True,True,False,Very Positive,93,63895,24.99,24.99,0.0
+1109680,Regiments,2022-08-16,True,False,False,Very Positive,87,1484,29.99,29.99,0.0
+1266700,Destroy All Humans! 2 - Reprobed,2022-08-30,True,False,False,Mostly Positive,78,1241,29.99,39.99,25.0
+1273710,King of Crabs,2020-07-03,True,False,False,Mostly Positive,79,7800,0.0,0.0,0.0
+1357860,Fuga: Melodies of Steel,2021-07-28,True,False,False,Very Positive,91,649,39.99,39.99,0.0
+1598160,Bloodwash,2021-09-16,True,False,False,Very Positive,92,724,7.99,7.99,0.0
+293760,Automation - The Car Company Tycoon Game,2015-03-12,True,False,False,Very Positive,92,8524,29.99,29.99,0.0
+359220,MX vs. ATV Unleashed,2015-04-16,True,False,False,Mostly Positive,71,438,9.99,9.99,0.0
+460930,Tom Clancy's Ghost Recon® Wildlands,2017-03-06,True,False,False,Very Positive,80,61475,49.99,49.99,0.0
+1051310,Paper Dolls: Original / 纸人,2019-04-19,True,False,False,Very Positive,86,3343,16.99,16.99,0.0
+1079620,Infinity: Battlescape,2019-09-26,True,False,False,Very Positive,80,479,34.99,34.99,0.0
+1233270,OshiRabu: Waifus Over Husbandos,2020-02-27,True,False,False,Very Positive,87,3445,19.99,19.99,0.0
+1546500,Warplanes: WW1 Fighters,2021-03-04,True,False,False,Very Positive,91,334,19.99,19.99,0.0
+2018130,Desktopia: A Desktop Village Simulator,2022-08-05,True,False,True,Mostly Positive,78,160,9.99,9.99,0.0
+4570,Warhammer® 40000: Dawn of War® - Game of the Year Edition,2014-05-14,True,False,False,Overwhelmingly Positive,95,6055,12.99,12.99,0.0
+50300,Spec Ops: The Line,2012-06-25,True,True,True,Very Positive,93,25119,5.99,29.99,80.0
+211500,RaceRoom Racing Experience,2013-02-12,True,False,False,Mostly Positive,73,18323,0.0,0.0,0.0
+215530,The Incredible Adventures of Van Helsing,2013-05-22,True,False,False,Very Positive,83,6779,14.99,14.99,0.0
+381020,Sky Rogue,2017-08-24,True,True,True,Very Positive,93,832,19.99,19.99,0.0
+488790,South Park™: The Fractured But Whole™,2017-10-16,True,False,False,Very Positive,82,18530,49.99,49.99,0.0
+1229490,ULTRAKILL,2020-09-03,True,False,False,Overwhelmingly Positive,98,47314,24.99,24.99,0.0
+972660,Spiritfarer®: Farewell Edition,2020-08-18,True,True,True,Overwhelmingly Positive,95,25641,29.99,29.99,0.0
+1245620,ELDEN RING,2022-02-24,True,False,False,Very Positive,91,481754,59.99,59.99,0.0
+1483780,Tested on Humans: Escape Room,2021-02-24,True,False,False,Very Positive,88,291,9.99,9.99,0.0
+1786830,NecroBouncer,2022-12-08,True,True,False,Very Positive,83,65,13.99,13.99,0.0
+230410,Warframe,2013-03-25,True,False,False,Very Positive,87,521366,0.0,0.0,0.0
+288470,Fable Anniversary,2014-09-12,True,False,False,Very Positive,84,10263,34.99,34.99,0.0
+620980,Beat Saber,2019-05-21,True,False,False,Overwhelmingly Positive,96,61441,29.99,29.99,0.0
+966610,FPS Monitor – hardware in-game & desktop overlays,2018-11-09,True,False,False,Very Positive,85,1327,11.99,11.99,0.0
+979690,The Ascent,2021-07-29,True,False,False,Mostly Positive,76,14233,29.99,29.99,0.0
+1113000,Persona 4 Golden,2020-06-13,True,False,False,Overwhelmingly Positive,97,53422,19.99,19.99,0.0
+1123770,Curse of the Dead Gods,2021-02-23,True,False,False,Very Positive,86,5581,19.99,19.99,0.0
+1342260,SAMURAI SHODOWN,2021-06-14,True,False,False,Mostly Positive,77,706,0.0,0.0,0.0
+1603640,The House of Da Vinci 3,2022-12-22,True,False,False,Very Positive,93,280,19.99,19.99,0.0
+41700,S.T.A.L.K.E.R.: Call of Pripyat,2010-02-11,True,False,False,Overwhelmingly Positive,95,18571,19.99,19.99,0.0
+363890,RPG Maker MV,2015-10-23,True,True,True,Very Positive,92,5491,11.99,79.99,85.0
+413150,Stardew Valley,2016-02-26,True,True,True,Overwhelmingly Positive,98,457664,14.99,14.99,0.0
+428550,Momodora: Reverie Under The Moonlight,2016-03-04,True,True,True,Very Positive,94,8637,9.99,9.99,0.0
+431240,Golf With Your Friends,2020-05-19,True,True,True,Very Positive,90,37249,14.99,14.99,0.0
+1290750,Crawl Tactics,2022-12-08,True,True,True,Positive,81,48,19.99,19.99,0.0
+1426210,It Takes Two,2021-03-25,True,False,False,Overwhelmingly Positive,95,102750,39.99,39.99,0.0
+1516750,Alien Marauder,2021-11-17,True,False,False,Mostly Positive,73,237,19.99,19.99,0.0
+200510,XCOM: Enemy Unknown,2012-10-08,True,False,True,Very Positive,94,34654,5.99,29.99,80.0
+203770,Crusader Kings II,2012-02-14,True,True,True,Very Positive,90,68586,0.0,0.0,0.0
+274170,Hotline Miami 2: Wrong Number,2015-03-10,True,True,True,Very Positive,93,40412,14.99,14.99,0.0
+393420,Hurtworld,2019-12-10,True,True,False,Mostly Positive,76,23777,24.99,24.99,0.0
+789760,DEAD OR SCHOOL,2019-06-03,True,False,False,Very Positive,85,2400,24.99,24.99,0.0
+882250,Metro Sim Hustle,2021-07-24,True,False,False,Very Positive,80,225,14.99,14.99,0.0
+1184560,Phantom Breaker: Omnia,2022-03-14,True,False,False,Mostly Positive,72,112,39.99,39.99,0.0
+1229880,Koumajou Remilia: Scarlet Symphony,2022-07-27,True,False,False,Mostly Positive,70,167,26.99,29.99,10.0
+1239320,Animal Shelter,2022-03-23,True,False,False,Very Positive,84,1515,19.99,19.99,0.0
+1381850,Strategic Mind: Fight for Freedom,2021-05-21,True,False,False,Very Positive,87,82,29.99,29.99,0.0
+1527950,Wartales,2021-12-01,True,False,False,Very Positive,90,8604,27.99,34.99,20.0
+1709900,Tower Tactics: Liberation,2023-02-06,True,False,False,Very Positive,92,673,12.99,12.99,0.0
+1206560,WorldBox - God Simulator,2021-12-02,True,True,True,Very Positive,94,16480,19.99,19.99,0.0
+1229240,Chained Echoes,2022-12-08,True,True,True,Very Positive,92,2417,22.49,24.99,10.0
+1718160,Crimzon Clover World EXplosion,2021-12-06,True,False,False,Very Positive,97,176,19.99,19.99,0.0
+500,Left 4 Dead,2008-11-17,True,True,False,Overwhelmingly Positive,96,37937,9.99,9.99,0.0
+8930,Sid Meier's Civilization® V,2010-09-21,True,True,True,Overwhelmingly Positive,96,115749,29.99,29.99,0.0
+383150,Dead Island Definitive Edition,2016-05-31,True,False,True,Very Positive,82,14899,19.99,19.99,0.0
+504230,Celeste,2018-01-25,True,True,True,Overwhelmingly Positive,97,61428,19.99,19.99,0.0
+520440,GUILTY GEAR Xrd REV 2,2017-05-31,True,False,False,Very Positive,93,6268,29.99,29.99,0.0
+558260,Gravel,2018-02-27,True,True,True,Mostly Positive,74,621,19.99,19.99,0.0
+597170,Clone Drone in the Danger Zone,2021-07-27,True,True,False,Overwhelmingly Positive,97,19373,19.99,19.99,0.0
+611670,The Elder Scrolls V: Skyrim VR,2018-04-02,True,False,False,Mostly Positive,75,6842,59.99,59.99,0.0
+794800,Clue/Cluedo: The Classic Mystery Game,2018-05-17,True,False,False,Very Positive,88,2144,14.99,14.99,0.0
+924970,Back 4 Blood,2021-10-12,True,False,False,Mixed,66,33598,14.99,59.99,75.0
+975680,METAL SLUG XX,2019-01-31,True,False,False,Mixed,50,747,19.99,19.99,0.0
+1307550,Craftopia,2020-09-04,True,False,False,Very Positive,82,14049,24.99,24.99,0.0
+1508400,Kaiju Wars,2022-04-28,True,True,True,Very Positive,86,134,19.99,19.99,0.0
+1642170,Dawn of the Monsters,2022-03-15,True,False,False,Very Positive,93,75,20.99,29.99,30.0
+1649080,Two Point Campus,2022-08-09,True,True,True,Very Positive,88,1864,39.99,39.99,0.0
+1865060,14 Minesweeper Variants,2022-11-14,True,False,False,Very Positive,98,348,6.99,6.99,0.0
+440,Team Fortress 2,2007-10-10,True,True,True,Very Positive,93,935635,0.0,0.0,0.0
+6060,Star Wars: Battlefront 2 (Classic 2005),2009-07-08,True,False,False,Very Positive,94,41921,3.49,9.99,65.0
+39500,Gothic® 3,2009-12-02,True,False,False,Very Positive,80,6729,9.99,9.99,0.0
+109600,Neverwinter,2013-12-05,True,False,False,Mostly Positive,77,35508,0.0,0.0,0.0
+261470,Distant Worlds: Universe,2014-05-23,True,False,False,Mostly Positive,72,1317,29.99,29.99,0.0
+438640,LEGO® STAR WARS™: The Force Awakens,2016-06-27,True,False,False,Very Positive,83,3585,19.99,19.99,0.0
+707300,Hatsune Miku VR,2018-03-08,True,False,False,Mostly Positive,73,544,24.99,24.99,0.0
+1338580,McPixel 3,2022-11-14,True,True,True,Very Positive,97,288,9.99,9.99,0.0
+1825160,The Backrooms,2022-10-28,True,False,False,Very Positive,82,50,4.99,4.99,0.0
+410900,Forts,2017-04-19,True,False,False,Very Positive,92,12248,14.99,14.99,0.0
+508440,Totally Accurate Battle Simulator,2021-04-01,True,True,False,Overwhelmingly Positive,98,95698,19.99,19.99,0.0
+615730,Nancy Drew®: The Final Scene,2017-04-18,True,False,False,Very Positive,83,90,6.99,6.99,0.0
+1082180,TT Isle of Man: Ride on the Edge 2,2020-03-19,True,False,False,Very Positive,81,618,29.99,29.99,0.0
+1640320,B.I.O.T.A.,2022-04-12,True,False,False,Very Positive,85,84,4.99,9.99,50.0
+1782330,Green Hell VR,2022-06-09,True,False,False,Mostly Positive,76,611,24.99,24.99,0.0
+1812620,DSX,2022-06-24,True,False,False,Very Positive,85,611,4.99,4.99,0.0
+70,Half-Life,1998-11-08,True,True,True,Overwhelmingly Positive,96,68327,9.99,9.99,0.0
+209000,Batman™: Arkham Origins,2013-10-24,True,False,False,Very Positive,88,27664,4.99,19.99,75.0
+368260,Marvel's Midnight Suns,2022-12-01,True,False,False,Mostly Positive,78,6011,35.99,59.99,40.0
+702050,The Song of Saya,2019-08-12,True,False,False,Very Positive,92,3726,14.99,14.99,0.0
+957720,Strategic Command WWII: World at War,2018-12-06,True,False,False,Very Positive,85,370,39.99,39.99,0.0
+1094520,Sands of Salzaar,2021-12-15,True,False,False,Very Positive,83,19351,14.99,14.99,0.0
+1121560,Atelier Ryza: Ever Darkness & the Secret Hideout,2019-10-28,True,False,False,Very Positive,86,5605,59.99,59.99,0.0
+1269810,The Curse of Kubel,2020-07-23,True,False,False,Mostly Positive,72,397,9.74,14.99,35.0
+1373510,BloodRayne: Terminal Cut,2020-11-20,True,False,False,Very Positive,91,812,14.99,14.99,0.0
+1471410,SYNTHETIK 2,2021-11-11,True,False,False,Very Positive,82,1077,15.99,19.99,20.0
+1487680,Broken Universe - Tower Defense,2023-02-04,True,False,False,Very Positive,91,176,9.99,9.99,0.0
+1797930,Para Eyes,2022-10-25,True,False,False,Positive,100,36,9.99,9.99,0.0
+1976440,CounterSide,2022-09-01,True,False,False,Mixed,68,2135,0.0,0.0,0.0
+962130,Grounded,2022-09-27,True,False,False,Very Positive,89,40167,39.99,39.99,0.0
+1284190,The Planet Crafter,2022-03-24,True,False,False,Overwhelmingly Positive,96,17439,19.99,19.99,0.0
+1446780,MONSTER HUNTER RISE,2022-01-12,True,False,False,Very Positive,86,42843,39.99,39.99,0.0
+1495860,What The Dub?!,2021-04-08,True,True,False,Very Positive,94,223,3.99,7.99,50.0
+1545990,Deadeye Deepfake Simulacrum,2022-10-13,True,True,True,Very Positive,99,236,12.99,12.99,0.0
+1604030,V Rising,2022-05-17,True,False,False,Very Positive,88,52327,19.99,19.99,0.0
+1679290,Fire & Maneuver,2022-07-15,True,False,False,Mostly Positive,79,1916,0.0,0.0,0.0
+882020,Monster Energy Supercross - The Official Videogame 2,2019-02-08,True,False,False,Very Positive,86,425,19.99,19.99,0.0
+370300,8-Bit Adventures 1: The Forgotten Journey Remastered Edition,2015-05-22,True,False,False,Positive,95,41,3.99,9.99,60.0
+453090,Parkitect,2018-11-29,True,True,True,Very Positive,94,5215,29.99,29.99,0.0
+528740,Operation: New Earth,2016-12-14,True,True,False,Mixed,58,614,0.0,0.0,0.0
+574050,DRAGON QUEST HEROES™ II,2017-04-25,True,False,False,Mixed,69,620,59.99,59.99,0.0
+758870,Kynseed,2022-12-06,True,False,False,Very Positive,81,1999,24.99,24.99,0.0
+861650,Session: Skate Sim,2022-09-22,True,False,False,Very Positive,85,8701,39.99,39.99,0.0
+979110,Space Haven,2020-05-21,True,True,True,Very Positive,87,6053,22.99,22.99,0.0
+1030210,Torchlight III,2020-10-13,True,False,False,Mixed,47,9604,39.99,39.99,0.0
+1116880,The Heroic Legend of Eagarlnia,2022-04-13,True,False,False,Very Positive,86,1398,12.99,12.99,0.0
+1321680,Hello Neighbor 2,2022-12-06,True,False,False,Mixed,69,1033,39.99,39.99,0.0
+1399080,The DioField Chronicle,2022-09-22,True,False,False,Mixed,45,540,59.99,59.99,0.0
+457140,Oxygen Not Included,2019-07-30,True,True,True,Overwhelmingly Positive,96,89884,24.99,24.99,0.0
+525510,Guns Gore and Cannoli 2,2018-03-02,True,True,False,Very Positive,94,2924,6.49,12.99,50.0
+527230,For The King,2018-04-19,True,True,True,Very Positive,88,22248,19.99,19.99,0.0
+555950,Danganronpa Another Episode: Ultra Despair Girls,2017-06-27,True,False,False,Very Positive,87,4169,11.99,29.99,60.0
+938860,Get In The Car Loser!,2021-09-21,True,True,False,Very Positive,94,50,9.99,9.99,0.0
+1146510,Deep Sleep Trilogy,2019-10-25,True,False,False,Very Positive,98,267,4.99,4.99,0.0
+1213210,Command & Conquer™ Remastered Collection,2020-06-05,True,False,False,Very Positive,90,24495,19.99,19.99,0.0
+1678430,PowerSlave Exhumed,2022-02-10,True,False,False,Very Positive,92,448,19.99,19.99,0.0
+50620,Darksiders™,2010-09-23,True,False,False,Very Positive,89,7685,0.0,0.0,0.0
+246620,Plague Inc: Evolved,2016-02-18,True,True,True,Very Positive,94,41361,5.09,14.99,66.0
+304530,Agents of Mayhem,2017-08-15,True,False,False,Mixed,59,2985,29.99,29.99,0.0
+313120,Stranded Deep,2022-08-10,True,True,True,Mostly Positive,75,36171,19.99,19.99,0.0
+322170,Geometry Dash,2014-12-22,True,True,False,Very Positive,93,208591,3.99,3.99,0.0
+342180,Arizona Sunshine®,2016-12-06,True,False,False,Very Positive,80,6730,29.99,29.99,0.0
+349040,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,2016-02-04,True,False,False,Very Positive,90,59543,29.99,29.99,0.0
+361990,Lakeview Cabin Collection,2015-04-09,True,True,False,Overwhelmingly Positive,95,1395,9.99,9.99,0.0
+491950,Orwell: Keeping an Eye On You,2016-10-27,True,True,True,Very Positive,91,7658,9.99,9.99,0.0
+566860,VR Dungeon Knight,2017-04-24,True,False,False,Mostly Positive,78,1258,2.99,19.99,85.0
+573090,Stormworks: Build and Rescue,2020-09-17,True,True,False,Very Positive,92,30687,24.99,24.99,0.0
+1079210,Spark the Electric Jester 2,2019-05-16,True,False,False,Very Positive,91,454,12.99,12.99,0.0
+1324130,Stranded: Alien Dawn,2022-10-12,True,False,False,Very Positive,87,2501,29.99,29.99,0.0
+1544020,The Callisto Protocol™,2022-12-01,True,False,False,Mixed,62,21737,59.99,59.99,0.0
+1702330,Rune Factory 5,2022-07-13,True,False,False,Very Positive,81,948,49.99,49.99,0.0
+466560,Northgard,2018-03-07,True,True,True,Very Positive,88,40984,29.99,29.99,0.0
+517630,Just Cause 4 Reloaded,2018-12-04,True,False,False,Mixed,63,16811,0.0,0.0,0.0
+636480,Ravenfield,2017-05-18,True,True,True,Overwhelmingly Positive,97,54253,17.99,17.99,0.0
+2098090,Lost Lands: Sand Captivity,2022-12-09,True,False,False,Positive,100,25,6.99,6.99,0.0
+770100,One Deck Dungeon,2018-05-18,True,True,True,Very Positive,80,593,9.99,9.99,0.0
+875760,Furious Seas,2021-07-18,True,False,False,Mostly Positive,73,186,19.99,19.99,0.0
+1524630,KeepUp Survival,2021-02-26,True,False,False,Mixed,68,411,12.99,12.99,0.0
+1687950,Persona 5 Royal,2022-10-20,True,False,False,Overwhelmingly Positive,97,23096,59.99,59.99,0.0
+250900,The Binding of Isaac: Rebirth,2014-11-04,True,True,True,Overwhelmingly Positive,97,204840,14.99,14.99,0.0
+418370,Resident Evil 7 Biohazard,2017-01-23,True,False,False,Very Positive,94,45249,19.99,19.99,0.0
+422900,Particle Fleet: Emergence,2016-09-29,True,True,True,Very Positive,92,964,14.99,14.99,0.0
+646910,The Crew™ 2,2018-06-28,True,False,False,Very Positive,83,53867,49.99,49.99,0.0
+741510,The Hong Kong Massacre,2019-01-21,True,False,False,Mostly Positive,77,774,19.99,19.99,0.0
+763890,Wildermyth,2021-06-15,True,True,True,Overwhelmingly Positive,95,13166,24.99,24.99,0.0
+826630,Iron Harvest,2020-08-31,True,False,False,Mostly Positive,74,8263,29.99,29.99,0.0
+920210,LEGO® Star Wars™: The Skywalker Saga,2022-04-05,True,False,False,Very Positive,92,28451,49.99,49.99,0.0
+990920,Sea of Craft,2022-04-28,True,False,False,Mostly Positive,73,360,14.99,14.99,0.0
+1254370,No one lives under the lighthouse Director's cut,2020-04-21,True,True,True,Very Positive,89,1208,6.99,6.99,0.0
+1361510,Teenage Mutant Ninja Turtles: Shredder's Revenge,2022-06-16,True,False,True,Very Positive,94,9502,24.99,24.99,0.0
+1490840,Bloodshore,2021-11-03,True,True,False,Mostly Positive,71,428,4.19,14.99,72.0
+1840490,Christmas Massacre,2021-12-17,True,False,False,Very Positive,89,441,7.99,7.99,0.0
+38420,Fallout Tactics: Brotherhood of Steel,2009-08-19,True,False,False,Mostly Positive,79,1674,9.99,9.99,0.0
+261640,Borderlands: The Pre-Sequel,2014-10-13,True,True,True,Very Positive,83,26379,9.99,39.99,75.0
+433340,Slime Rancher,2017-08-01,True,True,True,Overwhelmingly Positive,97,91334,4.99,19.99,75.0
+805550,Assetto Corsa Competizione,2019-05-29,True,False,False,Very Positive,91,16441,39.99,39.99,0.0
+1150590,Samurai Jack: Battle Through Time,2020-08-21,True,False,False,Very Positive,85,1033,39.99,39.99,0.0
+1278390,Succumate,2020-11-20,True,False,False,Very Positive,83,685,11.24,14.99,25.0
+1709050,Nitro Kid,2022-10-18,True,True,False,Very Positive,93,179,19.99,19.99,0.0
+1885750,Betrayal At Club Low,2022-09-09,True,True,True,Very Positive,97,219,9.99,9.99,0.0
+2211280,Roller Champions™,2022-12-13,True,False,False,Mixed,69,160,0.0,0.0,0.0
+212160,Vindictus,2012-06-22,True,False,False,Mixed,69,7332,0.0,0.0,0.0
+238370,Magicka 2,2015-05-26,True,True,True,Very Positive,82,7574,14.99,14.99,0.0
+375900,Trackmania® Turbo,2016-03-24,True,False,False,Mixed,66,1348,39.99,39.99,0.0
+489520,Minion Masters,2019-05-24,True,True,False,Very Positive,91,59965,0.0,0.0,0.0
+598550,HUNTDOWN,2021-05-12,True,True,True,Overwhelmingly Positive,95,2168,19.99,19.99,0.0
+925950,Here Comes Niko!,2021-08-03,True,False,False,Very Positive,91,685,24.99,24.99,0.0
+31910,Nancy Drew®: The Haunting of Castle Malloy,2009-07-17,True,False,False,Very Positive,80,131,6.99,6.99,0.0
+1244460,Jurassic World Evolution 2,2021-11-09,True,False,False,Very Positive,85,13959,59.99,59.99,0.0
+1305420,Agrou,2020-07-25,True,False,False,Very Positive,89,1869,4.99,4.99,0.0
+1531430,Paragon: The Overprime,2022-12-05,True,False,False,Mixed,58,8062,0.0,0.0,0.0
+1623070,Master of Magic,2022-12-13,True,False,False,Mostly Positive,72,473,39.99,39.99,0.0
+1816670,GUNDAM EVOLUTION,2022-09-19,True,False,False,Mixed,52,18407,0.0,0.0,0.0
+214490,Alien: Isolation,2014-10-06,True,True,True,Very Positive,92,36285,39.99,39.99,0.0
+301650,Battlezone 98 Redux,2016-04-18,True,True,False,Very Positive,91,821,19.99,19.99,0.0
+397350,Lords of the Realm II,2015-12-03,True,False,False,Overwhelmingly Positive,96,1108,2.99,2.99,0.0
+464060,RUINER,2017-09-26,True,False,True,Very Positive,90,8544,19.99,19.99,0.0
+611760,Don't Escape: 4 Days to Survive,2019-03-11,True,True,False,Overwhelmingly Positive,99,1224,14.99,14.99,0.0
+661790,Witch Hunt,2018-09-03,True,False,False,Very Positive,88,1873,9.99,9.99,0.0
+741430,Titanic VR,2018-08-16,True,False,False,Very Positive,81,203,19.99,19.99,0.0
+1113120,IXION,2022-12-07,True,False,False,Mostly Positive,71,8014,34.99,34.99,0.0
+1354230,Love Tavern,2021-07-31,True,False,False,Mostly Positive,72,591,6.99,6.99,0.0
+204360,Castle Crashers®,2012-09-26,True,True,False,Overwhelmingly Positive,96,72822,14.99,14.99,0.0
+230290,Universe Sandbox,2015-08-24,True,True,True,Overwhelmingly Positive,96,16705,29.99,29.99,0.0
+658970,CasinoRPG,2018-01-16,True,True,False,Mixed,62,235,0.0,0.0,0.0
+1093910,Tales of the Black Forest,2019-09-25,True,False,False,Overwhelmingly Positive,98,8589,3.99,3.99,0.0
+570580,Zork Anthology,2017-04-18,True,False,False,Very Positive,95,67,3.89,5.99,35.0
+1672970,Minecraft Dungeons,2021-09-22,True,False,False,Very Positive,91,6271,19.99,19.99,0.0
+2067850,Drakensang Online,2022-09-27,True,False,False,Mixed,63,657,0.0,0.0,0.0
+22380,Fallout: New Vegas,2010-10-19,True,False,False,Overwhelmingly Positive,96,138015,9.99,9.99,0.0
+239140,Dying Light,2016-04-21,True,True,True,Overwhelmingly Positive,95,263869,9.89,29.99,67.0
+448280,Job Simulator,2016-04-05,True,False,False,Very Positive,91,3041,19.99,19.99,0.0
+667970,VTOL VR,2017-08-03,True,False,False,Overwhelmingly Positive,98,9567,29.99,29.99,0.0
+812140,Assassin's Creed® Odyssey,2018-10-05,True,False,False,Very Positive,89,120043,59.99,59.99,0.0
+1338770,Sniper Ghost Warrior Contracts 2,2021-06-04,True,False,False,Very Positive,85,6084,39.99,39.99,0.0
+1347970,Patch Quest,2021-05-07,True,False,False,Very Positive,98,457,14.99,14.99,0.0
+1382320,Antonball Deluxe,2021-03-05,True,False,False,Very Positive,97,208,14.99,14.99,0.0
+1586800,Lil Gator Game,2022-12-14,True,False,False,Overwhelmingly Positive,99,1435,19.99,19.99,0.0
+1789480,Marauders,2022-10-03,True,False,False,Mostly Positive,78,8047,29.99,29.99,0.0
+12710,Overlord™: Raising Hell,2008-02-28,True,False,False,Very Positive,92,1355,9.99,9.99,0.0
+544750,SOULCALIBUR VI,2018-10-18,True,False,False,Very Positive,82,7459,9.59,59.99,84.0
+555220,Detention,2017-01-12,True,True,True,Overwhelmingly Positive,95,9102,11.99,11.99,0.0
+631510,Devil May Cry HD Collection,2018-03-13,True,False,False,Very Positive,91,5398,29.99,29.99,0.0
+1145360,Hades,2020-09-17,True,True,False,Overwhelmingly Positive,98,202163,24.99,24.99,0.0
+1468810,鬼谷八荒 Tale of Immortal,2021-01-27,True,False,False,Mixed,51,182149,19.99,19.99,0.0
+1574580,Strange Horticulture,2022-01-21,True,True,False,Overwhelmingly Positive,95,5770,14.99,14.99,0.0
+221540,DG2: Defense Grid 2,2014-09-23,True,False,False,Very Positive,85,2145,14.99,14.99,0.0
+314980,Supreme Ruler Ultimate,2014-10-17,True,True,False,Mostly Positive,77,1043,19.99,19.99,0.0
+509980,BIGFOOT,2017-01-31,True,False,False,Very Positive,82,12179,19.99,19.99,0.0
+705220,Tactical Monsters Rumble Arena,2018-01-31,True,True,False,Very Positive,89,4526,0.0,0.0,0.0
+757210,EMERGENCY 4 Deluxe,2018-04-24,True,False,False,Very Positive,93,1249,17.99,17.99,0.0
+1432860,Sun Haven,2021-06-25,True,True,False,Very Positive,91,3031,24.99,24.99,0.0
+22100,Mount & Blade,2008-11-03,True,False,False,Very Positive,92,4597,9.99,9.99,0.0
+47890,The Sims™ 3,2011-01-27,True,False,False,Very Positive,86,25904,19.99,19.99,0.0
+230700,La-Mulana,2013-04-15,True,True,True,Very Positive,80,1691,14.99,14.99,0.0
+248310,Freedom Planet,2014-07-21,True,True,True,Overwhelmingly Positive,96,2910,14.99,14.99,0.0
+996580,Spyro™ Reignited Trilogy,2019-09-03,True,False,False,Very Positive,94,9292,39.99,39.99,0.0
+236690,Blood Bowl 2,2017-09-05,True,True,False,Mostly Positive,77,6316,19.99,19.99,0.0
+290080,Life is Feudal: Your Own,2015-11-17,True,False,False,Mixed,65,8492,19.99,19.99,0.0
+294670,Putt-Putt® Travels Through Time,2014-05-15,True,True,True,Very Positive,93,208,6.99,6.99,0.0
+585420,Trailmakers,2019-09-18,True,False,False,Very Positive,92,12440,24.99,24.99,0.0
+784950,CONFLICT OF NATIONS: WORLD WAR 3,2018-03-15,True,True,False,Mostly Positive,76,3141,0.0,0.0,0.0
+825630,STEINS;GATE 0,2018-05-08,True,False,False,Overwhelmingly Positive,96,4281,13.99,34.99,60.0
+961200,Predecessor,2022-11-30,True,False,False,Very Positive,82,4568,0.0,0.0,0.0
+1222680,Need for Speed™ Heat,2020-06-04,True,False,False,Very Positive,84,63433,69.99,69.99,0.0
+1248130,Farming Simulator 22,2021-11-21,True,True,False,Very Positive,90,31057,39.99,39.99,0.0
+1488200,Symphony of War: The Nephilim Saga,2022-06-10,True,False,False,Overwhelmingly Positive,95,5835,13.39,19.99,33.0
+1517290,Battlefield™ 2042,2021-11-19,True,False,False,Mostly Negative,35,131182,59.99,59.99,0.0
+276810,Mordheim: City of the Damned,2015-11-19,True,False,False,Mostly Positive,72,6079,19.99,19.99,0.0
+281990,Stellaris,2016-05-09,True,True,True,Very Positive,88,101041,39.99,39.99,0.0
+299740,Miscreated,2018-12-18,True,False,False,Mixed,67,23228,29.99,29.99,0.0
+637650,FINAL FANTASY XV WINDOWS EDITION,2018-03-06,True,False,False,Very Positive,82,33684,34.99,34.99,0.0
+936530,Close Combat: Last Stand Arnhem,2018-11-29,True,False,False,Very Positive,82,90,39.99,39.99,0.0
+12320,Sacred Gold,2008-07-09,True,False,False,Very Positive,84,3086,9.99,9.99,0.0
+15300,Tom Clancy's Ghost Recon®,2008-07-15,True,False,False,Very Positive,92,1074,9.99,9.99,0.0
+233740,Organ Trail: Director's Cut,2013-03-19,True,True,True,Very Positive,89,2169,4.99,4.99,0.0
+293260,Card Hunter,2015-07-13,True,True,False,Very Positive,85,4940,0.0,0.0,0.0
+492720,Tropico 6,2019-03-29,True,True,True,Very Positive,87,15140,39.99,39.99,0.0
+598980,The Coin Game,2019-02-22,True,False,False,Overwhelmingly Positive,96,4034,13.99,13.99,0.0
+785480,Titanic: Adventure Out Of Time,2018-04-26,True,False,False,Very Positive,86,263,5.99,5.99,0.0
+814380,Sekiro™: Shadows Die Twice - GOTY Edition,2019-03-21,True,False,False,Very Positive,94,157587,59.99,59.99,0.0
+998740,Ring of Pain,2020-10-15,True,True,False,Very Positive,91,2481,19.99,19.99,0.0
+1144200,Ready or Not,2021-12-17,True,False,False,Very Positive,92,79045,39.99,39.99,0.0
+1343240,Thymesia,2022-08-18,True,False,False,Very Positive,86,4164,24.99,24.99,0.0
+1200,Red Orchestra: Ostfront 41-45,2006-03-14,True,True,True,Very Positive,84,1282,4.99,4.99,0.0
+268910,Cuphead,2017-09-29,True,True,False,Overwhelmingly Positive,96,115899,19.99,19.99,0.0
+394360,Hearts of Iron IV,2016-06-06,True,True,True,Very Positive,92,157892,39.99,39.99,0.0
+496460,Life is Feudal: Forest Village,2017-05-26,True,False,False,Mixed,65,4829,24.99,24.99,0.0
+1078330,Liz ~The Tower and the Grimoire~,2020-02-13,True,False,False,Very Positive,91,395,9.74,14.99,35.0
+1150690,OMORI,2020-12-25,True,True,False,Overwhelmingly Positive,98,47297,19.99,19.99,0.0
+1170060,Boomerang X,2021-07-08,True,False,False,Overwhelmingly Positive,96,679,19.99,19.99,0.0
+1325860,VTube Studio,2021-03-12,True,True,False,Very Positive,92,2706,0.0,0.0,0.0
+400,Portal,2007-10-10,True,True,True,Overwhelmingly Positive,98,104073,9.99,9.99,0.0
+292730,Call of Duty®: Infinite Warfare,2016-11-03,True,False,False,Mixed,55,12479,59.99,59.99,0.0
+442120,Pinball FX3,2017-09-26,True,False,False,Very Positive,88,4237,0.0,0.0,0.0
+789830,[TDA03] Muv-Luv Unlimited: THE DAY AFTER - Episode 03 REMASTERED,2021-02-04,True,False,False,Very Positive,94,55,24.99,24.99,0.0
+819020,Zanki Zero: Last Beginning,2019-04-09,True,False,False,Mostly Positive,78,526,17.99,59.99,70.0
+1028860,Star Chef: Cooking & Restaurant Game,2019-04-03,True,False,False,Mixed,55,306,0.0,0.0,0.0
+1144910,Space Gladiators,2021-03-10,True,False,False,Very Positive,94,248,5.99,14.99,60.0
+1211020,Wobbly Life,2020-07-08,True,False,False,Overwhelmingly Positive,97,10321,12.59,13.99,10.0
+1807200,Mirror Forge,2022-12-06,True,False,False,Very Positive,80,85,12.99,12.99,0.0
+1817070,Marvel’s Spider-Man Remastered,2022-08-12,True,False,False,Overwhelmingly Positive,96,41232,59.99,59.99,0.0
+253230,A Hat in Time,2017-10-05,True,True,False,Overwhelmingly Positive,98,36782,29.99,29.99,0.0
+388980,Race Track Builder,2015-08-20,True,False,False,Mixed,61,157,59.99,59.99,0.0
+703860,GRID,2019-10-10,True,False,False,Mostly Positive,71,3404,19.99,19.99,0.0
+774811,YUMENIKKI -DREAM DIARY-,2018-02-22,True,False,False,Mixed,69,1030,19.99,19.99,0.0
+1113570,Voice of Cards: The Isle Dragon Roars,2021-10-28,True,False,False,Very Positive,81,965,29.99,29.99,0.0
+2154230,AI: Art Impostor,2022-11-03,True,False,False,Mixed,67,253,4.99,4.99,0.0
+271260,Star Control®: Origins,2018-09-20,True,False,False,Mostly Positive,72,1804,11.99,29.99,60.0
+339340,Resident Evil 0,2016-01-19,True,False,False,Very Positive,84,6578,19.99,19.99,0.0
+500260,Ben and Ed - Blood Party,2018-02-13,True,False,False,Very Positive,88,1638,14.99,14.99,0.0
+1057640,Onirism,2019-04-26,True,False,False,Very Positive,90,280,17.99,17.99,0.0
+1301390,No Umbrellas Allowed,2021-09-03,True,True,False,Mostly Positive,79,1026,19.99,19.99,0.0
+1521580,Perfect Heist 2,2021-12-10,True,False,True,Overwhelmingly Positive,95,1262,7.49,9.99,25.0
+250400,How to Survive,2014-08-29,True,False,False,Very Positive,82,13673,14.99,14.99,0.0
+322330,Don't Starve Together,2016-04-21,True,True,True,Overwhelmingly Positive,96,252688,14.99,14.99,0.0
+334230,Town of Salem,2014-12-15,True,True,False,Very Positive,89,30394,4.99,4.99,0.0
+397540,Borderlands 3,2020-03-13,True,False,False,Very Positive,84,86374,5.99,59.99,90.0
+424840,Little Nightmares,2017-04-27,True,False,False,Very Positive,94,34436,19.99,19.99,0.0
+991560,ONE PUNCH MAN: A HERO NOBODY KNOWS,2020-02-27,True,False,False,Mixed,51,997,8.99,59.99,85.0
+1144020,GolfTopia,2021-03-30,True,False,False,Very Positive,96,393,19.99,19.99,0.0
+1182110,Weed Shop 3,2022-04-20,True,False,False,Very Positive,94,2786,19.99,19.99,0.0
+1341290,We Were Here Forever,2022-05-10,True,False,False,Very Positive,91,7675,17.99,17.99,0.0
+1529570,MorphVOX Pro 5 - Voice Changer,2021-02-10,True,False,False,Mixed,50,96,39.99,39.99,0.0
+288120,Dungeonmans,2014-12-09,True,False,False,Very Positive,90,846,14.99,14.99,0.0
+324510,Boundless,2018-09-11,True,True,False,Mostly Positive,75,1575,39.99,39.99,0.0
+386180,Crossout,2017-07-26,True,False,False,Mostly Positive,77,53381,0.0,0.0,0.0
+435150,Divinity: Original Sin 2 - Definitive Edition,2017-09-14,True,True,False,Overwhelmingly Positive,95,137279,44.99,44.99,0.0
+1604240,Sumotori Dreams Classic,2021-05-03,True,False,False,Very Positive,95,121,4.99,4.99,0.0
+552520,Far Cry® 5,2018-03-26,True,False,False,Very Positive,80,120698,59.99,59.99,0.0
+865360,We Were Here Together,2019-10-10,True,True,False,Very Positive,85,8436,12.99,12.99,0.0
+1076200,Roguebook,2021-06-17,True,True,True,Very Positive,84,2174,24.99,24.99,0.0
+1452210,INPUT6,2022-12-23,True,False,False,Very Positive,97,72,3.99,3.99,0.0
+1939160,Shadows Over Loathing,2022-11-11,True,True,False,Overwhelmingly Positive,96,1853,22.99,22.99,0.0
+2179380,Sand:box,2022-11-23,True,False,True,Very Positive,94,88,2.99,2.99,0.0
+388750,BlazBlue: Chronophantasma Extend,2016-03-02,True,False,False,Very Positive,92,2263,29.99,29.99,0.0
+501080,Fishing: Barents Sea,2018-02-07,True,False,False,Mostly Positive,78,2054,24.99,24.99,0.0
+588430,Fallout Shelter,2017-03-29,True,False,False,Very Positive,88,56464,0.0,0.0,0.0
+980300,One Finger Death Punch 2,2019-04-15,True,False,False,Overwhelmingly Positive,96,3329,7.99,7.99,0.0
+855740,Bum Simulator,2021-08-26,True,False,False,Very Positive,86,1511,17.99,17.99,0.0
+880940,Pummel Party,2018-09-20,True,False,False,Very Positive,89,33869,14.99,14.99,0.0
+1345860,Grapple Dog,2022-02-10,True,False,False,Very Positive,91,279,14.99,14.99,0.0
+1361210,Warhammer 40000: Darktide,2022-11-30,True,False,False,Mixed,54,54741,39.99,39.99,0.0
+1817190,Marvel’s Spider-Man: Miles Morales,2022-11-18,True,False,False,Very Positive,94,8985,49.99,49.99,0.0
+1985260,Kinkoi: Golden Time,2022-07-15,True,False,False,Very Positive,96,196,29.99,29.99,0.0
+49520,Borderlands 2,2012-09-17,True,True,True,Overwhelmingly Positive,95,179397,4.99,19.99,75.0
+202970,Call of Duty®: Black Ops II,2012-11-12,True,False,False,Very Positive,85,15482,59.99,59.99,0.0
+204530,Infested Planet,2014-03-06,True,False,False,Very Positive,94,2232,14.99,14.99,0.0
+227600,Castle of Illusion,2013-09-04,True,False,False,Very Positive,89,2356,14.99,14.99,0.0
+418460,Rising Storm 2: Vietnam,2017-05-30,True,False,False,Very Positive,87,36077,24.99,24.99,0.0
+470220,UNO,2017-01-03,True,False,False,Mostly Positive,73,33660,9.99,9.99,0.0
+493340,Planet Coaster,2016-11-17,True,True,False,Very Positive,91,47506,44.99,44.99,0.0
+668550,8Doors: Arum's Afterlife Adventure,2021-04-07,True,False,False,Mostly Positive,77,538,19.99,19.99,0.0
+747660,Five Nights at Freddy's: Security Breach,2021-12-16,True,False,False,Very Positive,85,41360,39.99,39.99,0.0
+1059980,Just King,2022-07-21,True,False,False,Very Positive,92,930,3.99,3.99,0.0
+1099410,A Total War Saga: TROY,2021-09-02,True,True,False,Mostly Positive,71,1912,49.99,49.99,0.0
+1475850,Rugby 22,2022-01-27,True,False,False,Mostly Positive,74,145,39.99,39.99,0.0
+1868140,DAVE THE DIVER,2022-10-26,True,False,False,Overwhelmingly Positive,97,7935,19.99,19.99,0.0
+212200,Mabinogi,2012-12-06,True,False,False,Mostly Positive,74,3480,0.0,0.0,0.0
+375530,Football Tactics & Glory,2018-06-01,True,False,False,Very Positive,89,3203,12.49,24.99,50.0
+871530,Radio Commander,2019-10-10,True,True,True,Mostly Positive,74,1296,19.99,19.99,0.0
+891360,Hellcoming,2021-12-06,True,False,False,Very Positive,80,551,4.99,4.99,0.0
+1034900,Blaster Master Zero,2019-06-14,True,False,False,Very Positive,94,693,9.99,9.99,0.0
+1135690,Unpacking,2021-11-01,True,True,True,Very Positive,92,16563,19.99,19.99,0.0
+1175880,War Room,2020-11-18,True,False,False,Mixed,58,487,29.99,29.99,0.0
+1196590,Resident Evil Village,2021-05-07,True,False,False,Overwhelmingly Positive,95,59568,39.99,39.99,0.0
+1252330,DEATHLOOP,2021-09-13,True,False,False,Mostly Positive,77,16126,59.99,59.99,0.0
+1726400,The Death | Thần Trùng,2022-09-14,True,True,False,Very Positive,93,2573,5.99,5.99,0.0
+107410,Arma 3,2013-09-12,True,False,False,Very Positive,90,156107,29.99,29.99,0.0
+235460,METAL GEAR RISING: REVENGEANCE,2014-01-09,True,False,False,Overwhelmingly Positive,95,47023,29.99,29.99,0.0
+395200,Ben and Ed,2015-12-08,True,False,False,Very Positive,82,2551,9.99,9.99,0.0
+760160,Vampire: The Masquerade - Bloodhunt,2022-04-27,True,False,False,Mostly Positive,72,47137,0.0,0.0,0.0
+809230,Unity of Command II,2019-11-12,True,True,False,Very Positive,81,1388,29.99,29.99,0.0
+953580,Tourist Bus Simulator,2018-12-06,True,False,False,Mixed,65,1975,29.99,29.99,0.0
+1052990,A Monster's Expedition,2020-09-10,True,True,True,Overwhelmingly Positive,95,870,19.99,19.99,0.0
+1222700,A Way Out,2020-06-18,True,False,False,Very Positive,86,27105,29.99,29.99,0.0
+1969870,生死狙击2 - 国服,2022-07-20,True,False,False,Mixed,62,17380,0.0,0.0,0.0
+1974050,Torchlight: Infinite,2022-10-11,True,False,False,Mixed,69,6494,0.0,0.0,0.0
+31170,Tales of Monkey Island: Complete Season,2009-07-07,True,False,False,Very Positive,88,526,14.99,14.99,0.0
+33930,Arma 2: Operation Arrowhead,2010-06-29,True,False,False,Very Positive,92,15795,19.99,19.99,0.0
+243950,Divinity: Dragon Commander,2013-08-06,True,False,False,Mostly Positive,72,1624,39.99,39.99,0.0
+294810,BlazBlue: Continuum Shift Extend,2014-12-11,True,False,False,Very Positive,91,1110,19.99,19.99,0.0
+366090,Colony Survival,2017-06-16,True,True,True,Very Positive,91,5986,19.99,19.99,0.0
+596970,Sunless Skies: Sovereign Edition,2019-01-31,True,True,True,Very Positive,84,2228,24.99,24.99,0.0
+766570,Russian Fishing 4,2021-11-10,True,False,False,Mostly Positive,77,28774,0.0,0.0,0.0
+1068820,OVR Toolkit,2019-06-28,True,False,False,Very Positive,89,2086,11.99,11.99,0.0
+1167630,Teardown,2022-04-21,True,False,False,Overwhelmingly Positive,96,60815,15.99,19.99,20.0
+1271100,Deadly Premonition 2: A Blessing in Disguise,2022-06-11,True,False,False,Very Positive,81,195,39.99,39.99,0.0
+1276760,DRAGON BALL: THE BREAKERS,2022-10-13,True,False,False,Mixed,60,2761,14.99,19.99,25.0
+1451090,Tactics Ogre: Reborn,2022-11-11,True,False,False,Mostly Positive,76,2036,49.99,49.99,0.0
+205100,Dishonored,2012-10-08,True,False,False,Overwhelmingly Positive,97,54302,9.99,9.99,0.0
+398850,Epistory - Typing Chronicles,2016-03-30,True,True,True,Very Positive,94,3555,14.99,14.99,0.0
+405710,Staxel,2019-04-11,True,True,True,Very Positive,80,2816,19.99,19.99,0.0
+637090,BATTLETECH,2018-04-24,True,True,True,Very Positive,83,18722,39.99,39.99,0.0
+916730,Gato Roboto,2019-05-30,True,False,False,Very Positive,94,2695,7.99,7.99,0.0
+224980,Tomb Raider IV: The Last Revelation,2012-11-28,True,False,False,Very Positive,85,990,6.99,6.99,0.0
+339610,Freestyle 2: Street Basketball,2015-04-01,True,False,False,Mostly Positive,73,12048,0.0,0.0,0.0
+704450,Neverwinter Nights: Enhanced Edition,2018-03-27,True,True,True,Very Positive,88,5607,19.99,19.99,0.0
+809020,ZeroRanger,2018-09-28,True,False,False,Overwhelmingly Positive,95,1105,11.99,11.99,0.0
+931280,Iron Marines,2019-05-15,True,True,True,Mostly Positive,79,1313,14.99,14.99,0.0
+1314140,TramSim Vienna - The Tram Simulator,2020-10-29,True,False,False,Very Positive,80,998,34.99,34.99,0.0
+1340640,HORROR TALES: The Wine,2021-07-30,True,False,False,Very Positive,82,319,16.99,16.99,0.0
+1368820,RollerCoaster Tycoon® 3: Complete Edition,2020-09-24,True,True,False,Very Positive,85,1176,19.99,19.99,0.0
+1451480,The Greatest Penguin Heist of All Time,2021-07-02,True,True,True,Very Positive,89,1139,14.99,14.99,0.0
+489830,The Elder Scrolls V: Skyrim Special Edition,2016-10-27,True,False,False,Very Positive,94,123501,9.99,39.99,75.0
+511680,Fate/EXTELLA,2017-07-25,True,False,False,Very Positive,91,3690,39.99,39.99,0.0
+511740,Gal*Gun: Double Peace,2016-09-27,True,False,False,Very Positive,86,1646,29.99,29.99,0.0
+517160,Richie's Plank Experience,2017-12-18,True,False,False,Very Positive,81,556,14.99,14.99,0.0
+855640,My Brother Rabbit,2018-09-21,True,True,True,Overwhelmingly Positive,96,1203,14.99,14.99,0.0
+1124300,HUMANKIND™,2021-08-17,True,True,False,Mixed,67,16858,49.99,49.99,0.0
+1349230,5D Chess With Multiverse Time Travel,2020-07-22,True,True,True,Overwhelmingly Positive,97,5112,11.99,11.99,0.0
+1484620,Arcade Spirits: The New Challengers,2022-05-26,True,True,True,Very Positive,96,90,19.99,19.99,0.0
+1692700,SimplePlanes VR,2021-12-17,True,False,False,Very Positive,83,138,9.99,9.99,0.0
+1892030,Dummynation,2022-04-15,True,True,True,Mostly Positive,77,290,11.99,11.99,0.0
+31890,Nancy Drew®: Secret of the Scarlet Hand,2009-10-10,True,False,False,Very Positive,88,128,6.99,6.99,0.0
+265610,Epic Battle Fantasy 4,2014-02-25,True,False,False,Overwhelmingly Positive,98,2356,14.99,14.99,0.0
+365160,Kona,2017-03-17,True,True,True,Very Positive,83,2159,14.99,14.99,0.0
+842910,The MISSING: J.J. Macfield and the Island of Memories,2018-10-11,True,False,False,Very Positive,89,940,29.99,29.99,0.0
+1173800,FINAL FANTASY IV,2021-09-08,True,False,False,Very Positive,89,1443,17.99,17.99,0.0
+1256670,Library Of Ruina,2021-08-10,True,False,False,Very Positive,93,16145,29.99,29.99,0.0
+1259420,Days Gone,2021-05-17,True,False,False,Very Positive,92,36884,49.99,49.99,0.0
+25980,Majesty 2,2009-09-17,True,False,False,Mixed,69,839,9.99,9.99,0.0
+410340,Liftoff®: FPV Drone Racing,2018-09-13,True,True,True,Very Positive,93,6327,19.99,19.99,0.0
+410710,System Shock: Enhanced Edition,2015-10-22,True,False,False,Very Positive,91,1334,9.99,9.99,0.0
+515180,Bus Simulator 18,2018-06-13,True,False,False,Mostly Positive,79,7186,24.99,24.99,0.0
+752900,Prehistoric Hunt,2020-12-01,True,False,False,Mostly Positive,78,104,17.99,17.99,0.0
+979710,Easy Pose,2020-06-04,True,True,False,Overwhelmingly Positive,95,610,12.99,12.99,0.0
+1176470,Terra Invicta,2022-09-26,True,False,False,Very Positive,83,3641,39.99,39.99,0.0
+1200330,Strategic Mind: Blitzkrieg,2020-05-22,True,False,False,Very Positive,85,349,39.99,39.99,0.0
+1254130,Phobies,2022-03-07,True,False,False,Very Positive,85,588,0.0,0.0,0.0
+1306720,Mayhem Brawler,2021-08-19,True,False,False,Very Positive,89,350,19.99,19.99,0.0
+1496790,Gotham Knights,2022-10-21,True,False,False,Mixed,69,9331,26.99,59.99,55.0
+220,Half-Life 2,2007-10-10,True,True,True,Overwhelmingly Positive,97,122230,9.99,9.99,0.0
+227940,Heroes & Generals,2016-10-18,True,False,False,Mixed,66,141919,0.0,0.0,0.0
+291480,Warface,2014-07-01,True,False,False,Mixed,67,80549,0.0,0.0,0.0
+353890,Casey Powell Lacrosse 16,2016-03-08,True,False,False,Very Positive,82,78,19.99,19.99,0.0
+362930,Garfield Kart,2015-10-16,True,True,False,Very Positive,89,9043,4.99,4.99,0.0
+444200,World of Tanks Blitz,2016-11-09,True,True,False,Very Positive,80,125496,0.0,0.0,0.0
+464920,Surviving Mars,2018-03-15,True,True,True,Very Positive,85,14061,29.99,29.99,0.0
+905370,Conqueror's Blade,2019-05-30,True,False,False,Mostly Positive,75,26725,0.0,0.0,0.0
+1551560,Into the Nightmare,2022-12-02,True,False,False,Very Positive,89,100,11.99,14.99,20.0
+914260,HALF DEAD 2,2019-08-02,True,False,False,Very Positive,85,1783,4.99,4.99,0.0
+1041840,Fight Angel Special Edition,2019-12-20,True,False,False,Mostly Positive,76,1289,19.99,19.99,0.0
+1534850,Floor Plan 2,2021-04-01,True,False,False,Very Positive,86,52,24.99,24.99,0.0
+242760,The Forest,2018-04-30,True,False,False,Overwhelmingly Positive,95,390471,19.99,19.99,0.0
+244450,Men of War: Assault Squad 2,2014-05-15,True,False,False,Very Positive,91,28869,29.99,29.99,0.0
+336150,Virtual Pool 4,2015-05-11,True,False,False,Very Positive,82,505,14.99,24.99,40.0
+339200,Oceanhorn: Monster of Uncharted Seas,2015-03-17,True,True,False,Very Positive,82,1110,14.99,14.99,0.0
+674140,Bugsnax,2022-04-28,True,True,False,Overwhelmingly Positive,97,2792,24.99,24.99,0.0
+695920,Super Seducer : How to Talk to Girls,2018-03-06,True,True,False,Very Positive,84,1428,4.02,12.99,69.0
+1766740,Choo-Choo Charles,2022-12-09,True,False,False,Very Positive,92,9227,19.99,19.99,0.0
+361690,STAR WARS™ X-Wing vs TIE Fighter - Balance of Power Campaigns™,2015-04-28,True,False,False,Mostly Positive,79,190,3.49,9.99,65.0
+555160,Pavlov VR,2017-02-27,True,False,False,Very Positive,94,32986,24.99,24.99,0.0
+621830,WRC 7 FIA World Rally Championship,2017-09-15,True,False,False,Mostly Positive,75,3394,19.99,19.99,0.0
+641990,The Escapists 2,2017-08-21,True,True,True,Very Positive,90,20365,19.99,19.99,0.0
+666140,My Time At Portia,2019-01-15,True,True,False,Very Positive,92,30537,29.99,29.99,0.0
+787860,Farming Simulator 19,2018-11-19,True,True,False,Very Positive,94,56382,19.99,19.99,0.0
+1292630,3on3 FreeStyle: Rebound,2020-07-14,True,False,False,Mixed,62,2122,0.0,0.0,0.0
+1358710,Battle Cry of Freedom,2022-03-01,True,False,False,Mostly Positive,77,1274,14.99,14.99,0.0
+1455220,Succubus Farm,2021-03-19,True,False,False,Mostly Positive,74,350,11.24,14.99,25.0
+1896700,Wylde Flowers,2022-09-20,True,False,False,Overwhelmingly Positive,96,532,24.99,24.99,0.0
+237990,The Banner Saga,2014-01-14,True,True,False,Very Positive,88,12241,24.99,24.99,0.0
+400750,Call to Arms - Gates of Hell: Ostfront,2021-06-11,True,False,False,Very Positive,81,7535,0.0,0.0,0.0
+537110,Angels of Death,2016-12-19,True,False,False,Very Positive,93,3709,5.99,9.99,40.0
+633230,NARUTO TO BORUTO: SHINOBI STRIKER,2018-08-30,True,False,False,Very Positive,85,38836,49.99,49.99,0.0
+876650,Aground,2020-04-17,True,True,True,Very Positive,94,1268,14.99,14.99,0.0
+304390,FOR HONOR™,2017-02-13,True,False,False,Mixed,68,76071,14.99,14.99,0.0
+302670,Call to Arms,2015-07-30,True,False,False,Very Positive,80,13091,14.99,14.99,0.0
+1007040,EARTH DEFENSE FORCE 5,2019-07-11,True,False,False,Very Positive,94,6429,59.99,59.99,0.0
+1244800,Terraformers,2022-04-21,True,True,True,Very Positive,85,757,19.99,19.99,0.0
+1397650,Jetborne Racing,2021-05-27,True,False,False,Very Positive,91,373,9.99,9.99,0.0
+1424330,Wobbledogs,2022-03-15,True,True,False,Overwhelmingly Positive,98,5576,19.99,19.99,0.0
+1525700,Tavern Master,2021-11-16,True,True,True,Very Positive,92,4652,14.99,14.99,0.0
+1559390,Fate Seeker II,2021-11-22,True,False,False,Very Positive,90,9949,22.6,22.6,0.0
+1593780,Organs Please,2022-11-17,True,False,False,Very Positive,95,86,13.99,13.99,0.0
+1672140,Bot Wars,2021-09-10,True,False,False,Very Positive,93,543,14.99,14.99,0.0
+16900,GROUND BRANCH,2018-08-14,True,False,False,Very Positive,91,10678,29.99,29.99,0.0
+48240,Anno 2070™,2011-11-17,True,False,False,Mixed,59,10575,19.99,19.99,0.0
+251570,7 Days to Die,2013-12-13,True,True,True,Very Positive,88,172073,24.99,24.99,0.0
+973230,We Who Are About To Die,2022-11-14,True,False,False,Very Positive,90,3355,21.99,21.99,0.0
+1059990,Trombone Champ,2022-09-15,True,True,False,Overwhelmingly Positive,98,5491,14.99,14.99,0.0
+1096900,RPG Maker MZ,2020-08-27,True,True,False,Very Positive,82,924,43.99,79.99,45.0
+1395030,Kathy Rain: Director's Cut,2021-10-26,True,True,True,Very Positive,95,368,14.99,14.99,0.0
+1407200,World of Tanks,2021-04-28,True,False,False,Very Positive,84,54695,0.0,0.0,0.0
+1745780,Substance 3D Modeler 2023,2022-12-15,True,False,False,Mixed,69,23,149.99,149.99,0.0
+3900,Sid Meier's Civilization® IV,2006-10-25,True,True,False,Very Positive,92,2091,7.49,29.99,75.0
+22180,Penumbra Overture,2009-03-06,True,True,True,Very Positive,89,2772,9.99,9.99,0.0
+412830,STEINS;GATE,2016-09-08,True,False,False,Overwhelmingly Positive,97,12944,11.99,29.99,60.0
+502750,Quest for Glory 1-5,2016-08-29,True,False,False,Very Positive,94,273,9.99,9.99,0.0
+622720,Weedcraft Inc,2019-04-11,True,True,False,Very Positive,80,1235,19.99,19.99,0.0
+627690,Idle Champions of the Forgotten Realms,2020-03-25,True,True,False,Mostly Positive,79,11742,0.0,0.0,0.0
+740130,Tales of Arise,2021-09-09,True,False,False,Very Positive,89,21154,59.99,59.99,0.0
+768520,Red Solstice 2: Survivors,2021-06-17,True,False,False,Mostly Positive,71,2283,29.99,29.99,0.0
+965310,The Settlers® : Rise of an Empire - History Edition,2019-01-22,True,False,False,Mostly Positive,78,427,11.99,11.99,0.0
+1049590,Eternal Return,2020-10-14,True,False,False,Mostly Positive,79,44776,0.0,0.0,0.0
+1092790,Inscryption,2021-10-19,True,True,True,Overwhelmingly Positive,97,79617,19.99,19.99,0.0
+1139980,Travellers Rest,2020-07-28,True,False,False,Very Positive,91,4388,11.99,14.99,20.0
+1151640,Horizon Zero Dawn™ Complete Edition,2020-08-07,True,False,False,Very Positive,86,68752,49.99,49.99,0.0
+1179080,FAITH: The Unholy Trinity,2022-10-21,True,False,False,Overwhelmingly Positive,96,2155,14.99,14.99,0.0
+1435790,Escape Simulator,2021-10-19,True,True,True,Very Positive,93,8852,14.99,14.99,0.0
+1588010,PGA TOUR 2K23,2022-10-13,True,False,False,Mixed,65,893,29.99,59.99,50.0
+71260,Space Channel 5: Part 2,2011-03-04,True,False,False,Very Positive,90,1204,7.99,7.99,0.0
+396900,GRIP: Combat Racing,2018-11-06,True,False,False,Very Positive,87,2834,29.99,29.99,0.0
+650000,DOOM VFR,2017-11-30,True,False,False,Mixed,57,1849,14.99,14.99,0.0
+732690,FIVE NIGHTS AT FREDDY'S: HELP WANTED,2019-05-28,True,False,False,Overwhelmingly Positive,96,8643,29.99,29.99,0.0
+872200,Rogue Company,2021-07-20,True,False,False,Mostly Positive,75,19641,0.0,0.0,0.0
+977650,DwarfHeim,2021-09-27,True,False,False,Mixed,59,428,24.99,24.99,0.0
+1069660,Ultimate Admiral: Dreadnoughts,2023-01-25,True,False,False,Mostly Positive,73,2584,34.99,34.99,0.0
+1131240,Dungeons of Edera,2022-06-16,True,False,False,Mostly Positive,73,858,14.99,14.99,0.0
+1397790,Samurai Gunn 2,2021-07-20,True,False,False,Very Positive,95,447,9.89,14.99,34.0
+1552080,Deepest Chamber: Resurrection,2021-07-22,True,False,False,Mostly Positive,72,127,12.99,12.99,0.0
+1557580,DON'T LOOK AWAY,2022-10-16,True,False,False,Very Positive,85,95,2.99,2.99,0.0
+322210,Guns Gore & Cannoli,2015-04-30,True,True,False,Very Positive,92,2524,3.99,9.99,60.0
+391540,Undertale,2015-09-15,True,True,True,Overwhelmingly Positive,96,168824,9.99,9.99,0.0
+704270,Generation Zero®,2019-03-26,True,False,False,Mostly Positive,73,19828,24.99,24.99,0.0
+1743850,HYPER DEMON,2022-09-19,True,False,False,Overwhelmingly Positive,96,1437,14.99,14.99,0.0
+233860,Kenshi,2018-12-06,True,False,False,Overwhelmingly Positive,95,55515,29.99,29.99,0.0
+1502990,Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX,2021-04-21,True,False,False,Very Positive,93,173,39.99,39.99,0.0
+1755350,BBQ Simulator: The Squad,2022-05-25,True,False,False,Very Positive,86,589,2.99,2.99,0.0
+275390,Guacamelee! Super Turbo Championship Edition,2014-08-21,True,False,False,Very Positive,93,2101,3.74,14.99,75.0
+521350,Use Your Words,2017-04-03,True,True,False,Very Positive,90,635,14.99,14.99,0.0
+1136160,Internet Cafe Simulator,2019-10-25,True,False,False,Mostly Positive,74,7235,9.99,9.99,0.0
+1202130,Starship Troopers: Terran Command,2022-06-16,True,False,False,Very Positive,88,5832,29.99,29.99,0.0
+1259790,Puyo Puyo™ Tetris® 2,2021-03-23,True,False,False,Very Positive,82,981,29.99,29.99,0.0
+1714040,Super Auto Pets,2021-09-24,True,True,True,Very Positive,90,24106,0.0,0.0,0.0
+12200,Bully: Scholarship Edition,2008-10-21,True,False,False,Very Positive,84,22143,14.99,14.99,0.0
+204450,Call of Juarez: Gunslinger,2013-05-22,True,False,False,Overwhelmingly Positive,95,13747,14.99,14.99,0.0
+213670,South Park™: The Stick of Truth™,2014-03-03,True,False,False,Overwhelmingly Positive,97,41363,29.99,29.99,0.0
+394510,HELLDIVERS™ Dive Harder Edition,2015-12-07,True,False,False,Very Positive,92,18197,19.99,19.99,0.0
+739630,Phasmophobia,2020-09-18,True,False,False,Overwhelmingly Positive,97,431117,13.99,13.99,0.0
+1180130,The Final Earth 2,2022-07-15,True,False,False,Very Positive,96,90,9.99,9.99,0.0
+1272320,Diplomacy is Not an Option,2022-02-09,True,False,False,Very Positive,86,3742,24.99,24.99,0.0
+1286830,STAR WARS™: The Old Republic™,2020-07-21,True,False,False,Very Positive,89,49272,0.0,0.0,0.0
+1319850,ValiDate: Struggling Singles in your Area,2022-09-28,True,True,True,Mostly Positive,78,41,14.99,14.99,0.0
+1330000,Stolen Realm,2021-10-14,True,True,False,Very Positive,91,1115,19.99,19.99,0.0
+1333910,Sizeable,2021-03-19,True,True,False,Overwhelmingly Positive,98,551,9.99,9.99,0.0
+1595050,PBA Pro Bowling 2023,2022-09-07,True,False,False,Mixed,60,33,29.99,29.99,0.0
+360740,Downwell,2015-10-15,True,False,False,Overwhelmingly Positive,96,6653,2.99,2.99,0.0
+378360,Ymir,2019-03-16,True,False,False,Mostly Positive,71,720,34.99,34.99,0.0
+379430,Kingdom Come: Deliverance,2018-02-13,True,False,False,Very Positive,82,77628,29.99,29.99,0.0
+529340,Victoria 3,2022-10-25,True,True,True,Mixed,67,19223,49.99,49.99,0.0
+1089780,Tales Of Glory 2 - Retaliation,2020-12-21,True,False,False,Mostly Positive,76,182,19.99,19.99,0.0
+1092430,Budget Cuts 2: Mission Insolvency,2019-12-12,True,False,False,Very Positive,81,387,29.99,29.99,0.0
+1543150,The Fermi Paradox,2021-07-01,True,False,False,Mostly Positive,77,713,18.99,18.99,0.0
+1567440,inbento,2021-07-30,True,False,False,Very Positive,95,298,4.99,4.99,0.0
+1642890,Disc Golf Valley,2021-06-09,True,True,False,Very Positive,87,186,4.99,4.99,0.0
+1712840,Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,2021-11-09,True,False,False,Mostly Positive,71,298,4.99,9.99,50.0
+1997040,MARVEL SNAP,2022-10-18,True,False,False,Very Positive,88,11130,0.0,0.0,0.0
+9180,Commander Keen,2007-08-03,True,False,False,Very Positive,93,1235,4.99,4.99,0.0
+244210,Assetto Corsa,2014-12-19,True,False,False,Very Positive,92,66964,19.99,19.99,0.0
+377160,Fallout 4,2015-11-09,True,False,False,Very Positive,82,193409,19.99,19.99,0.0
+552500,Warhammer: Vermintide 2,2018-03-08,True,False,False,Very Positive,84,71416,29.99,29.99,0.0
+653530,Return of the Obra Dinn,2018-10-18,True,True,False,Overwhelmingly Positive,96,17345,19.99,19.99,0.0
+792100,7 Billion Humans,2018-08-23,True,True,True,Very Positive,93,1308,14.99,14.99,0.0
+948740,AI: The Somnium Files,2019-09-17,True,False,False,Very Positive,92,5761,7.99,39.99,80.0
+1205970,MX vs ATV Legends,2022-06-28,True,False,False,Mixed,62,600,39.99,39.99,0.0
+1644960,NBA 2K22,2021-09-09,True,False,False,Mixed,58,29090,59.99,59.99,0.0
+205650,The Testament of Sherlock Holmes,2012-09-25,True,False,False,Mostly Positive,78,2438,19.99,19.99,0.0
+298110,Far Cry® 4,2014-11-01,True,False,False,Very Positive,83,40777,29.99,29.99,0.0
+449610,Monster Boy and the Cursed Kingdom,2019-07-25,True,False,False,Very Positive,90,1799,29.99,29.99,0.0
+451020,Battle Chasers: Nightwar,2017-10-03,True,True,True,Very Positive,87,4963,29.99,29.99,0.0
+458580,Windlands 2,2018-11-15,True,False,False,Very Positive,81,326,29.99,29.99,0.0
+784080,MechWarrior 5: Mercenaries,2021-05-26,True,False,False,Very Positive,83,6457,29.99,29.99,0.0
+1137970,Zombies Ate My Neighbors and Ghoul Patrol,2021-06-29,True,False,False,Mixed,55,127,3.74,14.99,75.0
+1150080,Azur Lane Crosswave,2020-02-13,True,False,False,Mixed,68,6274,39.99,39.99,0.0
+1235140,Yakuza: Like a Dragon,2020-11-10,True,False,False,Overwhelmingly Positive,95,15150,59.99,59.99,0.0
+1468720,Ultimate Epic Battle Simulator 2,2022-05-12,True,False,False,Very Positive,89,2922,19.99,19.99,0.0
+381210,Dead by Daylight,2016-06-14,True,False,False,Very Positive,82,462038,19.99,19.99,0.0
+936190,Atelier Meruru ~The Apprentice of Arland~ DX,2018-12-03,True,False,False,Very Positive,94,212,39.99,39.99,0.0
+1148730,Errant Kingdom: Prologue - Part Five,2020-01-24,True,True,True,Mixed,62,66,19.99,19.99,0.0
+1286580,Ship of Fools,2022-11-22,True,False,False,Very Positive,81,1483,14.99,14.99,0.0
+6220,FlatOut,2011-12-13,True,False,False,Very Positive,92,3631,7.49,7.49,0.0
+213610,Sonic Adventure 2,2012-11-19,True,False,False,Very Positive,88,13615,9.99,9.99,0.0
+236110,Dungeon Defenders II,2017-06-20,True,False,False,Mostly Positive,77,20294,0.0,0.0,0.0
+373420,Divinity: Original Sin - Enhanced Edition,2015-10-27,True,True,True,Very Positive,89,18664,39.99,39.99,0.0
+392160,X4: Foundations,2018-11-30,True,False,True,Mostly Positive,76,12866,24.99,49.99,50.0
+448850,Overload,2018-05-31,True,True,True,Very Positive,94,1340,29.99,29.99,0.0
+457680,OPUS: The Day We Found Earth,2016-04-22,True,True,False,Very Positive,86,1035,14.99,14.99,0.0
+609110,Blazing Chrome,2019-07-11,True,False,False,Very Positive,90,919,16.99,16.99,0.0
+798510,SUPER DRAGON BALL HEROES WORLD MISSION,2019-04-04,True,False,False,Very Positive,84,1095,59.99,59.99,0.0
+937170,Otaku's Adventure,2019-05-20,True,True,False,Very Positive,94,5758,6.99,6.99,0.0
+1092660,Blair Witch,2019-08-30,True,False,False,Mostly Positive,77,4454,29.99,29.99,0.0
+1172620,Sea of Thieves,2020-06-03,True,False,False,Very Positive,90,230124,39.99,39.99,0.0
+1516400,Gaia Project,2021-05-31,True,True,True,Mostly Positive,73,235,24.99,24.99,0.0
+1562420,FOREWARNED,2021-09-10,True,False,False,Very Positive,92,3261,12.99,12.99,0.0
+230070,The Age of Decadence,2015-10-14,True,False,False,Very Positive,81,2880,12.99,12.99,0.0
+232430,Gone Home,2013-08-15,True,True,True,Mostly Positive,76,12359,8.99,14.99,40.0
+305780,Echo of the Wilds,2014-06-10,True,False,False,Mostly Positive,79,128,6.99,6.99,0.0
+949050,Virtual Villagers Origins 2,2018-10-26,True,True,False,Mixed,44,257,0.0,0.0,0.0
+984110,SYNTHETIK: Arena,2019-01-21,True,False,False,Very Positive,90,2166,0.0,0.0,0.0
+1150760,Gloomwood,2022-09-05,True,False,False,Very Positive,94,3050,19.99,19.99,0.0
+1157220,Nebuchadnezzar,2021-02-17,True,False,True,Very Positive,81,1045,19.99,19.99,0.0
+1369630,ENDER LILIES: Quietus of the Knights,2021-06-21,True,False,False,Very Positive,94,21030,24.99,24.99,0.0
+1497950,EARTH DEFENSE FORCE: WORLD BROTHERS,2021-05-27,True,False,False,Very Positive,81,561,39.99,39.99,0.0
+1944790,Train Sim World® 3,2022-09-06,True,False,False,Very Positive,81,1613,39.99,39.99,0.0
+2009460,War of Wizards,2022-09-21,True,False,False,Mostly Positive,73,19,19.99,19.99,0.0
+311690,Enter the Gungeon,2016-04-05,True,True,True,Overwhelmingly Positive,96,63408,14.99,14.99,0.0
+361420,ASTRONEER,2019-02-05,True,False,False,Very Positive,91,88999,29.99,29.99,0.0
+385800,NEKOPARA Vol. 0,2015-08-17,True,False,False,Very Positive,94,14038,2.99,2.99,0.0
+392000,TRON RUN/r,2016-02-16,True,False,False,Mostly Positive,78,306,5.99,19.99,70.0
+674940,Stick Fight: The Game,2017-09-28,True,True,False,Very Positive,93,85171,4.99,4.99,0.0
+867210,Songs of Conquest,2022-05-10,True,True,False,Very Positive,88,4264,29.99,29.99,0.0
+1266690,Dark Deception: Monsters & Mortals,2020-11-02,True,False,False,Very Positive,85,1966,4.99,4.99,0.0
+1461600,Project Sparrow,2022-03-11,True,False,False,Very Positive,90,1042,12.99,12.99,0.0
+1601970,Tunguska: The Visitation,2021-06-04,True,False,False,Very Positive,81,228,8.24,14.99,45.0
+1709170,Paradise Marsh,2022-10-13,True,True,False,Very Positive,98,177,9.99,9.99,0.0
+1760250,Madden NFL 23,2022-08-18,True,False,False,Mixed,50,2996,59.99,59.99,0.0
+21690,Resident Evil 5,2009-09-15,True,False,False,Very Positive,87,23357,19.99,19.99,0.0
+529890,Maniac Mansion,2017-12-18,True,True,False,Very Positive,84,129,2.09,5.99,65.0
+702120,THE KING OF FIGHTERS '97 GLOBAL MATCH,2018-04-03,True,False,False,Mostly Positive,75,932,9.99,9.99,0.0
+1170950,Mortal Online 2,2022-01-25,True,False,False,Mixed,60,7181,39.99,39.99,0.0
+1367320,Close Combat: Cross of Iron,2020-07-23,True,False,False,Very Positive,84,86,39.99,39.99,0.0
+2088340,Bratz™: Flaunt your fashion,2022-11-04,True,False,False,Mixed,67,141,39.99,39.99,0.0
+249630,Delver,2018-02-01,True,True,True,Very Positive,87,2246,14.99,14.99,0.0
+385380,Planet Centauri,2016-06-03,True,True,True,Very Positive,80,1609,14.99,14.99,0.0
+432980,INVERSUS Deluxe,2016-08-16,True,False,False,Very Positive,89,229,14.99,14.99,0.0
+569480,Kingdoms and Castles,2017-07-20,True,True,True,Very Positive,92,22923,14.99,14.99,0.0
+613830,CHRONO TRIGGER®,2018-02-27,True,False,False,Very Positive,87,6452,14.99,14.99,0.0
+1192440,The Monster Breeder,2022-01-19,True,False,False,Very Positive,100,86,19.99,19.99,0.0
+1238840,Battlefield™ 1,2020-06-11,True,False,False,Very Positive,86,92599,39.99,39.99,0.0
+1295270,SaGa Frontier Remastered,2021-04-15,True,False,False,Very Positive,92,404,24.99,24.99,0.0
+1324340,Made in Abyss: Binary Star Falling into Darkness,2022-09-02,True,False,False,Mostly Positive,75,893,29.99,59.99,50.0
+1582680,Trolley Problem Inc.,2022-04-21,True,False,False,Mixed,67,660,10.99,10.99,0.0
+1765780,ADACA,2022-07-25,True,False,False,Very Positive,94,360,24.99,24.99,0.0
+13540,Tom Clancy's Rainbow Six® Vegas,2008-04-09,True,False,False,Very Positive,80,935,9.99,9.99,0.0
+21780,Driver® Parallel Lines,2009-02-13,True,False,False,Very Positive,90,865,9.99,9.99,0.0
+450540,Hot Dogs Horseshoes & Hand Grenades,2016-04-05,True,False,False,Overwhelmingly Positive,97,16620,19.99,19.99,0.0
+938560,INMOST,2020-08-21,True,True,False,Very Positive,91,3228,14.99,14.99,0.0
+1086940,Baldur's Gate 3,2020-10-06,True,True,False,Very Positive,87,52106,59.99,59.99,0.0
+1259980,RIDE 4,2020-10-08,True,False,False,Very Positive,81,6171,9.99,49.99,80.0
+1413020,Superfly,2022-06-17,True,False,False,Very Positive,89,421,14.99,14.99,0.0
+1621070,DeadPoly,2022-01-12,True,False,False,Very Positive,81,3090,9.99,9.99,0.0
+2050590,Fhtagn Simulator,2022-10-21,True,False,False,Very Positive,94,289,7.99,7.99,0.0
+333300,ADOM (Ancient Domains Of Mystery),2015-11-16,True,True,True,Very Positive,87,1042,14.99,14.99,0.0
+403180,Draw a Stickman: EPIC 2,2015-11-06,True,False,False,Very Positive,86,602,6.99,6.99,0.0
+455400,PAC-MAN 256,2016-06-21,True,True,True,Overwhelmingly Positive,95,949,4.99,4.99,0.0
+576770,Low Magic Age,2017-01-10,True,False,False,Very Positive,91,2627,5.99,14.99,60.0
+736260,Baba Is You,2019-03-13,True,True,True,Overwhelmingly Positive,98,14808,14.99,14.99,0.0
+1003730,Soko Loco Deluxe,2019-11-13,True,True,False,Very Positive,83,66,9.99,9.99,0.0
+1079160,Touhou Kikeijuu ~ Wily Beast and Weakest Creature.,2019-09-09,True,False,False,Overwhelmingly Positive,97,897,14.99,14.99,0.0
+1135230,Ember Knights,2022-04-20,True,False,False,Overwhelmingly Positive,95,1648,11.24,14.99,25.0
+1158160,Coral Island,2022-10-11,True,False,False,Very Positive,91,4385,24.99,24.99,0.0
+1388880,Doki Doki Literature Club Plus!,2021-06-30,True,True,False,Overwhelmingly Positive,96,17383,14.99,14.99,0.0
+218620,PAYDAY 2,2013-08-13,True,False,True,Very Positive,90,396801,9.99,9.99,0.0
+391730,Crashlands,2016-01-21,True,False,False,Very Positive,89,3008,14.99,14.99,0.0
+1036950,Super Jigsaw Puzzle: Generations,2019-04-04,True,False,False,Overwhelmingly Positive,95,747,0.0,0.0,0.0
+1100160,Touhou Seirensen ~ Undefined Fantastic Object.,2020-06-05,True,False,False,Very Positive,97,214,14.99,14.99,0.0
+1194830,Master Bladesmith,2020-02-03,True,False,False,Very Positive,84,335,29.99,29.99,0.0
+1400870,When The Night Comes,2021-08-09,True,True,True,Very Positive,94,188,12.99,12.99,0.0
+2116850,Another Farm Roguelike,2022-11-30,True,False,False,Very Positive,86,198,2.99,2.99,0.0
+63610,Riven: The Sequel to MYST,2010-08-04,True,True,False,Very Positive,87,985,5.99,5.99,0.0
+339230,ZOMBI,2015-08-18,True,False,False,Mixed,63,2216,19.99,19.99,0.0
+536270,Ancestors: The Humankind Odyssey,2020-08-27,True,False,False,Very Positive,80,5695,39.99,39.99,0.0
+617830,SUPERHOT VR,2017-05-25,True,False,False,Very Positive,83,6157,24.99,24.99,0.0
+762220,Afterparty,2020-10-22,True,True,False,Mostly Positive,72,512,19.99,19.99,0.0
+762830,Telling Lies,2019-08-23,True,True,False,Mixed,65,954,19.99,19.99,0.0
+833040,Hiveswap Friendsim,2018-04-13,True,True,True,Very Positive,93,1091,2.59,12.99,80.0
+892970,Valheim,2021-02-02,True,False,True,Overwhelmingly Positive,95,336979,19.99,19.99,0.0
+904540,Indiana Jones® and the Infernal Machine™,2018-11-16,True,False,False,Very Positive,85,289,2.09,5.99,65.0
+1000360,Hellish Quart,2021-02-16,True,False,False,Very Positive,92,4756,16.99,16.99,0.0
+1119730,Ranch Simulator - Build Farm Hunt,2021-03-04,True,False,False,Very Positive,85,10434,24.99,24.99,0.0
+1173820,FINAL FANTASY VI,2022-02-23,True,False,False,Very Positive,89,2159,17.99,17.99,0.0
+1621760,Decision: Red Daze,2022-05-19,True,False,False,Mostly Positive,71,385,19.99,19.99,0.0
+1987080,Inside the Backrooms,2022-06-20,True,False,False,Very Positive,86,24885,4.99,4.99,0.0
+47790,Medal of Honor™,2010-10-12,True,False,False,Very Positive,80,4221,19.99,19.99,0.0
+322290,Gurumin: A Monstrous Adventure,2015-03-30,True,False,False,Very Positive,92,476,9.99,9.99,0.0
+373390,Contradiction: Spot The Liar,2015-07-10,True,True,False,Overwhelmingly Positive,95,2412,12.99,12.99,0.0
+392470,NOBUNAGA'S AMBITION: Sphere of Influence,2015-09-01,True,False,False,Very Positive,83,506,59.99,59.99,0.0
+551170,Onmyoji,2018-04-18,True,False,False,Very Positive,81,2604,0.0,0.0,0.0
+640820,Pathfinder: Kingmaker - Enhanced Plus Edition,2018-09-25,True,True,True,Mostly Positive,78,23217,19.99,19.99,0.0
+715400,Frozen Flame,2022-11-17,True,False,False,Mixed,68,1732,29.99,29.99,0.0
+1149460,ICARUS,2021-12-03,True,False,False,Mixed,67,24234,34.99,34.99,0.0
+1373260,Obsidian Prince,2022-05-24,True,False,False,Very Positive,81,95,14.99,14.99,0.0
+1938090,Call of Duty®: Modern Warfare® II,2022-10-27,True,False,False,Mixed,62,316804,45.49,69.99,35.0
+365360,Battle Brothers,2017-03-24,True,False,False,Very Positive,88,17088,29.99,29.99,0.0
+441550,STAR WARS™ Rebellion,2016-03-01,True,False,False,Very Positive,90,894,2.09,5.99,65.0
+445980,Wizard of Legend,2018-05-15,True,True,True,Very Positive,91,14268,15.99,15.99,0.0
+559210,Rakuen,2017-05-10,True,True,True,Overwhelmingly Positive,97,4141,14.99,14.99,0.0
+671510,DESOLATE,2019-01-17,True,False,False,Mixed,68,5944,6.24,24.99,75.0
+711660,CHUCHEL,2018-03-07,True,True,False,Very Positive,81,2392,9.99,9.99,0.0
+1264250,Fishing: North Atlantic - Enhanced Edition,2020-10-16,True,False,False,Mostly Positive,75,1831,34.99,34.99,0.0
+1326270,Festival Tycoon 🎪,2022-05-04,True,False,False,Very Positive,82,139,12.99,12.99,0.0
+1403370,Zenith: The Last City,2022-01-27,True,False,False,Very Positive,83,3231,29.99,29.99,0.0
+1599600,PlateUp!,2022-08-04,True,False,False,Overwhelmingly Positive,96,7632,17.99,17.99,0.0
+1669420,Islets,2022-08-24,True,False,False,Very Positive,95,385,19.99,19.99,0.0
+12900,AudioSurf,2008-02-15,True,False,False,Overwhelmingly Positive,95,8396,9.99,9.99,0.0
+32470,STAR WARS™ Empire at War - Gold Pack,2010-05-25,True,False,False,Overwhelmingly Positive,97,25904,6.99,19.99,65.0
+228300,Remember Me,2013-06-03,True,False,False,Very Positive,83,9223,29.99,29.99,0.0
+444090,Paladins®,2018-05-08,True,True,False,Very Positive,85,334561,0.0,0.0,0.0
+774171,Muse Dash,2019-06-19,True,True,False,Overwhelmingly Positive,96,71170,2.99,2.99,0.0
+797430,HD Poker: Texas Hold'em,2018-09-14,True,True,False,Very Positive,82,3657,0.0,0.0,0.0
+858820,Tribes of Midgard,2021-07-27,True,False,False,Mostly Positive,75,12231,19.99,19.99,0.0
+1003590,Tetris® Effect: Connected,2021-08-17,True,False,False,Overwhelmingly Positive,95,4608,39.99,39.99,0.0
+1600780,MY LITTLE PONY: A Maretime Bay Adventure,2022-05-27,True,False,False,Very Positive,80,326,39.99,39.99,0.0
+1637320,Dome Keeper,2022-09-27,True,True,True,Very Positive,90,5445,17.99,17.99,0.0
+17390,SPORE™,2008-12-19,True,False,False,Very Positive,92,44955,19.99,19.99,0.0
+24790,Command & Conquer 3: Tiberium Wars,2009-11-13,True,False,False,Very Positive,90,5796,14.99,14.99,0.0
+270630,Haunt the House: Terrortown,2014-06-06,True,False,False,Very Positive,86,1418,4.99,4.99,0.0
+319080,Disney Princess: My Fairytale Adventure,2014-10-06,True,False,False,Very Positive,86,157,5.99,19.99,70.0
+325210,Arctico,2022-02-15,True,True,False,Mostly Positive,74,920,9.99,9.99,0.0
+611660,Fallout 4 VR,2017-12-11,True,False,False,Mixed,64,4444,59.99,59.99,0.0
+1129310,Receiver 2,2020-04-14,True,True,True,Very Positive,91,2079,19.99,19.99,0.0
+1296830,暖雪 Warm Snow,2022-01-18,True,False,False,Very Positive,92,24456,17.99,17.99,0.0
+1401590,Disney Dreamlight Valley,2022-09-06,True,False,False,Overwhelmingly Positive,95,9442,29.99,29.99,0.0
+1973710,ヘブンバーンズレッド,2022-08-10,True,False,False,Very Positive,92,1648,0.0,0.0,0.0
+582660,Black Desert,2017-05-24,True,False,False,Mostly Positive,76,45825,9.99,9.99,0.0
+618740,Beat Hazard 2,2019-10-16,True,False,False,Very Positive,90,1246,18.99,18.99,0.0
+673750,Super Bunny Man,2017-08-31,True,True,True,Very Positive,86,3212,14.99,14.99,0.0
+1025440,Fantasy General II,2019-09-05,True,False,False,Very Positive,82,840,39.99,39.99,0.0
+1113560,NieR Replicant™ ver.1.22474487139...,2021-04-23,True,False,False,Very Positive,88,14951,59.99,59.99,0.0
+1294760,HARD BULLET,2020-10-22,True,False,False,Very Positive,88,2631,19.99,19.99,0.0
+1419170,My Singing Monsters,2021-03-24,True,False,False,Very Positive,94,25793,0.0,0.0,0.0
+1477790,Luna's Fishing Garden,2021-06-16,True,True,True,Overwhelmingly Positive,95,1153,7.99,7.99,0.0
+1684670,Best Forklift Operator,2022-08-11,True,False,False,Very Positive,83,161,19.99,19.99,0.0
+1929870,Nomad Survival,2022-10-08,True,False,False,Very Positive,89,1358,2.99,2.99,0.0
+570940,DARK SOULS™: REMASTERED,2018-05-23,True,False,False,Very Positive,89,48563,39.99,39.99,0.0
+834280,Fishing Sim World®: Pro Tour,2018-09-18,True,False,False,Mostly Positive,77,722,19.99,19.99,0.0
+1286680,Tiny Tina's Wonderlands,2022-06-23,True,False,False,Mostly Positive,77,6935,29.99,59.99,50.0
+1874170,Shredders,2022-03-16,True,False,False,Overwhelmingly Positive,96,1345,29.99,29.99,0.0
+2141690,Car Dealership Simulator,2022-09-20,True,False,False,Mostly Positive,79,936,9.99,9.99,0.0
+206480,Dungeons & Dragons Online®,2012-06-25,True,False,False,Mostly Positive,70,5890,0.0,0.0,0.0
+285920,TerraTech,2018-08-10,True,True,True,Very Positive,92,15198,24.99,24.99,0.0
+301910,Saints Row: Gat out of Hell,2015-01-20,True,False,True,Mostly Positive,75,7101,14.99,14.99,0.0
+402180,Sakura Swim Club,2015-09-11,True,True,True,Very Positive,86,2137,9.99,9.99,0.0
+416590,Emily Wants To Play,2015-12-10,True,True,False,Mostly Positive,78,1594,2.49,4.99,50.0
+487000,Quest Hunter,2019-03-08,True,True,True,Very Positive,82,1779,5.99,19.99,70.0
+936790,Life is Strange: True Colors,2021-09-09,True,False,False,Very Positive,89,8776,59.99,59.99,0.0
+1850570,DEATH STRANDING DIRECTOR'S CUT,2022-03-30,True,False,False,Very Positive,93,11708,39.99,39.99,0.0
+2051420,Beltex,2022-07-08,True,False,False,Very Positive,91,100,4.99,4.99,0.0
+45700,Devil May Cry 4,2009-12-22,True,False,False,Very Positive,91,1703,19.99,19.99,0.0
+219950,NiGHTS Into Dreams,2012-12-17,True,False,False,Very Positive,89,821,7.99,7.99,0.0
+346900,AdVenture Capitalist,2015-03-30,True,True,True,Very Positive,88,54035,0.0,0.0,0.0
+753650,Due Process,2020-11-03,True,False,False,Very Positive,84,4367,14.99,14.99,0.0
+1061090,Jump King,2019-05-03,True,False,False,Very Positive,90,8657,12.99,12.99,0.0
+1166860,Rival Stars Horse Racing: Desktop Edition,2020-06-24,True,True,False,Very Positive,91,2165,27.99,39.99,30.0
+231430,Company of Heroes 2,2013-06-24,True,True,True,Very Positive,80,59881,19.99,19.99,0.0
+238320,Outlast,2013-09-04,True,True,True,Overwhelmingly Positive,96,69044,19.99,19.99,0.0
+242050,Assassin’s Creed® IV Black Flag™,2013-11-19,True,False,False,Very Positive,89,49877,39.99,39.99,0.0
+352720,The Universim,2018-08-01,True,True,True,Very Positive,81,5847,29.99,29.99,0.0
+377870,DARIUSBURST Chronicle Saviours,2015-12-03,True,False,False,Very Positive,84,590,49.99,49.99,0.0
+989690,Conan Unconquered,2019-05-29,True,False,False,Mostly Positive,71,1029,19.99,19.99,0.0
+1016920,Unrailed!,2020-09-23,True,True,True,Very Positive,93,10525,19.99,19.99,0.0
+1046790,Eternal Threads,2022-05-19,True,False,False,Very Positive,92,243,19.99,19.99,0.0
+1498570,THE KING OF FIGHTERS XV,2022-02-16,True,False,False,Very Positive,81,4791,59.99,59.99,0.0
+1056640,Phantasy Star Online 2 New Genesis,2020-08-05,True,False,False,Mostly Positive,72,20931,0.0,0.0,0.0
+1574250,SPOOKWARE,2021-08-26,True,False,False,Very Positive,94,463,9.99,9.99,0.0
+1827980,Idle Spiral,2022-04-30,True,False,False,Very Positive,82,973,0.0,0.0,0.0
+220200,Kerbal Space Program,2015-04-27,True,True,True,Very Positive,94,90782,39.99,39.99,0.0
+316260,Disney Universe,2014-10-06,True,False,False,Very Positive,83,193,5.99,19.99,70.0
+529180,Dark and Light,2017-07-20,True,False,False,Mixed,53,9995,17.99,17.99,0.0
+788690,Psychonauts in the Rhombus of Ruin,2018-04-19,True,False,False,Very Positive,89,408,19.99,19.99,0.0
+976310,Mortal Kombat 11,2019-04-23,True,False,False,Very Positive,87,53692,9.99,49.99,80.0
+1044720,Farthest Frontier,2022-08-09,True,False,False,Very Positive,85,10804,29.99,29.99,0.0
+1434950,HighFleet,2021-07-27,True,False,False,Very Positive,88,4637,29.99,29.99,0.0
+1530720,Sport Mode,2021-04-15,True,False,False,Very Positive,86,394,9.99,9.99,0.0
+1679210,The Spirit and the Mouse,2022-09-26,True,False,False,Very Positive,98,250,19.99,19.99,0.0
+1718570,ASTLIBRA Revision,2022-10-13,True,False,False,Overwhelmingly Positive,96,11515,24.99,24.99,0.0
+206190,Gunpoint,2013-06-03,True,True,True,Overwhelmingly Positive,97,9345,9.99,9.99,0.0
+327140,Tilt Brush,2016-04-05,True,False,False,Very Positive,90,563,19.99,19.99,0.0
+367520,Hollow Knight,2017-02-24,True,True,True,Overwhelmingly Positive,97,244975,14.99,14.99,0.0
+431960,Wallpaper Engine,2018-11-01,True,False,False,Overwhelmingly Positive,98,572319,3.99,3.99,0.0
+440900,Conan Exiles,2018-05-08,True,False,False,Mostly Positive,78,60168,39.99,39.99,0.0
+903950,Last Oasis,2020-03-26,True,False,False,Mixed,64,19779,29.99,29.99,0.0
+1066110,Room Planner - Design Home 3D - Pro,2019-05-30,True,False,False,Mostly Positive,74,104,49.99,49.99,0.0
+1266100,Vampire: The Masquerade — Parliament of Knives,2021-10-28,True,True,True,Very Positive,96,200,11.99,11.99,0.0
+1304550,Progressbar95,2020-09-08,True,True,False,Overwhelmingly Positive,95,1400,4.99,4.99,0.0
+2066020,Soulstone Survivors,2022-11-07,True,True,True,Very Positive,91,8873,9.99,9.99,0.0
+225640,Sacred 2 Gold,2012-12-21,True,False,False,Mostly Positive,77,2056,14.99,14.99,0.0
+312610,METAL SLUG X,2014-10-02,True,False,False,Very Positive,88,2187,7.99,7.99,0.0
+318950,Disney Tangled,2014-10-06,True,False,False,Mostly Positive,70,60,5.99,19.99,70.0
+326360,Warspear Online,2017-11-02,True,True,True,Mostly Positive,76,2198,0.0,0.0,0.0
+554600,Learn Japanese To Survive! Katakana War,2017-01-30,True,True,False,Very Positive,93,362,2.09,6.99,70.0
+753640,Outer Wilds,2020-06-18,True,False,False,Overwhelmingly Positive,95,40990,24.99,24.99,0.0
+1233410,MicroWorks,2022-09-02,True,False,False,Very Positive,94,118,14.99,14.99,0.0
+1279630,Vampire: The Masquerade - Shadows of New York,2020-09-10,True,True,True,Mostly Positive,79,747,12.99,12.99,0.0
+204100,Max Payne 3,2012-05-31,True,False,False,Very Positive,85,36689,19.99,19.99,0.0
+238260,Pinball Arcade,2013-11-04,True,True,False,Mostly Positive,73,3779,0.0,0.0,0.0
+382310,Eco,2018-02-06,True,False,False,Very Positive,82,8550,29.99,29.99,0.0
+460920,Steep™,2016-12-02,True,False,False,Very Positive,82,21596,29.99,29.99,0.0
+531680,8-Bit Invaders!,2016-12-16,True,False,False,Very Positive,82,362,7.49,14.99,50.0
+548430,Deep Rock Galactic,2020-05-13,True,False,False,Overwhelmingly Positive,97,149353,29.99,29.99,0.0
+552700,WORLD OF FINAL FANTASY®,2017-11-21,True,False,False,Mostly Positive,79,2408,24.99,24.99,0.0
+839310,Signal Simulator,2018-04-29,True,False,True,Very Positive,84,790,19.99,19.99,0.0
+914800,Coffee Talk,2020-01-29,True,True,False,Overwhelmingly Positive,95,6408,12.99,12.99,0.0
+1172470,Apex Legends™,2020-11-04,True,False,False,Very Positive,83,595999,0.0,0.0,0.0
+1366540,Dyson Sphere Program,2021-01-20,True,False,False,Overwhelmingly Positive,97,62249,19.99,19.99,0.0
+1837750,Demeo: PC Edition,2022-12-15,True,False,False,Very Positive,81,425,39.99,39.99,0.0
+60,Ricochet,2000-11-01,True,True,True,Very Positive,80,3395,4.99,4.99,0.0
+351700,UnReal World,2016-02-26,True,True,True,Very Positive,94,955,10.99,10.99,0.0
+826940,Maid of Sker,2020-07-28,True,False,False,Very Positive,80,1111,8.49,24.99,66.0
+883710,Resident Evil 2,2019-01-24,True,False,False,Overwhelmingly Positive,97,81219,39.99,39.99,0.0
+890550,RUMBLE,2022-09-23,True,False,False,Very Positive,86,1224,20.0,20.0,0.0
+1193090,Bus World,2022-09-29,True,False,False,Mostly Positive,78,210,19.99,19.99,0.0
+1404210,Red Dead Online,2020-12-01,True,False,False,Very Positive,84,45357,19.99,19.99,0.0
+1657630,Slime Rancher 2,2022-09-22,True,False,False,Overwhelmingly Positive,95,15806,23.99,29.99,20.0
+1948280,Stacklands,2022-04-08,True,True,False,Overwhelmingly Positive,96,16917,4.99,4.99,0.0
+289070,Sid Meier’s Civilization® VI,2016-10-20,True,True,True,Very Positive,84,182502,5.99,59.99,90.0
+345370,TyranoBuilder Visual Novel Studio,2015-03-27,True,True,False,Very Positive,85,626,14.99,14.99,0.0
+933110,Age of Empires III: Definitive Edition,2020-10-15,True,False,False,Very Positive,81,27770,19.99,19.99,0.0
+949200,Ambition: A Minuet in Power,2021-08-18,True,True,False,Very Positive,89,189,19.99,19.99,0.0
+1262460,Zompiercer,2020-04-03,True,False,False,Very Positive,86,1044,19.99,19.99,0.0
+1296610,Peglin,2022-04-25,True,True,False,Very Positive,81,6807,19.99,19.99,0.0
+1318090,Vertigo Remastered,2020-07-21,True,False,False,Very Positive,93,763,24.99,24.99,0.0
+1577120,The Quarry,2022-06-09,True,False,False,Mostly Positive,78,4778,29.99,59.99,50.0
+1597730,Dogs Organized Neatly,2021-11-01,True,False,False,Overwhelmingly Positive,98,651,2.99,2.99,0.0
+297130,Titan Souls,2015-04-14,True,True,False,Very Positive,83,6239,14.99,14.99,0.0
+323320,Grow Home,2015-02-04,True,False,True,Very Positive,93,3515,7.99,7.99,0.0
+436320,Raw Data,2017-10-05,True,False,False,Very Positive,82,1998,39.99,39.99,0.0
+612470,Bio Inc. Redemption,2018-03-08,True,False,False,Very Positive,89,1612,12.99,12.99,0.0
+655500,MX Bikes,2019-10-07,True,False,False,Very Positive,94,10157,34.99,34.99,0.0
+742250,OPUS: Rocket of Whispers,2018-02-07,True,True,False,Very Positive,93,1020,14.99,14.99,0.0
+899770,Last Epoch,2019-04-30,True,False,True,Very Positive,85,12966,34.99,34.99,0.0
+1114290,Windjammers 2,2022-01-20,True,False,False,Very Positive,89,446,19.99,19.99,0.0
+1173810,FINAL FANTASY V,2021-11-10,True,False,False,Very Positive,86,1110,17.99,17.99,0.0
+1220010,Home Behind 2,2022-02-16,True,True,True,Very Positive,87,5795,19.99,19.99,0.0
+1263370,Seek Girl:Fog Ⅰ,2020-08-28,True,False,False,Very Positive,84,4294,3.99,3.99,0.0
+1462040,FINAL FANTASY VII REMAKE INTERGRADE,2022-06-17,True,False,False,Very Positive,90,11509,69.99,69.99,0.0
+1611600,WARNO,2022-01-20,True,False,False,Very Positive,81,4340,39.99,39.99,0.0
+1740720,Have a Nice Death,2022-03-08,True,False,False,Very Positive,87,5564,24.99,24.99,0.0
+1815630,Fences 4,2022-08-24,True,False,False,Mostly Positive,75,105,19.99,19.99,0.0
+47810,Dragon Age: Origins - Ultimate Edition,2010-10-26,True,False,False,Very Positive,90,17758,29.99,29.99,0.0
+286160,Tabletop Simulator,2015-06-05,True,True,True,Overwhelmingly Positive,96,34156,19.99,19.99,0.0
+326460,ShellShock Live,2020-05-22,True,True,True,Very Positive,93,26204,6.99,6.99,0.0
+410320,EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,2016-07-18,True,False,False,Overwhelmingly Positive,95,6259,19.99,19.99,0.0
+531510,Just Shapes & Beats,2018-05-31,True,True,True,Overwhelmingly Positive,97,15004,19.99,19.99,0.0
+667720,Red Faction Guerrilla Re-Mars-tered,2018-07-03,True,False,False,Mostly Positive,79,2530,19.99,19.99,0.0
+1408610,Call of the Wild: The Angler™,2022-08-31,True,False,False,Mixed,53,3494,9.89,29.99,67.0
+1184370,Pathfinder: Wrath of the Righteous - Enhanced Edition,2021-09-02,True,True,False,Very Positive,84,19526,49.99,49.99,0.0
+1337760,Potion Permit,2022-09-22,True,True,False,Mostly Positive,79,2198,19.99,19.99,0.0
+1722760,My Singing Monsters Playground,2021-11-09,True,False,False,Very Positive,90,84,39.99,39.99,0.0
+1742610,Spirits of the Hellements - TD,2022-04-28,True,False,False,Very Positive,94,255,11.99,11.99,0.0
+1783280,Ghostlore,2022-04-14,True,False,False,Very Positive,87,149,19.99,19.99,0.0
+15320,IL-2 Sturmovik: 1946,2008-06-13,True,False,False,Very Positive,90,2087,9.99,9.99,0.0
+48700,Mount & Blade: Warband,2010-03-31,True,True,True,Overwhelmingly Positive,97,116850,19.99,19.99,0.0
+214950,Total War™: ROME II - Emperor Edition,2013-09-02,True,False,False,Very Positive,85,42509,59.99,59.99,0.0
+369990,Gremlins Inc.,2016-03-10,True,True,True,Very Positive,85,5509,4.99,19.99,75.0
+736820,Knights of Honor II: Sovereign,2022-12-06,True,False,False,Mostly Positive,77,1943,44.99,44.99,0.0
+743450,Monster Prom,2018-04-27,True,True,True,Very Positive,93,10243,2.99,11.99,75.0
+791330,Fallen ~Makina and the City of Ruins~,2018-02-23,True,False,False,Very Positive,85,1553,3.74,14.99,75.0
+910630,Arcade Spirits,2019-02-12,True,True,True,Very Positive,97,348,19.99,19.99,0.0
+950620,Priest Simulator,2022-10-06,True,False,False,Very Positive,96,421,19.99,19.99,0.0
+1302240,Labyrinthine,2020-10-28,True,False,False,Very Positive,87,7141,9.99,9.99,0.0
+1583230,High On Life,2022-12-13,True,False,False,Very Positive,90,8179,59.99,59.99,0.0
+1966900,20 Minutes Till Dawn,2022-06-07,True,True,False,Very Positive,92,18493,4.99,4.99,0.0
+7610,Railroad Tycoon 3,2007-05-04,True,False,False,Mostly Positive,78,871,2.49,9.99,75.0
+22200,Zeno Clash,2009-04-21,True,False,False,Very Positive,87,1805,9.99,9.99,0.0
+24010,Train Simulator Classic,2022-04-21,True,False,False,Mostly Positive,70,16468,24.99,24.99,0.0
+42680,Call of Duty®: Modern Warfare® 3,2011-11-08,True,False,False,Very Positive,88,10537,39.99,39.99,0.0
+225320,Tomb Raider III,2012-11-28,True,False,False,Very Positive,84,1094,6.99,6.99,0.0
+360430,Mafia III: Definitive Edition,2020-05-19,True,True,False,Mixed,56,26102,9.89,29.99,67.0
+386620,Cook Serve Delicious! 2!!,2017-09-13,True,True,True,Very Positive,90,1922,12.99,12.99,0.0
+527440,Rustangelo,2016-09-15,True,False,False,Mixed,68,649,0.0,0.0,0.0
+635260,CarX Drift Racing Online,2017-11-17,True,False,False,Overwhelmingly Positive,95,53619,14.99,14.99,0.0
+893720,One Hand Clapping,2021-12-14,True,False,False,Very Positive,84,382,14.99,14.99,0.0
+1037020,ScourgeBringer,2020-10-21,True,True,True,Very Positive,90,1946,16.99,16.99,0.0
+1692250,F1® 22,2022-06-30,True,False,False,Mostly Positive,70,15453,59.99,59.99,0.0
+1843940,Brigandine The Legend of Runersia,2022-05-10,True,False,False,Very Positive,87,679,39.99,39.99,0.0
+550,Left 4 Dead 2,2009-11-16,True,True,True,Overwhelmingly Positive,97,519066,9.99,9.99,0.0
+24800,Command & Conquer: Red Alert 3 - Uprising,2009-10-06,True,False,False,Very Positive,87,2965,19.99,19.99,0.0
+314070,Super Mega Baseball: Extra Innings,2015-08-21,True,False,False,Very Positive,92,677,12.99,12.99,0.0
+314660,Oddworld: New 'n' Tasty,2015-02-25,True,True,True,Very Positive,87,2573,19.99,19.99,0.0
+356190,Middle-earth™: Shadow of War™,2017-10-09,True,False,False,Very Positive,87,62670,49.99,49.99,0.0
+1174180,Red Dead Redemption 2,2019-12-05,True,False,False,Very Positive,89,338043,59.99,59.99,0.0
+1478220,Puzzle Together Multiplayer Jigsaw Puzzles,2020-12-09,True,True,False,Very Positive,87,3372,0.0,0.0,0.0
+1548750,Conway: Disappearance at Dahlia View,2021-11-02,True,False,False,Very Positive,86,177,29.99,29.99,0.0
+1705180,Gunner HEAT PC!,2022-09-06,True,False,False,Very Positive,92,1689,29.99,29.99,0.0
+238750,Might & Magic X - Legacy,2014-01-23,True,True,False,Mixed,64,2793,29.99,29.99,0.0
+240720,Getting Over It with Bennett Foddy,2017-12-06,True,True,True,Very Positive,83,51352,7.99,7.99,0.0
+278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,2014-05-13,True,False,False,Very Positive,84,9772,49.99,49.99,0.0
+366220,Wurm Unlimited,2015-10-21,True,False,True,Mostly Positive,72,1754,29.99,29.99,0.0
+431600,Automobilista,2016-08-24,True,False,False,Very Positive,88,1505,24.99,24.99,0.0
+471710,Rec Room,2021-09-02,True,False,False,Very Positive,91,48254,0.0,0.0,0.0
+674520,Fight'N Rage,2017-09-19,True,False,False,Very Positive,92,1927,19.99,19.99,0.0
+678960,CODE VEIN,2019-09-26,True,False,False,Very Positive,86,34721,59.99,59.99,0.0
+777130,Blush Blush,2020-04-22,True,True,True,Very Positive,87,5712,0.0,0.0,0.0
+1221250,NORCO,2022-03-24,True,True,False,Very Positive,93,1181,14.99,14.99,0.0
+1271280,Rift Wizard,2021-09-01,True,False,False,Very Positive,93,757,9.74,14.99,35.0
+1307890,Kingdoms Reborn,2020-11-01,True,False,False,Very Positive,90,4667,19.99,19.99,0.0
+1408230,Walkabout Mini Golf VR,2021-07-15,True,False,False,Overwhelmingly Positive,98,1900,14.99,14.99,0.0
+2058180,Judgment,2022-09-14,True,False,False,Overwhelmingly Positive,96,3285,39.99,39.99,0.0
+252870,PULSAR: Lost Colony,2021-06-22,True,True,True,Very Positive,90,3866,24.99,24.99,0.0
+304050,Trove,2015-07-09,True,False,False,Very Positive,80,89015,0.0,0.0,0.0
+690790,DiRT Rally 2.0,2019-02-25,True,False,False,Very Positive,87,24016,19.99,19.99,0.0
+1162700,Midnight Protocol,2021-10-13,True,True,True,Very Positive,91,155,14.99,14.99,0.0
+1172650,INDUSTRIA,2021-09-30,True,False,False,Mostly Positive,74,1115,9.99,19.99,50.0
+1237950,STAR WARS™ Battlefront™ II,2020-06-11,True,False,False,Very Positive,87,38550,39.99,39.99,0.0
+1328670,Mass Effect™ Legendary Edition,2021-05-14,True,False,False,Very Positive,92,31332,59.99,59.99,0.0
+1818750,MultiVersus,2022-07-19,True,False,False,Very Positive,87,92833,0.0,0.0,0.0
+1995590,The Block,2022-12-16,True,True,False,Mostly Positive,71,60,2.99,2.99,0.0
+224580,Arma II: DayZ Mod,2013-02-21,True,False,False,Very Positive,81,437,0.0,0.0,0.0
+287020,Harvester,2014-04-04,True,False,True,Very Positive,91,842,5.99,5.99,0.0
+323190,Frostpunk,2018-04-24,True,True,False,Very Positive,91,72584,29.99,29.99,0.0
+418650,Space Pirate Trainer,2017-10-12,True,False,False,Very Positive,94,2548,14.99,14.99,0.0
+582010,Monster Hunter: World,2018-08-09,True,False,False,Very Positive,87,225027,29.99,29.99,0.0
+585900,Harvest Moon: Light of Hope Special Edition,2017-11-14,True,False,False,Mostly Positive,76,934,19.99,19.99,0.0
+595520,FINAL FANTASY XII THE ZODIAC AGE,2018-02-01,True,False,False,Very Positive,89,5451,49.99,49.99,0.0
+730830,Escape from Monkey Island™,2018-11-16,True,False,False,Mixed,56,466,2.44,6.99,65.0
+1046400,Astalon: Tears of the Earth,2021-06-03,True,True,True,Very Positive,94,582,19.99,19.99,0.0
+1063730,New World,2021-09-28,True,False,False,Mixed,69,215030,39.99,39.99,0.0
+1153210,Bartender Hustle,2022-05-27,True,False,False,Very Positive,80,98,19.99,19.99,0.0
+1225570,Unravel Two,2020-06-04,True,False,False,Very Positive,84,3126,19.99,19.99,0.0
+1276790,Ruined King: A League of Legends Story™,2021-11-16,True,False,False,Very Positive,89,8721,29.99,29.99,0.0
+324570,Halo: Spartan Strike,2015-04-16,True,False,False,Very Positive,81,1198,2.99,2.99,0.0
+365590,Tom Clancy’s The Division™,2016-03-07,True,False,False,Mostly Positive,70,68220,29.99,29.99,0.0
+630610,Disneyland Adventures,2018-09-14,True,False,False,Very Positive,91,423,19.99,19.99,0.0
+666570,Infectonator 3: Apocalypse,2018-05-10,True,True,False,Very Positive,81,747,12.99,12.99,0.0
+1063540,Space Wreck,2022-12-05,True,False,False,Very Positive,89,59,12.74,14.99,15.0
+1118380,Discord Bot Studio,2020-05-12,True,True,False,Very Positive,84,417,9.99,9.99,0.0
+1533420,Neon White,2022-06-16,True,False,False,Overwhelmingly Positive,98,8805,24.99,24.99,0.0
+1721470,Poppy Playtime,2021-10-12,True,False,False,Mostly Positive,77,47859,0.0,0.0,0.0
+2012140,Helicopter Gunship DEX,2022-12-01,True,False,False,Positive,85,34,17.99,17.99,0.0
+251990,Long Live The Queen,2013-11-08,True,True,True,Overwhelmingly Positive,95,5501,3.99,9.99,60.0
+359320,Elite Dangerous,2015-04-02,True,False,False,Mostly Positive,76,66272,29.99,29.99,0.0
+571530,Superdimension Neptune VS Sega Hard Girls,2017-06-12,True,False,False,Very Positive,94,796,19.99,19.99,0.0
+629730,Blade and Sorcery,2018-12-11,True,False,False,Overwhelmingly Positive,96,37088,19.99,19.99,0.0
+646570,Slay the Spire,2019-01-23,True,True,True,Overwhelmingly Positive,97,108391,24.99,24.99,0.0
+897220,Summer Pockets,2020-02-05,True,False,False,Overwhelmingly Positive,98,2015,44.99,44.99,0.0
+910830,Rebel Galaxy Outlaw,2020-09-22,True,False,False,Mixed,66,636,29.99,29.99,0.0
+1036890,Shadow Warrior 3: Definitive Edition,2022-03-01,True,False,False,Mixed,65,2501,19.99,39.99,50.0
+1062520,Dinkum,2022-07-14,True,False,False,Overwhelmingly Positive,95,12564,19.99,19.99,0.0
+1506440,Batora: Lost Haven,2022-10-20,True,False,False,Very Positive,81,114,24.99,24.99,0.0
+1507210,aerofly RC 8,2021-02-05,True,False,False,Very Positive,85,71,79.99,79.99,0.0
+1621690,Core Keeper,2022-03-08,True,False,True,Very Positive,91,17398,10.39,12.99,20.0
+221040,Resident Evil 6,2013-03-21,True,False,False,Very Positive,80,29482,29.99,29.99,0.0
+264710,Subnautica,2018-01-23,True,True,False,Overwhelmingly Positive,96,199435,29.99,29.99,0.0
+287700,METAL GEAR SOLID V: THE PHANTOM PAIN,2015-09-01,True,False,False,Very Positive,91,54163,19.99,19.99,0.0
+360940,The Mean Greens - Plastic Warfare,2015-12-08,True,False,False,Very Positive,81,8005,9.99,9.99,0.0
+951440,Volcanoids,2019-01-29,True,False,True,Very Positive,85,4953,19.99,19.99,0.0
+957790,War Dust VR: 32v32 Battlefields,2020-05-06,True,False,False,Mostly Positive,79,1357,24.99,24.99,0.0
+1199030,Tainted Grail: Conquest,2021-05-27,True,False,True,Very Positive,91,5604,19.99,19.99,0.0
+1961390,Sakura Succubus 6,2022-07-11,True,False,True,Positive,95,41,9.99,9.99,0.0
+730,Counter-Strike: Global Offensive,2012-08-21,True,True,True,Very Positive,88,6941137,14.99,0.0,0.0
+316030,Disney Alice in Wonderland,2014-10-06,True,False,False,Mixed,67,140,5.99,19.99,70.0
+714120,Little Misfortune,2019-09-18,True,True,True,Very Positive,90,5502,19.99,19.99,0.0
+963930,Contractors,2018-12-14,True,False,False,Very Positive,84,2698,19.99,19.99,0.0
+1315610,Source of Madness,2022-05-11,True,False,False,Very Positive,82,539,19.99,19.99,0.0
+1907380,Arcane Vale,2022-12-16,True,False,False,Very Positive,87,83,7.99,7.99,0.0
+332950,Dark Deception,2018-09-26,True,False,False,Very Positive,89,14029,0.0,0.0,0.0
+512470,The Pirate: Caribbean Hunt,2016-08-24,True,True,True,Very Positive,81,4027,0.0,0.0,0.0
+562810,MONOPOLY® PLUS,2017-09-07,True,False,False,Mixed,44,10236,14.99,14.99,0.0
+588650,Dead Cells,2018-08-06,True,True,True,Overwhelmingly Positive,97,107552,24.99,24.99,0.0
+589290,Holdfast: Nations At War,2020-03-05,True,False,False,Very Positive,90,19602,19.99,19.99,0.0
+726590,NBA 2K Playgrounds 2,2018-10-15,True,False,False,Mostly Positive,79,1142,29.99,29.99,0.0
+987840,Expeditions: Rome,2022-01-20,True,False,False,Very Positive,88,3096,44.99,44.99,0.0
+1100150,Touhou Chireiden ~ Subterranean Animism.,2020-06-05,True,False,False,Very Positive,97,367,14.99,14.99,0.0
+1352930,HAAK,2022-08-24,True,False,False,Very Positive,89,1570,17.99,17.99,0.0
+1522820,Orcs Must Die! 3,2021-07-23,True,False,False,Very Positive,83,7428,29.99,29.99,0.0
+2064650,Tower of Fantasy,2022-10-19,True,False,False,Mostly Positive,73,5820,0.0,0.0,0.0
+2153330,Otome * Domain,2022-12-22,True,False,False,Very Positive,96,155,24.99,24.99,0.0
+10110,Space Quest™ Collection,2009-07-23,True,False,False,Very Positive,84,256,19.99,19.99,0.0
+774241,Warhammer: Chaosbane,2019-05-31,True,False,False,Mixed,57,2513,29.99,29.99,0.0
+916440,Anno 1800,2019-04-01,True,False,False,Very Positive,80,5688,59.99,59.99,0.0
+966320,Later Alligator,2019-09-18,True,True,True,Overwhelmingly Positive,96,1655,17.99,17.99,0.0
+1676910,Onde,2022-03-17,True,False,False,Very Positive,92,82,13.99,13.99,0.0
+1685460,A-Train: All Aboard! Tourism,2021-12-07,True,False,False,Mostly Positive,71,106,59.99,59.99,0.0
+7000,Tomb Raider: Legend,2007-03-29,True,False,False,Very Positive,88,3728,6.99,6.99,0.0
+589870,Learn to Fly 3,2017-05-12,True,False,False,Very Positive,94,7429,0.0,0.0,0.0
+682990,Drug Dealer Simulator,2020-04-16,True,False,False,Very Positive,87,13046,19.99,19.99,0.0
+792300,The Beast Inside,2019-10-17,True,False,False,Very Positive,84,6492,2.49,24.99,90.0
+1328900,Explorer of Yggdrasil,2021-03-12,True,False,False,Very Positive,86,206,14.99,19.99,25.0
+1384160,GUILTY GEAR -STRIVE-,2021-06-11,True,False,False,Very Positive,92,24924,39.99,39.99,0.0
+1385100,Insurmountable,2021-04-29,True,False,False,Very Positive,82,502,24.99,24.99,0.0
+1424710,Geneforge 1 - Mutagen,2021-02-24,True,True,False,Very Positive,93,248,19.99,19.99,0.0
+1783530,Movavi Video Editor Plus 2022 - Video Editing Software,2021-11-06,True,True,False,Mixed,69,144,37.49,74.99,50.0
+2013360,The Oregon Trail,2022-11-14,True,False,False,Mostly Positive,77,339,17.99,29.99,40.0
+46510,Syberia II,2011-05-19,True,True,False,Very Positive,87,1278,12.99,12.99,0.0
+211600,Thief™ Gold,2012-05-22,True,False,False,Very Positive,92,2534,6.99,6.99,0.0
+251950,WWII Online,2017-09-05,True,True,False,Mixed,48,3347,0.0,0.0,0.0
+354140,Five Nights at Freddy's 3,2015-03-02,True,False,False,Very Positive,89,7070,7.99,7.99,0.0
+359550,Tom Clancy's Rainbow Six® Siege,2015-12-01,True,False,False,Very Positive,87,939992,19.99,19.99,0.0
+559100,Phantom Doctrine,2018-08-14,True,False,False,Mostly Positive,75,3287,39.99,39.99,0.0
+578080,PUBG: BATTLEGROUNDS,2017-12-21,True,False,False,Mixed,57,2142372,0.0,0.0,0.0
+603960,Monolith,2017-06-07,True,False,True,Overwhelmingly Positive,98,1498,7.99,7.99,0.0
+789100,My Little Farmies,2018-02-27,True,False,False,Mixed,53,391,0.0,0.0,0.0
+834530,Yakuza Kiwami,2019-02-19,True,False,False,Very Positive,93,10813,19.99,19.99,0.0
+975370,Dwarf Fortress,2022-12-06,True,False,False,Overwhelmingly Positive,95,17773,29.99,29.99,0.0
+1048370,Idle Skilling,2022-09-15,True,False,False,Mostly Positive,75,1512,0.0,0.0,0.0
+1084640,Chicken Police - Paint it RED!,2020-11-05,True,True,False,Overwhelmingly Positive,96,1090,19.99,19.99,0.0
+1156250,The Exorcist: Legion VR (Deluxe Edition),2019-10-10,True,False,False,Mostly Positive,75,132,24.99,24.99,0.0
+1164850,Sinking Simulator,2019-10-23,True,False,False,Very Positive,88,96,0.99,0.99,0.0
+1167680,Orbital Bullet – The 360° Rogue-lite,2022-03-21,True,False,False,Very Positive,83,312,16.99,16.99,0.0
+1243200,STUFFED: Fun Co-Op FPS,2021-12-09,True,False,False,Very Positive,83,151,6.49,12.99,50.0
+1397920,Mr.Mine,2020-09-30,True,False,False,Very Positive,92,12702,0.0,0.0,0.0
+1420810,Touhou Kaeizuka ～ Phantasmagoria of Flower View.,2022-04-24,True,False,False,Very Positive,100,143,14.99,14.99,0.0
+338170,Ratz Instagib,2016-07-27,True,True,False,Very Positive,89,2322,8.99,8.99,0.0
+1677740,Stumble Guys,2021-10-07,True,False,False,Very Positive,87,71538,0.0,0.0,0.0
+233450,Prison Architect,2015-10-06,True,True,True,Very Positive,90,52226,29.99,29.99,0.0
+341800,Keep Talking and Nobody Explodes,2015-10-08,True,True,True,Overwhelmingly Positive,97,9758,4.94,14.99,67.0
+436150,Governor of Poker 3,2016-02-19,True,True,False,Mostly Positive,70,11352,0.0,0.0,0.0
+546560,Half-Life: Alyx,2020-03-23,True,False,False,Overwhelmingly Positive,98,67547,59.99,59.99,0.0
+774201,Heaven's Vault,2019-04-16,True,False,False,Very Positive,90,1359,24.99,24.99,0.0
+798810,Natural Locomotion,2018-04-07,True,False,False,Very Positive,84,516,9.99,9.99,0.0
+1053710,The Red Lantern,2021-12-08,True,False,False,Very Positive,87,132,24.99,24.99,0.0
+1063660,Bendy and the Dark Revival,2022-11-15,True,False,False,Overwhelmingly Positive,95,6482,29.99,29.99,0.0
+1178160,Blackjack Championship,2020-08-25,True,True,False,Mixed,66,715,0.0,0.0,0.0
+1782120,ZERO Sievert,2022-11-15,True,False,False,Very Positive,91,5468,19.99,19.99,0.0
+834910,ATLAS,2018-12-22,True,False,False,Mixed,46,35736,29.99,29.99,0.0
+956450,Rogue Fable III,2021-12-22,True,True,False,Very Positive,94,575,9.99,9.99,0.0
+1263550,Combat Arms: the Classic,2020-07-14,True,False,False,Mixed,64,1230,0.0,0.0,0.0
+1369670,Motor Town: Behind The Wheel,2021-12-17,True,False,False,Overwhelmingly Positive,95,2277,19.99,19.99,0.0
+1406780,Viscerafest,2021-05-20,True,False,True,Very Positive,91,394,14.99,14.99,0.0
+31100,Wallace & Gromit’s Grand Adventures,2009-03-23,True,False,False,Very Positive,90,110,14.99,14.99,0.0
+322110,20XX,2017-08-16,True,False,False,Very Positive,92,3536,7.49,14.99,50.0
+327400,Sid Meier's Colonization (Classic),2014-10-09,True,True,True,Very Positive,94,684,6.99,6.99,0.0
+1262580,Need for Speed™ Payback,2020-06-18,True,False,False,Very Positive,86,14241,29.99,29.99,0.0
+1368030,ANNO: Mutationem,2022-03-16,True,False,False,Mostly Positive,78,3693,24.99,24.99,0.0
+1373430,Leisure Suit Larry - Wet Dreams Dry Twice,2020-10-23,True,True,False,Very Positive,85,484,34.99,34.99,0.0
+1383680,Isekai Succubus ~My Genderbent Saga in Another World~,2022-01-14,True,False,False,Very Positive,88,114,14.99,14.99,0.0
+1552350,The Jackbox Party Pack 8,2021-10-13,True,True,True,Very Positive,90,879,29.99,29.99,0.0
+1781030,Fishing Paradiso,2022-06-01,True,True,True,Very Positive,92,138,14.99,14.99,0.0
+223750,DCS World Steam Edition,2013-08-02,True,False,False,Very Positive,85,26594,0.0,0.0,0.0
+284850,Grim Legends: The Forsaken Bride,2014-08-21,True,True,True,Overwhelmingly Positive,96,825,9.99,9.99,0.0
+887570,NEBULOUS: Fleet Command,2022-02-11,True,False,False,Very Positive,93,1466,19.99,19.99,0.0
+1874880,Arma Reforger,2022-05-17,True,False,False,Mixed,58,6697,29.99,29.99,0.0
+2167580,Summoners War: Chronicles,2022-11-09,True,False,False,Mostly Positive,75,1667,0.0,0.0,0.0
+251130,Chroma Squad,2015-04-30,True,True,True,Overwhelmingly Positive,95,2446,14.99,14.99,0.0
+556180,Mysterium: A Psychic Clue Game,2017-01-12,True,False,False,Very Positive,80,401,6.99,6.99,0.0
+559620,Outlaws + A Handful of Missions,2018-11-16,True,False,False,Very Positive,94,475,2.09,5.99,65.0
+581320,Insurgency: Sandstorm,2018-12-12,True,False,False,Very Positive,86,81247,29.99,29.99,0.0
+628060,Romance of the Three Kingdoms X with Power Up Kit,2017-12-05,True,False,False,Very Positive,82,417,29.99,29.99,0.0
+898750,Super Robot Wars 30,2021-10-27,True,False,False,Very Positive,88,4175,59.99,59.99,0.0
+983970,Haven,2020-12-03,True,False,False,Very Positive,92,3272,9.99,24.99,60.0
+1147560,Skul: The Hero Slayer,2021-01-20,True,True,True,Very Positive,93,35587,19.99,19.99,0.0
+1366800,Crosshair X,2020-08-17,True,False,False,Very Positive,90,5908,7.99,7.99,0.0
+108600,Project Zomboid,2013-11-08,True,True,True,Very Positive,93,131463,19.99,19.99,0.0
+927350,Hood: Outlaws & Legends,2021-05-10,True,False,False,Mixed,52,5252,19.99,19.99,0.0
+1277400,Monster Hunter Stories 2: Wings of Ruin,2021-07-08,True,False,False,Very Positive,81,9583,39.99,39.99,0.0
+1528810,Exodus Borealis,2021-11-18,True,False,False,Very Positive,92,198,19.99,19.99,0.0
+1552810,Twin Mirror,2021-12-01,True,False,False,Mostly Positive,76,262,29.99,29.99,0.0
+1565670,Five Nations,2021-05-04,True,False,False,Very Positive,83,147,19.99,19.99,0.0
+1674780,Lone Fungus,2022-03-27,True,False,False,Very Positive,94,89,19.99,19.99,0.0
+1755580,The Jackbox Party Starter,2022-06-29,True,True,True,Very Positive,95,89,19.99,19.99,0.0
+219740,Don't Starve,2013-04-23,True,True,True,Overwhelmingly Positive,96,84071,9.99,9.99,0.0
+640990,Fashioning Little Miss Lonesome,2017-09-08,True,False,False,Very Positive,83,287,24.99,24.99,0.0
+794260,Outward Definitive Edition,2022-05-17,True,False,False,Mostly Positive,73,17234,39.99,39.99,0.0
+1017180,The Long Drive,2019-09-25,True,False,False,Very Positive,91,16460,11.99,11.99,0.0
+1091500,Cyberpunk 2077,2020-12-09,True,False,False,Mostly Positive,79,521326,59.99,59.99,0.0
+1125390,Atrio: The Dark Wild,2023-01-10,True,False,False,Very Positive,85,333,19.99,19.99,0.0
+1163870,Mecha Knights: Nightmare,2021-08-30,True,False,False,Very Positive,91,855,15.99,15.99,0.0
+1238880,Battlefield™ Hardline,2020-06-11,True,False,False,Mixed,67,1354,39.99,39.99,0.0
+1904860,Legends of Kingdom Rush,2022-07-14,True,True,False,Mixed,66,836,14.99,14.99,0.0
+211820,Starbound,2016-07-22,True,True,True,Very Positive,91,81872,14.99,14.99,0.0
+767560,War Robots,2018-04-04,True,False,False,Mixed,62,16145,0.0,0.0,0.0
+775500,SCARLET NEXUS,2021-06-24,True,False,False,Very Positive,84,9825,59.99,59.99,0.0
+780310,The Riftbreaker,2021-10-14,True,False,False,Very Positive,91,12171,29.99,29.99,0.0
+798490,Othercide,2020-07-27,True,False,False,Very Positive,83,3238,29.99,29.99,0.0
+848450,Subnautica: Below Zero,2021-05-13,True,True,False,Very Positive,91,68621,29.99,29.99,0.0
+1210320,Potion Craft: Alchemist Simulator,2022-12-13,True,False,False,Very Positive,92,16122,14.99,14.99,0.0
+1361000,In Silence,2021-10-29,True,True,False,Mostly Positive,79,8582,9.99,9.99,0.0
+238960,Path of Exile,2013-10-23,True,True,False,Very Positive,87,196492,0.0,0.0,0.0
+435030,Lost Lands: Mahjong,2016-03-14,True,True,False,Very Positive,91,4910,0.0,0.0,0.0
+500810,Arcanum: Of Steamworks and Magick Obscura,2016-08-29,True,False,False,Very Positive,88,1255,5.99,5.99,0.0
+965580,Root,2020-09-24,True,True,False,Very Positive,92,2423,14.99,14.99,0.0
+1063580,Aeon's End,2019-09-17,True,True,True,Very Positive,82,272,14.99,14.99,0.0
+1238060,Dead Space™ 3,2020-06-18,True,False,False,Mostly Positive,77,6900,19.99,19.99,0.0
+268990,The Dishwasher: Vampire Smile,2017-05-12,True,True,True,Very Positive,94,989,9.99,9.99,0.0
+314160,Microsoft Flight Simulator X: Steam Edition,2014-12-18,True,False,False,Very Positive,85,20252,24.99,24.99,0.0
+345610,The Fruit of Grisaia,2015-05-29,True,False,False,Very Positive,93,893,39.99,39.99,0.0
+357500,Rumble Fighter: Unleashed,2016-12-16,True,False,False,Mixed,52,358,0.0,0.0,0.0
+593280,Cat Quest,2017-08-08,True,True,False,Overwhelmingly Positive,95,5186,12.99,12.99,0.0
+638200,Capitalism 2,2017-08-01,True,False,False,Very Positive,89,315,9.99,9.99,0.0
+868270,The Cycle: Frontier,2022-06-08,True,False,False,Mixed,61,39025,0.0,0.0,0.0
+1057090,Ori and the Will of the Wisps,2020-03-10,True,False,False,Overwhelmingly Positive,96,91625,29.99,29.99,0.0
+1275350,Ninja Kiwi Archive,2020-07-08,True,False,False,Very Positive,93,4075,0.0,0.0,0.0
+1556790,Isonzo,2022-09-13,True,False,True,Very Positive,85,4983,29.99,29.99,0.0
+1578650,Citizen Sleeper,2022-05-05,True,True,False,Very Positive,94,2798,13.99,19.99,30.0
+1988540,The Zachtronics Solitaire Collection,2022-09-06,True,True,True,Very Positive,98,291,9.99,9.99,0.0
+10500,Total War: EMPIRE – Definitive Edition,2009-03-04,True,True,True,Very Positive,89,16097,24.99,24.99,0.0
+39210,FINAL FANTASY XIV Online,2014-02-18,True,False,False,Very Positive,88,58454,19.99,19.99,0.0
+205610,Port Royale 3,2012-05-04,True,False,False,Mostly Positive,73,989,14.99,14.99,0.0
+247660,Deadly Premonition: The Director's Cut,2013-10-29,True,False,False,Mixed,67,2465,24.99,24.99,0.0
+269210,Hero Siege,2014-01-29,True,True,True,Mostly Positive,75,26515,6.99,6.99,0.0
+597820,BIOMUTANT,2021-05-25,True,False,False,Mixed,67,11449,39.99,39.99,0.0
+617480,Tower of Time,2018-04-12,True,False,True,Very Positive,84,1803,24.99,24.99,0.0
+690830,Foundation,2019-02-01,True,False,False,Very Positive,86,11942,29.99,29.99,0.0
+873940,Crying Suns,2019-09-18,True,True,False,Very Positive,86,2501,24.99,24.99,0.0
+1127400,Mindustry,2019-09-26,True,True,True,Overwhelmingly Positive,96,12213,9.99,9.99,0.0
+1232580,Knock on the Coffin Lid,2020-04-01,True,False,False,Very Positive,84,530,24.99,24.99,0.0
+1244950,Battletoads,2020-08-20,True,False,False,Mixed,69,1604,19.99,19.99,0.0
+1465070,Legendary Tales,2021-09-08,True,False,False,Very Positive,83,1534,34.99,34.99,0.0
+1549970,Aliens: Fireteam Elite,2021-08-23,True,False,False,Very Positive,81,14275,29.99,29.99,0.0
+1639790,Northern Journey,2021-08-18,True,False,False,Overwhelmingly Positive,96,999,11.99,11.99,0.0
+1655940,Earth's Shadow,2023-01-31,True,False,False,Positive,91,47,14.99,14.99,0.0
+211740,Thief™ II: The Metal Age,2012-05-22,True,False,False,Very Positive,94,1460,6.99,6.99,0.0
+257350,Baldur's Gate II: Enhanced Edition,2013-11-15,True,True,True,Very Positive,91,6917,19.99,19.99,0.0
+368610,The Enchanted Cave 2,2015-06-03,True,True,True,Very Positive,89,580,9.99,9.99,0.0
+403640,Dishonored 2,2016-11-11,True,False,False,Very Positive,88,32155,29.99,29.99,0.0
+441010,Mount Your Friends 3D: A Hard Man is Good to Climb,2018-02-23,True,True,False,Very Positive,89,308,2.79,6.99,60.0
+617290,Remnant: From the Ashes,2019-08-19,True,False,False,Very Positive,85,37005,39.99,39.99,0.0
+1049410,Superliminal,2020-11-05,True,True,True,Very Positive,94,17358,19.99,19.99,0.0
+1144770,SLUDGE LIFE,2021-06-02,True,False,False,Overwhelmingly Positive,95,546,14.99,14.99,0.0
+1147660,ArcheAge: Unchained,2019-10-17,True,False,False,Mixed,54,3718,0.0,0.0,0.0
+1237320,Sonic Frontiers,2022-11-07,True,False,False,Very Positive,94,12848,59.99,59.99,0.0
+1551360,Forza Horizon 5,2021-11-08,True,False,False,Very Positive,88,98144,59.99,59.99,0.0
+1761390,Hatsune Miku: Project DIVA Mega Mix+,2022-05-26,True,False,False,Very Positive,92,7891,39.39,39.39,0.0
+339040,Disney's Chicken Little,2015-02-24,True,False,False,Mostly Positive,74,310,2.99,9.99,70.0
+452570,Battle Chef Brigade Deluxe,2017-11-20,True,True,False,Overwhelmingly Positive,97,1123,19.99,19.99,0.0
+635940,Little Busters! English Edition,2017-11-01,True,False,False,Overwhelmingly Positive,98,649,34.99,34.99,0.0
+868360,Project Hospital,2018-10-30,True,True,True,Very Positive,88,5713,24.99,24.99,0.0
+889910,Hell Pie,2022-07-21,True,False,False,Very Positive,93,570,24.99,24.99,0.0
+951820,Captain Bones,2022-07-27,True,False,False,Very Positive,88,146,19.99,19.99,0.0
+1372280,MELTY BLOOD: TYPE LUMINA,2021-09-29,True,False,False,Very Positive,86,6306,29.99,49.99,40.0
+1418100,Swords of Legends Online,2021-07-09,True,False,False,Mixed,68,5670,0.0,0.0,0.0
+1677770,The Case of the Golden Idol,2022-10-13,True,True,False,Overwhelmingly Positive,99,2304,17.99,17.99,0.0
+1846170,Iron Lung,2022-03-09,True,False,False,Very Positive,93,4880,5.99,5.99,0.0
+2016220,EarthRoyale,2022-07-29,True,True,True,Very Positive,95,94,6.99,6.99,0.0
+200210,Realm of the Mad God Exalt,2012-02-20,True,True,False,Very Positive,83,43236,0.0,0.0,0.0
+232910,TrackMania² Stadium,2013-06-20,True,False,False,Very Positive,88,5026,9.99,9.99,0.0
+261570,Ori and the Blind Forest,2015-03-10,True,False,False,Overwhelmingly Positive,95,42259,0.0,0.0,0.0
+971030,SkateBIRD,2021-09-16,True,True,True,Very Positive,84,426,19.99,19.99,0.0
+325610,Total War: ATTILA,2015-02-17,True,False,True,Very Positive,81,21314,44.99,44.99,0.0
+426790,Grow Up,2016-08-16,True,False,False,Very Positive,91,1393,9.99,9.99,0.0
+489630,Warhammer 40000: Gladius - Relics of War,2018-07-12,True,False,True,Very Positive,81,5366,39.99,39.99,0.0
+598960,Mashinky,2018-10-06,True,False,False,Very Positive,87,1979,24.99,24.99,0.0
+694770,Vestaria Saga I: War of the Scions,2019-12-27,True,False,False,Very Positive,87,800,19.99,19.99,0.0
+1203420,Miss Neko 2,2021-12-17,True,False,False,Very Positive,92,1842,1.99,1.99,0.0
+1336490,Against the Storm,2022-11-01,True,False,False,Overwhelmingly Positive,95,7142,19.99,19.99,0.0
+1588530,Dungeon Alchemist,2022-03-31,True,True,True,Overwhelmingly Positive,95,604,44.99,44.99,0.0
+1904610,Dungeons & Dragons: Krynn Series,2022-03-29,True,False,False,Very Positive,94,56,9.99,9.99,0.0
+30,Day of Defeat,2003-05-01,True,True,True,Very Positive,87,3489,4.99,4.99,0.0
+413410,Danganronpa: Trigger Happy Havoc,2016-02-18,True,True,True,Overwhelmingly Positive,96,23159,7.99,19.99,60.0
+703080,Planet Zoo,2019-11-05,True,False,False,Very Positive,90,55140,44.99,44.99,0.0
+852220,Accident,2021-09-21,True,False,False,Mostly Positive,78,999,14.99,14.99,0.0
+1295920,The Mortuary Assistant,2022-08-02,True,False,False,Very Positive,92,3375,24.99,24.99,0.0
+1797680,Wee Tanks!,2022-02-22,True,True,True,Very Positive,95,242,9.99,9.99,0.0
+4850,Cossacks: Back to War,2010-09-02,True,False,False,Very Positive,88,1988,4.99,4.99,0.0
+15080,Rayman Raving Rabbids™,2008-06-13,True,False,False,Very Positive,83,923,9.99,9.99,0.0
+17470,Dead Space (2008),2009-01-09,True,False,False,Very Positive,92,18624,19.99,19.99,0.0
+22370,Fallout 3: Game of the Year Edition,2009-12-17,True,False,False,Mostly Positive,79,30882,19.99,19.99,0.0
+225300,Tomb Raider II,2012-11-28,True,False,False,Very Positive,86,1724,6.99,6.99,0.0
+506610,Five Nights at Freddy's: Sister Location,2016-10-07,True,False,False,Very Positive,92,8660,7.99,7.99,0.0
+833090,Swords of Gurrah,2020-04-21,True,False,False,Very Positive,82,629,14.99,14.99,0.0
+888530,Yaga,2021-01-12,True,False,False,Very Positive,81,388,24.99,24.99,0.0
+1134700,Wild Terra 2: New Lands,2022-11-10,True,False,False,Mixed,58,884,39.99,39.99,0.0
+1154840,Shadow Empire,2020-12-03,True,False,False,Very Positive,84,698,39.99,39.99,0.0
+1343400,RuneScape ®,2020-10-14,True,True,False,Very Positive,87,20035,0.0,0.0,0.0
+1518810,Koi Farm,2021-02-26,True,False,True,Overwhelmingly Positive,95,591,2.99,2.99,0.0
+1580790,[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2,2021-06-09,True,False,False,Mostly Positive,75,1000,39.99,39.99,0.0
+1930600,Beautiful Mystic Survivors,2022-10-14,True,False,False,Mostly Positive,72,966,4.99,4.99,0.0
+1983690,Forest Camp Story,2022-11-27,True,False,False,Very Positive,90,55,8.99,8.99,0.0
+1714580,moon: Remix RPG Adventure,2021-12-15,True,True,False,Very Positive,94,135,18.99,18.99,0.0
+702320,March of Empires,2017-12-11,True,False,False,Mixed,66,1297,0.0,0.0,0.0
+1373550,BloodRayne 2: Terminal Cut,2020-11-20,True,False,False,Very Positive,81,563,14.99,14.99,0.0
+209650,Call of Duty®: Advanced Warfare - Gold Edition,2014-11-03,True,False,False,Mixed,61,9495,59.99,59.99,0.0
+1477700,Project Wunderwaffe,2022-10-10,True,False,False,Mixed,63,270,14.99,14.99,0.0
+263860,SPACECOM,2014-09-17,True,True,True,Mixed,63,141,9.99,9.99,0.0
+516110,ToeJam & Earl: Back in the Groove!,2019-02-28,True,True,True,Very Positive,91,611,14.99,14.99,0.0
+1481400,Dagon: by H. P. Lovecraft,2021-09-24,True,False,False,Overwhelmingly Positive,96,8975,0.0,0.0,0.0
+803830,The Snowboard Game,2018-04-24,True,False,False,Very Positive,81,281,14.99,14.99,0.0
+773951,Freeman: Guerrilla Warfare,2019-10-04,True,False,False,Mostly Positive,74,10427,24.99,24.99,0.0
+1484280,Demeo,2022-12-15,True,False,False,Very Positive,92,1188,39.99,39.99,0.0
+15390,Brothers in Arms: Hell's Highway™,2008-10-08,True,False,False,Very Positive,90,1597,9.99,9.99,0.0
+1786790,Magical Girl Celesphonia,2022-05-06,True,False,False,Overwhelmingly Positive,96,1429,19.99,19.99,0.0
+1012880,60 Seconds! Reatomized,2019-07-25,True,True,False,Very Positive,93,9496,9.99,9.99,0.0
+440880,The Count Lucanor,2016-03-03,True,True,True,Overwhelmingly Positive,95,1655,9.99,9.99,0.0
+587000,First Strike: Classic,2017-05-30,True,True,False,Very Positive,85,1251,11.99,11.99,0.0
+1641890,Lust from Beyond: M Edition,2022-02-10,True,False,False,Mostly Positive,74,87,17.99,17.99,0.0
+391000,Farm Frenzy Collection,2015-08-21,True,False,False,Very Positive,95,265,19.99,19.99,0.0

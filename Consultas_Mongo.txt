@@ -1,0 +1,90 @@
+//Consultas MongoDB
+
+//Mostra quantos jogos 
+db.jogos_12_22.aggregate ({$count: "quantos_jogos"})
+db.jogos_12_22.aggregate ({$group: { _id:null, 
+                             contagem : {$count: {} } } } )
+
+//Mostra quantas avaliacoes
+db.avaliacoes_12_22.aggregate ({$count: "quantas_avaliacoes"})
+db.avaliacoes_12_22.aggregate ({$group: { _id:null, 
+                             contagem : {$count: {} } } } )
+
+//Mostra quantos usuarios
+db.usuarios_12_22.aggregate ({$count: "quantos_usuarios"})
+db.usuarios_12_22.aggregate ({$group: { _id:null, 
+                             contagem : {$count: {} } } } )
+
+//Mostra menor e maior rating e media
+db.jogos_12_22.aggregate ({$group: { _id: null,
+                             contagem : {$count: {} },
+                             menor_ratings : {$min : "$feedback_positivo"},
+                             media_ratings : {$avg: "$feedback_positivo"},                 
+                             maior_ratings : {$max : "$feedback_positivo"}
+			     } } )
+
+//Buscar todos os jogos com feedback positivo acima de 90%:
+db.jogos_12_22.find({ feedback_positivo: { $gt: 90 } })
+
+//Buscar todos os jogos com quantidade de avaliações acima de 100 e preço final abaixo de $50:
+db.jogos_12_22.find({ qtd_avaliacoes: { $gt: 100 }, preco_final: { $lt: 50 } })
+
+//Buscar todos os jogos ordenados por preço final em ordem decrescente:
+db.jogos_12_22.find().sort({ preco_final: -1 })
+
+//Buscar os jogos com feedback positivo acima de 80% e preço final entre $20 e $50:
+db.jogos_12_22.find({
+  feedback_positivo: { $gt: 80 },
+  preco_final: { $gte: 20, $lte: 50 }
+})
+
+
+//Buscar os jogos ordenados pela quantidade de avaliações em ordem decrescente e limitar o resultado aos primeiros 10 jogos:
+db.jogos_12_22.find().sort({ qtd_avaliacoes: -1 }).limit(10)
+
+
+
+//Buscar os jogos mais populares com base na média ponderada entre a quantidade de jogos, quantidade de avaliações e feedback positivo, considerando pesos de 0.4, 0.3 e 0.3, respectivamente. Retornar apenas os 5 jogos com as maiores pontuações:
+db.jogos_12_22.aggregate([
+  {
+    $addFields: {
+      pontuacao: {
+        $add: [
+          { $multiply: ["$qtd_jogos", 0.4] },
+          { $multiply: ["$qtd_avaliacoes", 0.3] },
+          { $multiply: ["$feedback_positivo", 0.3] }
+        ]
+      }
+    }
+  },
+  { $sort: { pontuacao: -1 } },
+  { $limit: 5 }
+])
+
+
+
+//Calcular a média de feedback positivo para jogos de cada plataforma:
+db.jogos_12_22.aggregate([
+  {
+    $group: {
+      _id: "$plataforma",
+      media_feedback_positivo: { $avg: "$feedback_positivo" }
+    }
+  }
+])
+
+//Calcular a contagem de jogos por faixa de preço:
+db.jogos_12_22.aggregate([
+  {
+    $bucket: {
+      groupBy: "$preco_final",
+      boundaries: [0, 10, 20, 30, 40],
+      default: "Outros",
+      output: {
+        total_jogos: { $sum: 1 }
+      }
+    }
+  }
+])
+
+

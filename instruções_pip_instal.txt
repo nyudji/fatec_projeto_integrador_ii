@@ -1,0 +1,19 @@
+#Precisa criar maquina virtual no VSCODE e instalar os pip
+
+#Todos pip install
+pip install pandas
+pip install numpy
+pip install scipy
+pip install -U scikit-learn
+pip install -U matplotlib
+pip install mlxtend 
+pip install neo4j
+pip install networkx[default]
+
+*Para criar maquina virtual :
+Ir no terminal
+
+Digitar
+python -m venv (LOCALDOARQUIVO/venv)
+
+video: https://www.youtube.com/watch?v=ThU13tikHQw, caso ocorra duvida como fazer a maquina virtual
